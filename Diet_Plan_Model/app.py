@@ -24,7 +24,7 @@ from flask_login import (
 from werkzeug.security import generate_password_hash, check_password_hash
 
 # Add the workout model path to sys.path for imports (keeps your original intent)
-sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'Work Out Model'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'Work_Out_Model'))
 
 # ---- Flask app ----
 app = Flask(__name__, template_folder='templates', static_folder='static')

@@ -1,0 +1,23 @@
+# NutriFit Pakistan — unified requirements (Diet + Workout + Auth)
+# Install from repo root: pip install -r requirements.txt
+
+# Core & auth (main app in Diet_Plan_Model)
+Flask>=2.3.0
+Flask-CORS>=4.0.0
+Flask-Login>=0.6.3
+Flask-SQLAlchemy>=3.1.0
+PyMySQL>=1.1.0
+
+# Diet & ML
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+joblib>=1.3.0
+
+# Workout module (versions aligned with Work_Out_Model)
+werkzeug>=3.0.0
+jinja2>=3.1.0
+numpy>=1.26.0
+pandas>=2.2.0
+scikit-learn>=1.4.0
+joblib>=1.4.0
