@@ -1,0 +1,866 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your NutriFit Meal Plan</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+    <style>
+        :root {
+            --primary: #2ecc71;
+            --primary-dark: #27ae60;
+            --secondary: #3498db;
+            --text-dark: #2c3e50;
+            --text-light: #7f8c8d;
+            --background: #f8fafc;
+            --card-bg: #ffffff;
+            --success: #2ecc71;
+            --warning: #f39c12;
+            --danger: #e74c3c;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://images.unsplash.com/photo-1490645935967-10de6ba17061') no-repeat center center/cover;
+            min-height: 100vh;
+            padding: 2rem 1rem;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        .logo {
+            font-size: 2.5rem;
+            font-weight: 600;
+            color: var(--primary);
+            margin-bottom: 0.5rem;
+        }
+
+        .subtitle {
+            color: var(--text-light);
+            font-size: 1.1rem;
+            margin-bottom: 2rem;
+        }
+
+        .summary-cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 0.75rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .summary-card {
+            background: var(--card-bg);
+            border-radius: 10px;
+            padding: 1rem;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            border-left: 4px solid var(--primary);
+        }
+
+        .summary-card h3 {
+            color: var(--text-dark);
+            margin-bottom: 0.25rem;
+            font-size: 1rem;
+        }
+
+        .summary-card .value {
+            font-size: 1.6rem;
+            font-weight: 600;
+            color: var(--primary);
+        }
+
+        .summary-card .unit {
+            color: var(--text-light);
+            font-size: 0.9rem;
+        }
+
+        .charts-section {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .chart-container {
+            background: var(--card-bg);
+            border-radius: 12px;
+            padding: 1rem;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            height: 300px;
+            position: relative;
+        }
+
+        .chart-container canvas {
+            max-height: 250px !important;
+        }
+
+        .chart-title {
+            color: var(--text-dark);
+            margin-bottom: 0.75rem;
+            font-size: 1.1rem;
+            font-weight: 600;
+            text-align: center;
+        }
+
+        .meal-plan {
+            background: var(--card-bg);
+            border-radius: 12px;
+            padding: 1.5rem;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            margin-bottom: 2rem;
+        }
+
+        .meal-plan h2 {
+            color: var(--text-dark);
+            margin-bottom: 1.5rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-size: 1.4rem;
+            text-align: center;
+            justify-content: center;
+        }
+
+        .meal-plan h2::before {
+            content: '🍽️';
+        }
+
+        .day-section {
+            margin-bottom: 2rem;
+            border: 2px solid rgba(46, 204, 113, 0.1);
+            border-radius: 12px;
+            padding: 1.5rem;
+            background: rgba(46, 204, 113, 0.02);
+        }
+
+        .day-title {
+            color: var(--primary);
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .day-title::before {
+            content: '📅';
+        }
+
+        .day-summary {
+            display: flex;
+            gap: 1rem;
+            margin-bottom: 1rem;
+            padding: 0.5rem;
+            background: rgba(46, 204, 113, 0.05);
+            border-radius: 8px;
+            font-size: 0.9rem;
+        }
+
+        .day-calories {
+            font-weight: 600;
+            color: var(--primary);
+        }
+
+        .day-protein {
+            font-weight: 500;
+            color: var(--text-dark);
+        }
+
+        .meal {
+            background: rgba(46, 204, 113, 0.05);
+            border-radius: 10px;
+            padding: 1rem;
+            margin-bottom: 0.75rem;
+            border: 1px solid rgba(46, 204, 113, 0.1);
+            position: relative;
+        }
+
+        .meal:last-child {
+            margin-bottom: 0;
+        }
+
+        .meal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1rem;
+        }
+
+        .meal-name {
+            font-weight: 600;
+            color: var(--text-dark);
+            font-size: 1.1rem;
+        }
+
+        .meal-type-badge {
+            background: var(--primary);
+            color: white;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 500;
+        }
+
+        .swap-btn {
+            background: var(--secondary);
+            color: white;
+            border: none;
+            padding: 0.5rem 1rem;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            transition: all 0.3s ease;
+        }
+
+        .swap-btn:hover {
+            background: #2980b9;
+            transform: translateY(-1px);
+        }
+
+        .macros {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+            gap: 0.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .macro-item {
+            background: var(--card-bg);
+            padding: 0.75rem;
+            border-radius: 8px;
+            text-align: center;
+            border: 1px solid #e2e8f0;
+        }
+
+        .macro-label {
+            font-size: 0.8rem;
+            color: var(--text-light);
+            margin-bottom: 0.25rem;
+        }
+
+        .macro-value {
+            font-weight: 600;
+            color: var(--text-dark);
+        }
+
+        .macro-calories { color: var(--danger); }
+        .macro-protein { color: var(--primary); }
+        .macro-carbs { color: var(--warning); }
+        .macro-fat { color: var(--secondary); }
+
+        .quantity-info {
+            color: var(--text-light);
+            font-size: 0.9rem;
+        }
+
+        .alternatives-modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.5);
+            z-index: 1000;
+        }
+
+        .modal-content {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: var(--card-bg);
+            border-radius: 12px;
+            padding: 2rem;
+            max-width: 600px;
+            width: 90%;
+            max-height: 80vh;
+            overflow-y: auto;
+        }
+
+        .modal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1.5rem;
+        }
+
+        .modal-title {
+            color: var(--text-dark);
+            font-size: 1.3rem;
+            font-weight: 600;
+        }
+
+        .close-btn {
+            background: none;
+            border: none;
+            font-size: 1.5rem;
+            cursor: pointer;
+            color: var(--text-light);
+        }
+
+        .alternative-meal {
+            background: rgba(46, 204, 113, 0.05);
+            border-radius: 8px;
+            padding: 1rem;
+            margin-bottom: 1rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            border: 2px solid transparent;
+        }
+
+        .alternative-meal:hover {
+            border-color: var(--primary);
+            background: rgba(46, 204, 113, 0.1);
+        }
+
+        .alternative-name {
+            font-weight: 600;
+            color: var(--text-dark);
+            margin-bottom: 0.5rem;
+        }
+
+        .alternative-macros {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+
+        .alternative-macro {
+            background: var(--card-bg);
+            padding: 0.25rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            color: var(--text-dark);
+        }
+
+        .back-button {
+            display: inline-block;
+            background: var(--primary);
+            color: white;
+            text-decoration: none;
+            padding: 0.75rem 1.5rem;
+            border-radius: 8px;
+            margin-top: 2rem;
+            transition: all 0.3s ease;
+        }
+
+        .back-button:hover {
+            background: var(--primary-dark);
+            transform: translateY(-1px);
+        }
+
+        .error-message {
+            background: #fee2e2;
+            color: #dc2626;
+            padding: 1rem;
+            border-radius: 8px;
+            text-align: center;
+            margin: 2rem 0;
+        }
+
+        .loading {
+            display: none;
+            text-align: center;
+            padding: 2rem;
+        }
+
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid var(--primary);
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 1rem;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        @media (max-width: 768px) {
+            .charts-section {
+                grid-template-columns: 1fr;
+                gap: 1rem;
+            }
+            
+            .chart-container {
+                height: 250px;
+                padding: 0.75rem;
+            }
+            
+            .chart-container canvas {
+                max-height: 200px !important;
+            }
+            
+            .summary-cards {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            
+            .meal-header {
+                flex-direction: column;
+                gap: 0.5rem;
+                align-items: flex-start;
+            }
+            
+            .macros {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="logo">NutriFit Pakistan</div>
+            <div class="subtitle">Your Personalized AI-Driven Meal Plan</div>
+            <div style="text-align: center; margin-top: 1rem;">
+                <a href="/workout/" class="workout-btn" style="display: inline-block; background: #3498db; color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: 600; transition: all 0.3s ease;">
+                    Generate Workout Plan 💪
+                </a>
+            </div>
+        </div>
+
+        {% if weekly_plan %}
+            <!-- Summary Cards -->
+            <div class="summary-cards">
+                <div class="summary-card">
+                    <h3>Weekly Calories</h3>
+                    <div class="value">{{ "%.0f"|format(totals.calories) }}</div>
+                    <div class="unit">kcal</div>
+                </div>
+                <div class="summary-card">
+                    <h3>Avg Daily Calories</h3>
+                    <div class="value">{{ "%.0f"|format(totals.calories / 7) }}</div>
+                    <div class="unit">kcal/day</div>
+                </div>
+                <div class="summary-card">
+                    <h3>Weekly Protein</h3>
+                    <div class="value">{{ "%.1f"|format(totals.protein) }}</div>
+                    <div class="unit">grams</div>
+                </div>
+                <div class="summary-card">
+                    <h3>Weekly Carbs</h3>
+                    <div class="value">{{ "%.1f"|format(totals.carbs) }}</div>
+                    <div class="unit">grams</div>
+                </div>
+            </div>
+
+            <!-- Charts Section -->
+            <div class="charts-section">
+                <div class="chart-container">
+                    <h3 class="chart-title">Weekly Macronutrient Distribution</h3>
+                    <canvas id="macroChart" width="400" height="300"></canvas>
+                </div>
+                <div class="chart-container">
+                    <h3 class="chart-title">Weekly Progress Projection</h3>
+                    <canvas id="progressChart" width="400" height="300"></canvas>
+                </div>
+            </div>
+
+            <!-- Weekly Meal Plan -->
+            <div class="meal-plan">
+                <h2>7-Day Meal Plan</h2>
+                {% for day_data in weekly_plan %}
+                    <div class="day-section">
+                        <h3 class="day-title">{{ day_data.day }} (Day {{ day_data.day_number }})</h3>
+                        <div class="day-summary">
+                            <span class="day-calories">Total: {{ day_data.meals|sum(attribute='calories')|round|int }} kcal</span>
+                            <span class="day-protein">Protein: {{ day_data.meals|sum(attribute='protein')|round(1) }}g</span>
+                        </div>
+                        
+                        {% for meal in day_data.meals %}
+                            {% set meal_types = ['Breakfast', 'Lunch', 'Dinner', 'Snack'] %}
+                            {% set current_meal_type = meal_types[loop.index0] if loop.index0 < 4 else 'Snack' %}
+                            <div class="meal" data-meal-name="{{ meal.name }}" data-meal-type="{{ current_meal_type }}">
+                                <div class="meal-header">
+                                    <div class="meal-name">{{ meal.name }}</div>
+                                    <div style="display: flex; gap: 0.5rem; align-items: center;">
+                                        <span class="meal-type-badge">{{ current_meal_type }}</span>
+                                        <button class="swap-btn" data-meal-name="{{ meal.name }}" data-meal-type="{{ current_meal_type }}" onclick="showAlternativesFromButton(this)">
+                                            🔄 Swap
+                                        </button>
+                                    </div>
+                                </div>
+                                
+                                <div class="macros">
+                                    <div class="macro-item">
+                                        <div class="macro-label">Calories</div>
+                                        <div class="macro-value macro-calories">{{ meal.calories }}</div>
+                                    </div>
+                                    <div class="macro-item">
+                                        <div class="macro-label">Protein</div>
+                                        <div class="macro-value macro-protein">{{ meal.protein }}g</div>
+                                    </div>
+                                    <div class="macro-item">
+                                        <div class="macro-label">Carbs</div>
+                                        <div class="macro-value macro-carbs">{{ meal.carbs }}g</div>
+                                    </div>
+                                    <div class="macro-item">
+                                        <div class="macro-label">Fat</div>
+                                        <div class="macro-value macro-fat">{{ meal.fat }}g</div>
+                                    </div>
+                                </div>
+                                
+                                <div class="quantity-info">
+                                    <strong>Quantity:</strong> {{ meal.quantity }}g
+                                  {% if meal.sugar|default(0) > 0 %}
+
+                                        | <strong>Sugar:</strong> {{ meal.sugar }}g
+                                    {% endif %}
+                                   {% if meal.fiber|default(0) > 0 %}
+
+                                        | <strong>Fiber:</strong> {{ meal.fiber }}g
+                                    {% endif %}
+                                </div>
+                            </div>
+                        {% endfor %}
+                    </div>
+                {% endfor %}
+            </div>
+
+            <!-- Loading indicator -->
+            <div class="loading" id="loading">
+                <div class="spinner"></div>
+                <p>Finding alternatives...</p>
+            </div>
+
+            <!-- Alternatives Modal -->
+            <div class="alternatives-modal" id="alternativesModal">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h3 class="modal-title">Alternative Meals</h3>
+                        <button class="close-btn" onclick="closeAlternatives()">×</button>
+                    </div>
+                    <div id="alternativesList"></div>
+                </div>
+            </div>
+
+        {% else %}
+            <div class="error-message">
+                ❌ No meal plan was generated.
+            </div>
+        {% endif %}
+
+        <div style="text-align: center;">
+            <a href="/" class="back-button">← Back to Generator</a>
+        </div>
+    </div>
+
+    <!-- Template data -->
+    <script type="application/json" id="template-data">
+    {
+        "userGoal": {{ user_data.goal|default(0) }},
+        "macroTotals": {
+            "protein": {{ totals.protein|default(0) }},
+            "carbs": {{ totals.carbs|default(0) }},
+            "fat": {{ totals.fat|default(0) }}
+        },
+        "progressData": {% if user_data.goal == 0 %}[-0.5, -1.0, -1.5, -2.0]{% elif user_data.goal == 1 %}[0.2, 0.5, 0.8, 1.0]{% else %}[0.0, 0.0, 0.0, 0.0]{% endif %},
+        "progressColors": {
+            "border": "{% if user_data.goal == 0 %}#e74c3c{% elif user_data.goal == 1 %}#2ecc71{% else %}#3498db{% endif %}",
+            "background": "{% if user_data.goal == 0 %}rgba(231, 76, 60, 0.1){% elif user_data.goal == 1 %}rgba(46, 204, 113, 0.1){% else %}rgba(52, 152, 219, 0.1){% endif %}"
+        }
+    }
+    </script>
+
+    <script>
+        // Get template data
+        const templateData = JSON.parse(document.getElementById('template-data').textContent);
+
+        // Chart.js configuration
+        const macroData = {
+            labels: ['Protein', 'Carbohydrates', 'Fat'],
+            datasets: [{
+                data: [
+                    templateData.macroTotals.protein,
+                    templateData.macroTotals.carbs,
+                    templateData.macroTotals.fat
+                ],
+                backgroundColor: [
+                    '#2ecc71',
+                    '#f39c12', 
+                    '#3498db'
+                ],
+                borderWidth: 2,
+                borderColor: '#fff'
+            }]
+        };
+
+        const macroConfig = {
+            type: 'doughnut',
+            data: macroData,
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        position: 'bottom',
+                        labels: {
+                            padding: 15,
+                            font: {
+                                family: 'Poppins',
+                                size: 12
+                            },
+                            usePointStyle: true,
+                            pointStyle: 'circle'
+                        }
+                    }
+                },
+                elements: {
+                    arc: {
+                        borderWidth: 2
+                    }
+                }
+            }
+        };
+
+        // Weekly progress projection
+        const progressData = {
+            labels: ['Week 1', 'Week 2', 'Week 3', 'Week 4'],
+            datasets: [{
+                label: 'Projected Weight Change (kg)',
+                data: templateData.progressData,
+                borderColor: templateData.progressColors.border,
+                backgroundColor: templateData.progressColors.background,
+                fill: true,
+                tension: 0.4
+            }]
+        };
+
+        const progressConfig = {
+            type: 'line',
+            data: progressData,
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    y: {
+                        beginAtZero: false,
+                        grid: {
+                            color: 'rgba(0,0,0,0.1)'
+                        },
+                        title: {
+                            display: true,
+                            text: 'Weight Change (kg)',
+                            font: {
+                                family: 'Poppins',
+                                size: 12
+                            }
+                        },
+                        ticks: {
+                            font: {
+                                family: 'Poppins',
+                                size: 11
+                            }
+                        }
+                    },
+                    x: {
+                        grid: {
+                            color: 'rgba(0,0,0,0.1)'
+                        },
+                        title: {
+                            display: true,
+                            text: 'Time',
+                            font: {
+                                family: 'Poppins',
+                                size: 12
+                            }
+                        },
+                        ticks: {
+                            font: {
+                                family: 'Poppins',
+                                size: 11
+                            }
+                        }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        labels: {
+                            font: {
+                                family: 'Poppins',
+                                size: 12
+                            }
+                        }
+                    }
+                },
+                elements: {
+                    point: {
+                        radius: 4,
+                        hoverRadius: 6
+                    },
+                    line: {
+                        borderWidth: 3
+                    }
+                }
+            }
+        };
+
+        // Initialize charts
+        document.addEventListener('DOMContentLoaded', function() {
+            const macroCtx = document.getElementById('macroChart').getContext('2d');
+            new Chart(macroCtx, macroConfig);
+
+            const progressCtx = document.getElementById('progressChart').getContext('2d');
+            new Chart(progressCtx, progressConfig);
+        });
+
+        // Meal swapping functionality
+        function showAlternativesFromButton(button) {
+            const mealName = button.getAttribute('data-meal-name');
+            const mealType = button.getAttribute('data-meal-type');
+            showAlternatives(mealName, mealType);
+        }
+
+        async function showAlternatives(mealName, mealType) {
+            console.log('Requesting alternatives for:', mealName, 'Type:', mealType);
+            document.getElementById('loading').style.display = 'block';
+            document.getElementById('alternativesModal').style.display = 'block';
+
+            try {
+                const requestData = {
+                    current_meal_name: mealName,
+                    goal: templateData.userGoal,
+                    meal_type: mealType
+                };
+                console.log('Sending request:', requestData);
+
+                const response = await fetch('/swap_meal', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(requestData)
+                });
+
+                const data = await response.json();
+                document.getElementById('loading').style.display = 'none';
+
+                if (data.error) {
+                    document.getElementById('alternativesList').innerHTML = 
+                        `<div class="error-message">${data.error}</div>`;
+                    return;
+                }
+
+                let alternativesHtml = '';
+                data.alternatives.forEach(alternative => {
+                    alternativesHtml += `
+                        <div class="alternative-meal" onclick="swapMeal('${alternative.name}', '${mealName}', '${mealType}')">
+                            <div class="alternative-name">${alternative.name}</div>
+                            <div class="alternative-macros">
+                                <span class="alternative-macro">🔥 ${alternative.calories} kcal</span>
+                                <span class="alternative-macro">💪 ${alternative.protein}g protein</span>
+                                <span class="alternative-macro">🍚 ${alternative.carbs}g carbs</span>
+                                <span class="alternative-macro">🥑 ${alternative.fat}g fat</span>
+                            </div>
+                            <div style="margin-top: 0.5rem; color: #7f8c8d; font-size: 0.9rem;">
+                                Quantity: ${alternative.quantity}g
+                            </div>
+                        </div>
+                    `;
+                });
+
+                document.getElementById('alternativesList').innerHTML = alternativesHtml;
+
+            } catch (error) {
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('alternativesList').innerHTML = 
+                    `<div class="error-message">Error loading alternatives: ${error.message}</div>`;
+            }
+        }
+
+        function closeAlternatives() {
+            document.getElementById('alternativesModal').style.display = 'none';
+            document.getElementById('alternativesList').innerHTML = '';
+        }
+
+        async function swapMeal(newMealName, oldMealName, mealType) {
+            // Find the meal element
+            const mealElement = document.querySelector(`[data-meal-name="${oldMealName}"]`);
+            if (!mealElement) return;
+
+            // Update the meal name
+            const mealNameElement = mealElement.querySelector('.meal-name');
+            mealNameElement.textContent = newMealName;
+            mealElement.setAttribute('data-meal-name', newMealName);
+
+            // Get detailed meal information
+            try {
+                const response = await fetch('/get_meal_details', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        meal_name: newMealName,
+                        quantity: 100 // Default quantity, will be adjusted based on calories
+                    })
+                });
+
+                const data = await response.json();
+                if (data.error) {
+                    alert('Error getting meal details: ' + data.error);
+                    return;
+                }
+
+                // Update macro values
+                const nutrition = data.nutritional_breakdown;
+                const macros = mealElement.querySelectorAll('.macro-value');
+                macros[0].textContent = nutrition.calories; // Calories
+                macros[1].textContent = nutrition.protein_g + 'g'; // Protein
+                macros[2].textContent = nutrition.carbohydrates_g + 'g'; // Carbs
+                macros[3].textContent = nutrition.fat_g + 'g'; // Fat
+
+                // Update quantity info
+                const quantityInfo = mealElement.querySelector('.quantity-info');
+                quantityInfo.innerHTML = `
+                    <strong>Quantity:</strong> ${data.quantity_grams}g
+                    ${nutrition.sugars_g > 0 ? `| <strong>Sugar:</strong> ${nutrition.sugars_g}g` : ''}
+                    ${nutrition.fiber_g > 0 ? `| <strong>Fiber:</strong> ${nutrition.fiber_g}g` : ''}
+                `;
+
+                // Close modal
+                closeAlternatives();
+
+                // Show success message
+                alert('Meal swapped successfully!');
+
+                // Update charts (reload page for simplicity)
+                setTimeout(() => {
+                    location.reload();
+                }, 1000);
+
+            } catch (error) {
+                alert('Error swapping meal: ' + error.message);
+            }
+        }
+
+        // Close modal when clicking outside
+        document.getElementById('alternativesModal').addEventListener('click', function(e) {
+            if (e.target === this) {
+                closeAlternatives();
+            }
+        });
+    </script>
+</body>
+</html>

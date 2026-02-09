@@ -1,0 +1,70 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AI Workout Planner</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/workout/static/css/styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <header>
+    <h1>NutriFit Pakistan</h1>
+    <p>Your Personalized AI-Driven Workout Plan</p>
+  </header>
+  <div class="container">
+    <div class="card">
+      <form id="user-form" class="grid">
+        <div class="input-group" data-icon="👤">
+          <label>Age</label>
+          <input name="Age" type="number" value="{{ user_data.age if user_data else '' }}" required>
+        </div>
+        <div class="input-group" data-icon="⚧️">
+          <label>Gender</label>
+          <select name="Gender" required>
+            <option value="Male" {% if user_data and user_data.gender == 0 %}selected{% endif %}>Male</option>
+            <option value="Female" {% if user_data and user_data.gender == 1 %}selected{% endif %}>Female</option>
+            <option value="Other" {% if not user_data %}selected{% endif %}>Other</option>
+          </select>
+        </div>
+        <div class="input-group" data-icon="⚖️">
+          <label>Weight (kg)</label>
+          <input name="Weight" type="number" step="0.1" value="{{ user_data.weight if user_data else '' }}" required>
+        </div>
+        <div class="input-group" data-icon="📏">
+          <label>Height (cm)</label>
+          <input name="Height" type="number" step="0.1" value="{{ user_data.height if user_data else '' }}" required>
+        </div>
+        <div class="input-group" data-icon="🎯">
+          <label>Goal</label>
+          <select name="Goal" required>
+            <option value="Fat Loss" {% if user_data and user_data.goal == 0 %}selected{% endif %}>Fat Loss</option>
+            <option value="Muscle Gain" {% if user_data and user_data.goal == 1 %}selected{% endif %}>Muscle Gain</option>
+            <option value="Maintain" {% if user_data and user_data.goal == 2 %}selected{% endif %}>Maintain</option>
+          </select>
+        </div>
+        <div class="input-group" data-icon="🏋️">
+          <label>Experience Level</label>
+          <select name="Experience Level" required>
+            <option>Beginner</option>
+            <option>Intermediate</option>
+          </select>
+        </div>
+        <div class="input-group" data-icon="🏠">
+          <label>Workout Preference</label>
+          <select name="Workout Preference" required>
+            <option>Home</option>
+            <option>Gym</option>
+          </select>
+        </div>
+        <div style="grid-column:1/-1">
+          <button type="submit">Generate Plan</button>
+        </div>
+      </form>
+    </div>
+    <div id="result" class="card"></div>
+  </div>
+  <script src="/workout/static/js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,1374 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NutriFit Pakistan - Your Fitness Journey Starts Here</title>
+    <style>
+        /* Reset and Base Styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            color: #333;
+            line-height: 1.6;
+            background-color: #f8f9fa;
+        }
+
+        /* Utility Classes */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 10px 25px;
+            border-radius: 4px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+
+        .btn-primary {
+            background-color: #4CAF50;
+            color: white;
+            border: 2px solid #4CAF50;
+        }
+
+        .btn-primary:hover {
+            background-color: #45a049;
+            border-color: #45a049;
+        }
+
+        .btn-secondary {
+            background-color: transparent;
+            color: #333;
+            border: 2px solid #4CAF50;
+        }
+
+        .btn-secondary:hover {
+            background-color: #4CAF50;
+            color: white;
+        }
+
+        .btn-auth {
+            padding: 8px 18px;
+            margin-left: 10px;
+        }
+
+        .section {
+            padding: 80px 0;
+        }
+
+        .section-title {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+            position: relative;
+            display: inline-block;
+            color: #333;
+        }
+
+        .section-title::after {
+            content: '';
+            position: absolute;
+            left: 0;
+            bottom: -10px;
+            height: 4px;
+            width: 60px;
+            background-color: #4CAF50;
+        }
+
+        /* Header Styles */
+        header {
+            background-color: white;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+            padding: 15px 0;
+            transition: all 0.3s ease;
+        }
+
+        header.scrolled {
+            padding: 10px 0;
+        }
+
+        .header-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+        }
+
+        .logo img {
+            height: 40px;
+            margin-right: 10px;
+        }
+
+        .logo h1 {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: #333;
+        }
+
+        .logo span {
+            color: #4CAF50;
+        }
+
+        .nav-links {
+            display: flex;
+            align-items: center;
+        }
+
+        .nav-links ul {
+            display: flex;
+            list-style: none;
+        }
+
+        .nav-links li {
+            margin: 0 15px;
+        }
+
+        .nav-links a {
+            text-decoration: none;
+            color: #333;
+            font-weight: 500;
+            transition: color 0.3s ease;
+        }
+
+        .nav-links a:hover {
+            color: #4CAF50;
+        }
+
+        .auth-buttons {
+            display: flex;
+            margin-left: 20px;
+        }
+
+        .menu-toggle {
+            display: none;
+            flex-direction: column;
+            cursor: pointer;
+        }
+
+        .bar {
+            width: 25px;
+            height: 3px;
+            background-color: #333;
+            margin: 3px 0;
+            transition: all 0.3s ease;
+        }
+
+        /* Hero Section */
+        #hero {
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://images.unsplash.com/photo-1517836357463-d25dfeac3438') no-repeat center center/cover;
+            color: white;
+            margin-top: 0;
+            padding-top: 0;
+        }
+
+        .hero-content {
+            max-width: 600px;
+        }
+
+        .hero-content h1 {
+            font-size: 3.5rem;
+            margin-bottom: 20px;
+        }
+
+        .hero-content p {
+            font-size: 1.2rem;
+            margin-bottom: 30px;
+        }
+
+        .hero-buttons .btn {
+            margin-right: 15px;
+        }
+
+        /* BMI Calculator Section */
+        #bmi-calculator {
+            background-color: #fff;
+            padding: 60px 0;
+        }
+
+        .calculator-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            gap: 30px;
+            margin-top: 40px;
+        }
+
+        .calculator-form {
+            flex: 1;
+            min-width: 300px;
+            background-color: #f8f9fa;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+        }
+
+        .calculator-result {
+            flex: 1;
+            min-width: 300px;
+            background-color: #f8f9fa;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 500;
+        }
+
+        .form-control {
+            width: 100%;
+            padding: 12px 15px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 1rem;
+        }
+
+        .radio-group {
+            display: flex;
+            gap: 20px;
+        }
+
+        .radio-option {
+            display: flex;
+            align-items: center;
+        }
+
+        .radio-option input {
+            margin-right: 5px;
+        }
+
+        .result-display {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .result-value {
+            font-size: 3rem;
+            font-weight: 700;
+            color: #4CAF50;
+            margin-bottom: 10px;
+        }
+
+        .result-label {
+            font-size: 1.2rem;
+            color: #666;
+        }
+
+        .result-category {
+            font-size: 1.5rem;
+            font-weight: 600;
+            margin: 20px 0;
+            text-align: center;
+        }
+
+        .result-info {
+            background-color: #e8f5e9;
+            padding: 15px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+
+        /* BMI Meter Styles */
+        .bmi-meter {
+            width: 100%;
+            height: 20px;
+            background: linear-gradient(to right, #3498db, #2ecc71, #f1c40f, #e74c3c);
+            border-radius: 10px;
+            margin: 20px 0;
+            position: relative;
+        }
+
+        .bmi-indicator {
+            position: absolute;
+            font-size: 24px;
+            top: -20px;
+            left: 0;
+            transition: left 0.5s ease;
+            transform: translateX(-50%);
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+        }
+
+        .bmi-labels {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 15px;
+            font-size: 0.9rem;
+            color: #666;
+        }
+
+        .bmi-labels span {
+            text-align: center;
+            flex: 1;
+        }
+
+        /* About Us Section */
+        #about {
+            background-color: #f8f9fa;
+        }
+
+        .about-content {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 40px;
+        }
+
+        .about-text {
+            flex: 1;
+        }
+
+        .about-image {
+            flex: 1;
+            text-align: center;
+        }
+
+        .about-image img {
+            max-width: 100%;
+            border-radius: 8px;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Features Section */
+        #features {
+            background-color: #fff;
+        }
+
+        .features-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 30px;
+            margin-top: 40px;
+        }
+
+        .feature-card {
+            background-color: #f8f9fa;
+            border-radius: 10px;
+            padding: 30px;
+            text-align: center;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+            transition: transform 0.3s ease;
+        }
+
+        .feature-card:hover {
+            transform: translateY(-10px);
+        }
+
+        .feature-icon {
+            font-size: 2.5rem;
+            color: #4CAF50;
+            margin-bottom: 20px;
+        }
+
+        .feature-title {
+            font-size: 1.5rem;
+            margin-bottom: 15px;
+        }
+
+        /* Plans Section */
+        #plans {
+            background-color: #f8f9fa;
+        }
+
+        .plans-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin-top: 40px;
+        }
+
+        .plan-card {
+            background-color: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease;
+        }
+
+        .plan-card:hover {
+            transform: translateY(-10px);
+        }
+
+        .plan-header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .plan-content {
+            padding: 20px;
+        }
+
+        .plan-price {
+            font-size: 2rem;
+            font-weight: 700;
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        .plan-features {
+            list-style: none;
+            margin-bottom: 20px;
+        }
+
+        .plan-features li {
+            padding: 10px 0;
+            border-bottom: 1px solid #eee;
+        }
+
+        .plan-features li:last-child {
+            border-bottom: none;
+        }
+
+        .plan-button {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        /* Contact Section */
+        #contact {
+            background-color: #fff;
+        }
+
+        .contact-container {
+            display: flex;
+            gap: 40px;
+        }
+
+        .contact-info {
+            flex: 1;
+        }
+
+        .contact-info-item {
+            display: flex;
+            align-items: flex-start;
+            margin-bottom: 30px;
+        }
+
+        .contact-icon {
+            font-size: 1.5rem;
+            color: #4CAF50;
+            margin-right: 15px;
+        }
+
+        .contact-form {
+            flex: 1;
+        }
+
+        textarea.form-control {
+            height: 150px;
+            resize: none;
+        }
+
+        /* Footer */
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 60px 0 30px;
+        }
+
+        .footer-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 40px;
+        }
+
+        .footer-logo {
+            font-size: 1.8rem;
+            font-weight: 700;
+            margin-bottom: 20px;
+        }
+
+        .footer-logo span {
+            color: #4CAF50;
+        }
+
+        .footer-about p {
+            margin-bottom: 20px;
+        }
+
+        .footer-title {
+            font-size: 1.2rem;
+            margin-bottom: 20px;
+            position: relative;
+            display: inline-block;
+        }
+
+        .footer-title::after {
+            content: '';
+            position: absolute;
+            left: 0;
+            bottom: -10px;
+            height: 2px;
+            width: 30px;
+            background-color: #4CAF50;
+        }
+
+        .footer-links {
+            list-style: none;
+        }
+
+        .footer-links li {
+            margin-bottom: 10px;
+        }
+
+        .footer-links a {
+            color: #ccc;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .footer-links a:hover {
+            color: #4CAF50;
+        }
+
+        .social-links {
+            display: flex;
+            margin-top: 20px;
+        }
+
+        .social-link {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 40px;
+            height: 40px;
+            background-color: rgba(255, 255, 255, 0.1);
+            border-radius: 50%;
+            margin-right: 10px;
+            color: white;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+        }
+
+        .social-link:hover {
+            background-color: #4CAF50;
+        }
+
+        .copyright {
+            text-align: center;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        /* Login/Signup Modal */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 2000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(0, 0, 0, 0.5);
+        }
+
+        .modal-content {
+            background-color: #fefefe;
+            margin: 5% auto;
+            padding: 20px;
+            border-radius: 10px;
+            width: 80%;
+            max-width: 500px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+            position: relative;
+        }
+
+        .close {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        .close:hover {
+            color: black;
+        }
+
+        .modal-header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .modal-body {
+            padding: 20px 0;
+        }
+
+        .modal-footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    color: #666;
+}
+
+
+        .tab-container {
+            width: 100%;
+            margin-bottom: 20px;
+        }
+
+        .tab-buttons {
+            display: flex;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .tab-button {
+            padding: 10px 20px;
+            background-color: #f1f1f1;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+            flex: 1;
+            text-align: center;
+        }
+
+        .tab-button.active {
+            background-color: #4CAF50;
+            color: white;
+        }
+
+        .tab-content {
+            display: none;
+            padding: 20px 0;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 992px) {
+            .about-content {
+                flex-direction: column;
+            }
+
+            .contact-container {
+                flex-direction: column;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .menu-toggle {
+                display: flex;
+            }
+
+            .nav-links {
+                position: fixed;
+                top: 70px;
+                left: -100%;
+                width: 100%;
+                height: calc(100vh - 70px);
+                background-color: white;
+                flex-direction: column;
+                align-items: center;
+                justify-content: flex-start;
+                padding-top: 50px;
+                transition: left 0.3s ease;
+            }
+
+            .nav-links.active {
+                left: 0;
+            }
+
+            .nav-links ul {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .nav-links li {
+                margin: 15px 0;
+            }
+
+            .auth-buttons {
+                margin: 20px 0 0;
+                flex-direction: column;
+                width: 80%;
+            }
+
+            .auth-buttons .btn-auth {
+                margin: 10px 0;
+                width: 100%;
+                text-align: center;
+            }
+
+            .hero-content h1 {
+                font-size: 2.5rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .section-title {
+                font-size: 2rem;
+            }
+
+            .hero-content h1 {
+                font-size: 2rem;
+            }
+
+            .btn {
+                padding: 8px 16px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header id="header">
+        <div class="container header-container">
+            <div class="logo">
+                <h1>Nutri<span>Fit</span> Pakistan</h1>
+            </div>
+            <div class="menu-toggle">
+                <div class="bar"></div>
+                <div class="bar"></div>
+                <div class="bar"></div>
+            </div>
+            <div class="nav-links">
+                <ul>
+                    <li><a href="#bmi-calculator" class="scroll-link">BMI Calculator</a></li>
+                    <li><a href="#about" class="scroll-link">About Us</a></li>
+                    <li><a href="#features" class="scroll-link">Features</a></li>
+                    <li><a href="#plans" class="scroll-link">Plans</a></li>
+                    <li><a href="#contact" class="scroll-link">Contact</a></li>
+                </ul>
+                <div class="auth-buttons">
+                    <a href="#" class="btn btn-secondary btn-auth" id="loginBtn">Login</a>
+                    <a href="#" class="btn btn-primary btn-auth" id="signupBtn">Sign Up</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="hero">
+        <div class="container">
+            <div class="hero-content">
+                <h1>Your Fitness Journey Starts Here</h1>
+                <p>Achieve your health and fitness goals with Pakistan's premier nutrition and fitness platform. Personalized plans, expert guidance, and a supportive community.</p>
+                <div class="hero-buttons">
+                    <a href="#bmi-calculator" class="btn btn-primary scroll-link">Calculate BMI</a>
+                    <a href="#plans" class="btn btn-secondary scroll-link">View Plans</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- BMI Calculator Section -->
+    <section id="bmi-calculator" class="section">
+        <div class="container">
+            <h2 class="section-title">BMI Calculator</h2>
+            <p>Calculate your Body Mass Index (BMI) to determine if your weight is in healthy proportion to your height.</p>
+            
+            <div class="calculator-container">
+                <div class="calculator-form">
+                    <form id="bmiForm">
+                        <div class="form-group">
+                            <label for="age">Age</label>
+                            <input type="number" id="age" class="form-control" placeholder="Enter your age" min="18" max="100" required>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label>Gender</label>
+                            <div class="radio-group">
+                                <div class="radio-option">
+                                    <input type="radio" id="male" name="gender" value="male" checked>
+                                    <label for="male">Male</label>
+                                </div>
+                                <div class="radio-option">
+                                    <input type="radio" id="female" name="gender" value="female">
+                                    <label for="female">Female</label>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="height">Height (cm)</label>
+                            <input type="number" id="height" class="form-control" placeholder="Enter your height in cm" required>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="weight">Weight (kg)</label>
+                            <input type="number" id="weight" class="form-control" placeholder="Enter your weight in kg" required>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="bodyFat">Body Fat % (optional)</label>
+                            <input type="number" id="bodyFat" class="form-control" placeholder="Enter body fat percentage">
+                        </div>
+                        
+                        <button type="submit" class="btn btn-primary" style="width: 100%;">Calculate BMI</button>
+                    </form>
+                </div>
+                
+                <div class="calculator-result" id="bmiResult">
+                    <div class="result-display">
+                        <div class="result-value" id="bmiValue">-</div>
+                        <div class="result-label">Your BMI</div>
+                    </div>
+                    
+                    <div class="result-category" id="bmiCategory">Calculate your BMI</div>
+
+                    <div class="bmi-meter">
+                        <div class="bmi-indicator" id="bmiIndicator">🏋️</div>
+                    </div>
+                    <div class="bmi-labels">
+                        <span>Underweight</span>
+                        <span>Normal</span>
+                        <span>Overweight</span>
+                        <span>Obese</span>
+                    </div>
+                    
+                    <div class="result-info">
+                        <p>BMI Categories:</p>
+                        <ul>
+                            <li>Underweight: BMI less than 18.5</li>
+                            <li>Normal weight: BMI between 18.5 and 24.9</li>
+                            <li>Overweight: BMI between 25 and 29.9</li>
+                            <li>Obesity: BMI of 30 or greater</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Us Section -->
+    <section id="about" class="section">
+        <div class="container">
+            <h2 class="section-title">About Us</h2>
+            <div class="about-content">
+                <div class="about-text">
+                    <p>NutriFit Pakistan was founded in 2024 with a mission to improve the health and wellness of Pakistani citizens through accessible fitness and nutrition guidance.</p>
+                    <p>We understand the unique challenges faced by individuals in Pakistan when it comes to maintaining a healthy lifestyle. From busy work schedules to limited access to professional nutritionists and fitness trainers, there are many barriers to achieving optimal health.</p>
+                    <p>Our platform bridges this gap by providing scientifically-backed tools, personalized meal plans considering local ingredients and dietary preferences, workout routines that can be done at home or in the gym, and a supportive community of like-minded individuals.</p>
+                    <p>With NutriFit Pakistan, you're not just getting an app - you're joining a movement towards a healthier nation.</p>
+                </div>
+                <div class="about-image">
+                    <img src="/static/group.png" alt="nutriFit Pakistan Team">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section id="features" class="section">
+        <div class="container">
+            <h2 class="section-title">Our Features</h2>
+            <p>Discover the tools and resources that will help you achieve your fitness goals.</p>
+            
+            <div class="features-container">
+                <div class="feature-card">
+                    <div class="feature-icon">📊</div>
+                    <h3 class="feature-title">Health Tracking</h3>
+                    <p>Monitor your progress with comprehensive health metrics including weight, body measurements, and fitness assessments.</p>
+                </div>
+                
+                <div class="feature-card">
+                    <div class="feature-icon">🍽️</div>
+                    <h3 class="feature-title">Nutrition Plans</h3>
+                    <p>Receive customized meal plans based on your goals, preferences, and dietary requirements using local Pakistani ingredients.</p>
+                </div>
+                
+                <div class="feature-card">
+                    <div class="feature-icon">💪</div>
+                    <h3 class="feature-title">Workout Library</h3>
+                    <p>Access a vast library of exercises and workout routines suitable for all fitness levels, with video demonstrations.</p>
+                </div>
+                
+                <div class="feature-card">
+                    <div class="feature-icon">👥</div>
+                    <h3 class="feature-title">Community Support</h3>
+                    <p>Connect with other members, share your journey, participate in challenges, and stay motivated together.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Plans Section -->
+    <section id="plans" class="section">
+        <div class="container">
+            <h2 class="section-title">Our Plans</h2>
+            <p>Choose the perfect plan to kickstart your fitness journey.</p>
+            
+            <div class="plans-container">
+                <div class="plan-card">
+                    <div class="plan-header">
+                        <h3>Basic</h3>
+                    </div>
+                    <div class="plan-content">
+                        <div class="plan-price">Free</div>
+                        <ul class="plan-features">
+                            <li>BMI Calculator</li>
+                            <li>Basic Workout Plans</li>
+                            <li>Limited Nutritional Information</li>
+                            <li>Community Access</li>
+                            <li>Ad-supported Experience</li>
+                        </ul>
+                        <div class="plan-button">
+                            <a href="#" class="btn btn-secondary">Get Started</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="plan-card">
+                    <div class="plan-header">
+                        <h3>Premium</h3>
+                    </div>
+                    <div class="plan-content">
+                        <div class="plan-price">PKR 999<span>/month</span></div>
+                        <ul class="plan-features">
+                            <li>All Basic Features</li>
+                            <li>Personalized Meal Plans</li>
+                            <li>Advanced Workout Routines</li>
+                            <li>Progress Tracking</li>
+                            <li>Ad-free Experience</li>
+                        </ul>
+                        <div class="plan-button">
+                            <a href="#" class="btn btn-primary">Subscribe Now</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="plan-card">
+                    <div class="plan-header">
+                        <h3>Platinum</h3>
+                    </div>
+                    <div class="plan-content">
+                        <div class="plan-price">PKR 2,499<span>/month</span></div>
+                        <ul class="plan-features">
+                            <li>All Premium Features</li>
+                            <li>1-on-1 Nutrition Consultation</li>
+                            <li>Personal Trainer Support</li>
+                            <li>Priority Customer Support</li>
+                            <li>Exclusive Content & Workshops</li>
+                        </ul>
+                        <div class="plan-button">
+                            <a href="#" class="btn btn-primary">Subscribe Now</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="section">
+        <div class="container">
+            <h2 class="section-title">Contact Us</h2>
+            <p>Have questions or suggestions? We'd love to hear from you!</p>
+            
+            <div class="contact-container">
+                <div class="contact-info">
+                    <div class="contact-info-item">
+                        <div class="contact-icon">📍</div>
+                        <div>
+                            <h3>Address</h3>
+                            <p>FAST NUCES<br>Islamabad, Pakistan</p>
+                        </div>
+                    </div>
+                    
+                    <div class="contact-info-item">
+                        <div class="contact-icon">📱</div>
+                        <div>
+                            <h3>Phone</h3>
+                            <p>+92 300 1234567</p>
+                        </div>
+                    </div>
+                    
+                    <div class="contact-info-item">
+                        <div class="contact-icon">✉️</div>
+                        <div>
+                            <h3>Email</h3>
+                            <p>info@nutrifitpakistan.com</p>
+                        </div>
+                    </div>
+                    
+                    <div class="contact-info-item">
+                        <div class="contact-icon">⏰</div>
+                        <div>
+                            <h3>Support Hours</h3>
+                            <p>Monday - Saturday: 9:00 AM - 8:00 PM<br>Sunday: 12:00 PM - 6:00 PM</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="contact-form">
+                    <form id="contactForm">
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Your Name" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="email" class="form-control" placeholder="Your Email" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Subject">
+                        </div>
+                        <div class="form-group">
+                            <textarea class="form-control" placeholder="
+                            <textarea class="form-control" placeholder="Your Message" required></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Send Message</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-container">
+                <div class="footer-about">
+                    <div class="footer-logo">nutri<span>Fit</span> Pakistan</div>
+                    <p>Your partner on the journey to better health and fitness in Pakistan. Offering personalized plans, expert guidance, and a supportive community.</p>
+                    <div class="social-links">
+                        <a href="#" class="social-link">FB</a>
+                        <a href="#" class="social-link">IG</a>
+                        <a href="#" class="social-link">TW</a>
+                        <a href="#" class="social-link">YT</a>
+                    </div>
+                </div>
+                
+                <div class="footer-links-container">
+                    <h3 class="footer-title">Quick Links</h3>
+                    <ul class="footer-links">
+                        <li><a href="#bmi-calculator">BMI Calculator</a></li>
+                        <li><a href="#about">About Us</a></li>
+                        <li><a href="#features">Features</a></li>
+                        <li><a href="#plans">Plans</a></li>
+                        <li><a href="#contact">Contact</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-links-container">
+                    <h3 class="footer-title">Resources</h3>
+                    <ul class="footer-links">
+                        <li><a href="#">Blog</a></li>
+                        <li><a href="#">Fitness Tips</a></li>
+                        <li><a href="#">Nutrition Guides</a></li>
+                        <li><a href="#">Success Stories</a></li>
+                        <li><a href="#">FAQ</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-links-container">
+                    <h3 class="footer-title">Support</h3>
+                    <ul class="footer-links">
+                        <li><a href="#">Help Center</a></li>
+                        <li><a href="#">Privacy Policy</a></li>
+                        <li><a href="#">Terms of Service</a></li>
+                        <li><a href="#">Refund Policy</a></li>
+                        <li><a href="#">Sitemap</a></li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="copyright">
+                <p>&copy; 2023-2025 NutriFit Pakistan. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Login/Signup Modal -->
+    <div id="authModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div class="modal-header">
+                <h2 id="modalTitle">Login</h2>
+            </div>
+            <div class="modal-body">
+                <div class="tab-container">
+                    <div class="tab-buttons">
+                        <button class="tab-button active" data-tab="login">Login</button>
+                        <button class="tab-button" data-tab="signup">Sign Up</button>
+                    </div>
+                    
+                    <div class="tab-content active" id="login">
+                        <form id="loginForm">
+                            <div class="form-group">
+                                <label for="loginEmail">Email</label>
+                                <input type="email" id="loginEmail" class="form-control" placeholder="Enter your email" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="loginPassword">Password</label>
+                                <input type="password" id="loginPassword" class="form-control" placeholder="Enter your password" required>
+                            </div>
+                            <div style="text-align: right; margin-bottom: 20px;">
+                                <a href="#" style="color: #4CAF50; text-decoration: none;">Forgot Password?</a>
+                            </div>
+                          <button type="submit" class="btn btn-primary" style="width: 100%;">Login</button>
+
+
+                        </form>
+                    </div>
+                    
+                    <div class="tab-content" id="signup">
+                        <form id="signupForm">
+                            <div class="form-group">
+                                <label for="signupName">Full Name</label>
+                                <input type="text" id="signupName" class="form-control" placeholder="Enter your full name" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="signupEmail">Email</label>
+                                <input type="email" id="signupEmail" class="form-control" placeholder="Enter your email" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="signupPhone">Phone Number</label>
+                                <input type="tel" id="signupPhone" class="form-control" placeholder="Enter your phone number" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="signupPassword">Password</label>
+                                <input type="password" id="signupPassword" class="form-control" placeholder="Create a password" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="signupConfirmPassword">Confirm Password</label>
+                                <input type="password" id="signupConfirmPassword" class="form-control" placeholder="Confirm your password" required>
+                            </div>
+                            <button type="submit" class="btn btn-primary" style="width: 100%;">Sign Up</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <p>By proceeding, you agree to our <a href="#" style="color: #4CAF50; text-decoration: none;">Terms of Service</a> and <a href="#" style="color: #4CAF50; text-decoration: none;">Privacy Policy</a></p>
+            </div>
+        </div>
+    </div>
+
+    <!-- JavaScript -->
+    <script>
+        // BMI Calculator Functionality
+        document.getElementById('bmiForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            const height = parseFloat(document.getElementById('height').value);
+            const weight = parseFloat(document.getElementById('weight').value);
+            
+            if (height > 0 && weight > 0) {
+                // Convert height from cm to meters
+                const heightInMeters = height / 100;
+                
+                // Calculate BMI
+                const bmi = weight / (heightInMeters * heightInMeters);
+                const bmiRounded = bmi.toFixed(1);
+                
+                // Display BMI
+                document.getElementById('bmiValue').textContent = bmiRounded;
+                
+                // Set category
+                let category = '';
+                if (bmi < 18.5) {
+                    category = 'Underweight';
+                } else if (bmi >= 18.5 && bmi < 25) {
+                    category = 'Normal Weight';
+                } else if (bmi >= 25 && bmi < 30) {
+                    category = 'Overweight';
+                } else {
+                    category = 'Obesity';
+                }
+                
+                document.getElementById('bmiCategory').textContent = category;
+
+                // Calculate and set indicator position
+                const meterWidth = document.querySelector('.bmi-meter').offsetWidth;
+                let indicatorPosition;
+                
+                // Map BMI to position (assuming BMI range from 10 to 40)
+                if (bmi < 10) {
+                    indicatorPosition = 0;
+                } else if (bmi > 40) {
+                    indicatorPosition = meterWidth;
+                } else {
+                    // Map BMI from 10-40 range to 0-100% of meter width
+                    indicatorPosition = ((bmi - 10) / 30) * meterWidth;
+                }
+                
+                document.getElementById('bmiIndicator').style.left = `${indicatorPosition}px`;
+            }
+        });
+        
+        // Header Scroll Effect
+        window.addEventListener('scroll', function() {
+            const header = document.getElementById('header');
+            if (window.scrollY > 50) {
+                header.classList.add('scrolled');
+            } else {
+                header.classList.remove('scrolled');
+            }
+        });
+        
+        // Mobile Menu Toggle
+        document.querySelector('.menu-toggle').addEventListener('click', function() {
+            document.querySelector('.nav-links').classList.toggle('active');
+        });
+        
+        // Smooth Scrolling for Navigation
+        document.querySelectorAll('.scroll-link').forEach(link => {
+            link.addEventListener('click', function(e) {
+                e.preventDefault();
+                
+                const targetId = this.getAttribute('href');
+                const targetElement = document.querySelector(targetId);
+                const navHeight = document.getElementById('header').offsetHeight;
+                
+                window.scrollTo({
+                    top: targetElement.offsetTop - navHeight,
+                    behavior: 'smooth'
+                });
+                
+                // Close mobile menu if open
+                document.querySelector('.nav-links').classList.remove('active');
+            });
+        });
+        
+        // Modal Functionality
+        const modal = document.getElementById('authModal');
+        const loginBtn = document.getElementById('loginBtn');
+        const signupBtn = document.getElementById('signupBtn');
+        const closeBtn = document.querySelector('.close');
+        
+        loginBtn.addEventListener('click', function() {
+            modal.style.display = 'block';
+            document.querySelector('.tab-button[data-tab="login"]').click();
+            document.getElementById('modalTitle').textContent = 'Login';
+        });
+        
+        signupBtn.addEventListener('click', function() {
+            modal.style.display = 'block';
+            document.querySelector('.tab-button[data-tab="signup"]').click();
+            document.getElementById('modalTitle').textContent = 'Sign Up';
+        });
+        
+        closeBtn.addEventListener('click', function() {
+            modal.style.display = 'none';
+        });
+        
+        window.addEventListener('click', function(event) {
+            if (event.target == modal) {
+                modal.style.display = 'none';
+            }
+        });
+        
+        // Tab Functionality
+        document.querySelectorAll('.tab-button').forEach(button => {
+            button.addEventListener('click', function() {
+                // Remove active class from all buttons and contents
+                document.querySelectorAll('.tab-button').forEach(btn => {
+                    btn.classList.remove('active');
+                });
+                document.querySelectorAll('.tab-content').forEach(content => {
+                    content.classList.remove('active');
+                });
+                
+                // Add active class to clicked button and corresponding content
+                this.classList.add('active');
+                const tabId = this.getAttribute('data-tab');
+                document.getElementById(tabId).classList.add('active');
+                document.getElementById('modalTitle').textContent = tabId === 'login' ? 'Login' : 'Sign Up';
+            });
+        });
+        
+        // Form Validation
+     
+
+        
+        document.getElementById('contactForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            alert('Thank you for your message. We will get back to you soon!');
+            this.reset();
+        });
+    </script>
+
+    <script>
+// Handle Signup (connects to Flask /signup)
+document.getElementById("signupForm").addEventListener("submit", async function(e) {
+    e.preventDefault();
+
+    const data = {
+        name: document.getElementById("signupName").value,
+        email: document.getElementById("signupEmail").value,
+        phone: document.getElementById("signupPhone").value,
+        password: document.getElementById("signupPassword").value
+    };
+
+    const response = await fetch("/signup", {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify(data)
+    });
+
+    const result = await response.json();
+    if (result.success) {
+        alert(result.message);
+        document.getElementById("signupForm").reset();
+        document.querySelector('.tab-button[data-tab="login"]').click();
+    } else {
+        alert(result.message || "Signup failed");
+    }
+});
+
+// Handle Login (connects to Flask /login)
+document.getElementById("loginForm").addEventListener("submit", async function(e) {
+    e.preventDefault();
+
+    const data = {
+        email: document.getElementById("loginEmail").value,
+        password: document.getElementById("loginPassword").value
+    };
+
+   const response = await fetch("/login", {
+    method: "POST",
+    headers: {"Content-Type": "application/json"},
+    body: JSON.stringify(data),
+    credentials: "include"
+});
+
+    const result = await response.json();
+    if (result.success) {
+        alert(result.message);
+        window.location.href = result.redirect || "/diet-form";
+    } else {
+        alert(result.message || "Login failed");
+    }
+});
+</script>
+
+</body>
+</html>

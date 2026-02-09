@@ -1,0 +1,881 @@
+Food Name,Calories,Carbohydrates (g),Sugars (g),Fat (g),Protein (g),Fiber (g),Vitamin_A_µg,Vitamin_B_complex_mg,Vitamin_C_mg,Vitamin_D_µg,Vitamin_E_mg,Vitamin_K_µg,Calcium_mg,Iron_mg,Potassium_mg,Magnesium_mg,Zinc_mg,Sodium_mg,Category,Cuisine,Meal_Type
+"Homemade Kala Chana, 1/4 cup",16.4,2.8,0.0,0.4,0.8,0.0,0.0,0.06,0.3,0.16,0.37,16.13,23.1,0.29,65.8,16.9,0.81,359,Snack,Pakistani,Snack
+Vegetable Samosa,122.0,16.4,0.0,5.2,2.4,0.0,52.4,0.58,1.9,0.07,0.69,16.46,31.4,0.56,142.4,3.0,1.38,239,Snack,Pakistani,Snack
+"Curd Dahi, 1 small bowl 50gm",26.4,2.4,0.0,1.2,1.6,0.0,0.0,0.28,2.8,0.1,0.34,26.05,14.1,0.18,70.1,7.6,0.15,398,Snack,Global,Snack
+"Samosa (Potato-filled), 1 piece",123.2,12.8,0.0,7.2,2.0,0.0,6.0,0.2,1.9,0.11,0.14,5.7,7.2,0.25,237.8,9.0,1.09,160,Snack,Pakistani,Snack
+"Homemade Roasted Masala Salmon, 2.25 ounces",56.4,2.0,0.0,2.8,7.2,0.0,0.0,0.26,3.9,0.17,0.03,3.51,22.1,0.39,166.9,8.2,0.75,18,Snack,Pakistani,Snack
+"Samosa Vegetable Samosa, 1.5 samosa",150.0,9.2,0.0,4.8,1.2,0.0,21.5,0.14,5.1,0.17,0.13,3.0,15.0,1.08,4.5,6.4,0.18,36,Snack,Pakistani,Snack
+"Homemade Kala Chana, 1/2 cup",32.8,5.6,0.0,0.4,1.6,0.0,3.1,0.0,10.8,0.03,1.41,9.35,14.5,0.39,121.8,16.4,0.07,387,Snack,Pakistani,Snack
+"M&s Modern Crispy Chaat Selection, 3 pieces",68.0,7.6,0.0,3.2,2.8,0.0,0.0,0.29,5.9,0.02,0.1,15.72,58.5,1.38,126.8,5.5,0.07,298,Snack,Pakistani,Snack
+"Co-op 12 Selection Vegetable Pakora, 2 pakora",40.0,3.6,0.0,1.2,1.2,0.0,64.6,0.51,3.6,0.04,0.71,4.21,28.8,0.87,151.3,1.4,0.82,395,Snack,Pakistani,Snack
+"Mango Lassi, 1.5 cup",82.8,18.4,0.0,0.8,2.4,0.0,8.0,0.06,5.4,0.2,0.09,3.89,27.5,0.98,126.1,17.9,0.59,34,Snack,Pakistani,Snack
+"Gourmet Spinach Pakora, 2 pieces (130g)",40.0,3.6,0.0,2.4,1.2,0.0,0.0,0.06,4.4,0.1,0.47,1.05,11.9,0.86,126.9,5.8,0.31,92,Snack,Pakistani,Snack
+"Samosa Vegetable Samosa, 3 samosa",187.2,14.4,0.0,14.4,2.4,0.0,48.4,0.55,3.9,0.09,0.17,13.74,42.4,0.1,14.5,10.4,0.08,210,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Samosa, 1 Samosa",46.8,5.2,0.0,1.2,0.8,0.0,9.5,0.15,1.8,0.04,0.37,15.81,42.0,0.45,169.8,22.6,0.55,383,Snack,Global,Snack
+"Moong Daal Dahi Vada, 2 pieces",56.0,4.4,0.0,3.2,2.0,0.0,17.2,0.03,3.9,0.03,1.08,17.23,18.4,0.48,114.1,8.4,0.48,106,Snack,Pakistani,Snack
+"Homemade Black Chana Masala, 2 serving",80.8,12.8,0.0,2.4,3.6,0.0,28.9,0.04,6.5,0.01,0.33,9.7,14.2,0.96,78.7,10.4,0.32,108,Snack,Pakistani,Snack
+"Food Chana Shag, 1 cup cooked",94.0,12.4,0.0,3.6,4.0,0.0,0.0,0.24,5.0,0.01,0.01,7.77,14.2,0.08,165.9,2.3,0.26,265,Snack,Pakistani,Snack
+"Boti Lamb Kebab, 1 serving 50 grams",186.4,23.6,0.0,3.6,14.4,0.0,51.1,0.34,3.4,0.05,0.22,14.0,34.5,0.57,86.6,4.2,0.03,506,Snack,Pakistani,Snack
+"Haldiram's Classic Soan Papdi Premium 500g Pack, 1 pc = 26 g",58.0,6.0,0.0,3.2,1.2,0.0,0.0,0.19,2.1,0.06,0.33,3.63,34.6,0.26,152.6,16.4,0.58,96,Snack,Pakistani,Snack
+"night (chx tikka, rice, pakora), 1 serving(s)",260.8,43.2,0.0,4.0,11.2,0.0,0.0,0.28,2.3,0.06,0.43,16.43,5.4,0.5,88.2,2.5,0.24,260,Snack,Pakistani,Snack
+"Neha's Inspired Frozen Yoghurt Mango & Honey Lassi, 90 g",75.6,8.4,0.0,4.0,1.2,0.0,8.1,0.25,0.5,0.19,0.1,3.82,43.7,0.02,244.7,0.2,1.05,164,Snack,Pakistani,Snack
+"Pakoras Vegetable Fritters, 4 fritters",56.4,4.0,0.0,4.4,1.2,0.0,91.0,0.12,5.4,0.07,0.58,3.49,26.8,0.08,12.9,16.0,0.43,172,Snack,Pakistani,Snack
+"Chicken Chaat, 211 g",150.4,2.0,0.0,16.0,0.0,0.0,68.5,0.41,1.3,0.05,0.18,14.32,8.5,0.15,42.9,12.4,0.3,10,Snack,Pakistani,Snack
+"Deep Gourmet Pakora Spinach, 2.5 pieces",50.0,4.4,0.0,3.2,1.6,0.0,20.5,0.03,2.5,0.0,0.69,20.8,20.7,0.15,75.8,17.6,0.87,179,Snack,Pakistani,Snack
+"Homemade Meal With Salt Chana Dal Cooked, 1/2 cup cooked",140.0,24.0,0.0,4.8,8.8,0.0,35.6,0.05,9.3,0.05,0.1,1.49,35.2,0.13,60.1,10.2,0.07,493,Snack,Pakistani,Snack
+"Fitness raw nuts almonds, hazelnut, cashew, 30 g",70.0,2.8,0.0,7.6,2.4,0.0,9.8,0.23,0.6,0.18,0.41,14.6,9.6,1.35,250.8,30.5,0.04,181,Snack,Pakistani,Snack
+"Samosa Chaat, 106.72 g",65.6,11.2,0.0,2.0,2.8,0.0,38.5,0.31,1.0,0.03,0.46,14.23,18.2,0.22,40.6,0.4,0.67,306,Snack,Pakistani,Snack
+"Deep Gourme Jumbo Punjabi Jumbo Samosa, 1 piece",76.0,8.4,0.0,4.0,1.6,0.0,0.0,0.2,2.7,0.34,0.11,9.8,21.8,1.06,112.6,12.1,0.72,366,Snack,Pakistani,Snack
+"Mango Lassi, 2 cup",110.4,24.4,0.0,0.8,3.2,0.0,0.0,0.03,3.5,0.08,0.01,8.45,28.7,2.04,15.9,2.8,0.35,222,Snack,Pakistani,Snack
+"Samosa Vegetable Samosa, 0.3 samosa",18.8,1.6,0.0,1.6,0.4,0.0,43.1,0.23,5.1,0.13,0.32,8.83,32.3,0.85,25.0,8.8,0.61,233,Snack,Global,Snack
+"Chana Masala, 0.5 cup (275g)",92.0,15.6,0.0,2.0,2.4,0.0,0.0,0.19,1.3,0.07,0.47,1.66,62.5,1.42,251.5,15.1,0.87,111,Snack,Pakistani,Snack
+"Homemade Kala Chana, 0.5 cup",32.8,5.6,0.0,0.4,1.6,0.0,5.9,0.32,1.5,0.24,0.67,2.45,25.6,1.41,143.8,13.1,0.29,204,Snack,Pakistani,Snack
+"Sitar Cuisine Chana Masala (Chick Peas), 2 oz",23.2,2.8,0.0,1.2,0.8,0.0,26.1,0.33,6.5,0.15,0.08,2.08,80.9,0.84,89.1,5.6,0.96,18,Snack,Pakistani,Snack
+"Dahi Ki Kadhi (Yoghurt Curry), 0.4 cup",21.2,2.0,0.0,1.2,0.8,0.0,19.9,0.04,0.2,0.1,0.46,14.87,27.9,0.85,85.0,13.5,0.58,205,Snack,Pakistani,Snack
+"Vegetable Seekh Kebabs, 1 kebab",28.0,4.0,0.0,0.8,1.6,0.0,29.8,0.19,2.1,0.03,0.49,6.1,53.5,1.6,65.1,18.6,0.02,324,Snack,Pakistani,Snack
+"Homemade Kala Chana, 2 cup",131.2,22.0,0.0,2.0,7.2,0.0,69.8,0.57,2.3,0.11,0.57,4.47,22.4,0.59,106.2,8.5,0.58,107,Snack,Pakistani,Snack
+Chicken Pakora,175.6,8.8,0.0,10.8,10.4,0.0,41.8,0.11,10.8,0.01,0.22,8.37,4.1,0.07,81.8,11.6,0.94,10,Snack,Pakistani,Snack
+"Neha's Inspired Frozen Yoghurt Mango & Honey Lassi, 100 g",84.0,9.6,0.0,4.4,1.2,0.0,0.0,0.41,7.0,0.1,0.04,10.21,20.1,0.65,123.2,0.6,0.58,81,Snack,Pakistani,Snack
+"Chicken Chaat Drumstick (Tandori or Jatt Patt), 1 Leg (no skin)",34.0,0.0,0.0,1.6,5.2,0.0,0.0,0.28,2.0,0.0,0.2,5.82,83.0,1.28,208.1,15.9,0.24,279,Snack,Pakistani,Snack
+"Homemade Kala Chana, 1.3 cup",85.2,14.4,0.0,1.2,4.4,0.0,15.7,0.03,1.0,0.12,0.52,1.2,20.4,0.06,176.3,11.4,0.29,165,Snack,Pakistani,Snack
+"Sitar Cuisine Chana Masala (Chick Peas), 1 oz",11.6,1.2,0.0,0.4,0.4,0.0,19.8,0.03,10.3,0.26,0.18,3.54,10.7,1.17,222.2,16.6,0.44,444,Snack,Pakistani,Snack
+"Take Away Chicken Pakora, 0.2 piece",7.6,0.4,0.0,0.4,0.8,0.0,43.2,0.28,2.8,0.14,0.68,11.19,7.2,0.47,38.9,14.7,0.31,221,Snack,Global,Snack
+"Quorn Meat Free Samosa, 1 samosa",21.6,2.4,0.0,1.2,0.8,0.0,0.0,0.32,6.1,0.08,0.12,5.84,21.2,0.23,206.8,11.8,0.65,469,Snack,Pakistani,Snack
+"Noga Delite Dahi Whole Milk Plain Yogurt, 0.25 Cup",15.2,1.2,0.0,0.8,0.8,0.0,0.0,0.8,10.7,0.12,0.18,0.36,16.4,1.61,141.0,5.7,0.21,388,Snack,Pakistani,Snack
+"Moong Daal Dahi Vada, 0.25 pieces",7.2,0.4,0.0,0.4,0.4,0.0,111.3,0.34,0.0,0.06,0.74,8.75,32.9,1.74,209.7,13.8,0.27,260,Snack,Pakistani,Snack
+"Homemade Dahi Bhalla / Bhalle, 1.5 cup (160g)",105.2,12.0,0.0,4.8,3.2,0.0,29.7,0.25,4.6,0.01,0.64,5.02,44.2,0.91,250.1,13.9,0.25,82,Snack,Pakistani,Snack
+"Tesco 12 Snack Selection (Mini Vegetable Pakoras), 2 pakora",60.0,3.2,0.0,4.4,0.0,0.0,46.6,0.17,1.9,0.05,0.55,8.77,32.3,1.87,56.8,17.5,0.29,398,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Pakora, 1 container (2 pakoras ea.)",98.8,10.0,0.0,5.2,2.4,0.0,23.6,0.07,9.1,0.11,0.15,8.7,13.2,0.37,154.8,6.1,0.26,238,Snack,Pakistani,Snack
+"Take Away Chicken Pakora, 10 piece",380.0,20.0,0.0,16.0,44.0,0.0,0.0,0.14,0.8,0.0,0.06,5.67,31.5,0.79,199.6,16.6,0.28,150,Snack,Pakistani,Snack
+"Deep Gourmet Potato Cocktail Samosas, 5 pieces (42 g)",30.0,6.0,0.0,0.4,0.4,0.0,28.9,0.03,7.5,0.01,0.83,3.83,10.7,0.23,172.4,8.9,0.31,270,Snack,Pakistani,Snack
+"Sainsbury's Vegetable Samosas, 2 Samosa (50g)",88.8,0.0,0.0,4.4,0.0,0.0,21.5,0.44,8.0,0.08,0.25,2.63,22.2,0.45,195.1,0.2,0.2,247,Snack,Pakistani,Snack
+"Mango Lassi, 0.38 cup",20.8,4.4,0.0,0.0,0.4,0.0,13.9,0.01,4.1,0.13,0.47,16.18,39.9,1.35,186.4,15.0,0.49,374,Snack,Pakistani,Snack
+"Tesco 12 Snack Selection (Mini Vegetable Samosas), 2 samosa",60.0,7.2,0.0,2.8,1.2,0.0,27.9,0.37,10.0,0.05,0.69,1.0,20.2,0.48,267.8,21.5,0.32,159,Snack,Pakistani,Snack
+"Curd Dahi, 0.2 small bowl 50gm",5.2,0.4,0.0,0.4,0.4,0.0,0.0,0.4,4.4,0.02,0.36,4.24,49.6,0.14,232.7,11.0,0.67,331,Snack,Pakistani,Snack
+"M&s Modern Kebab and Samosa Selection, 3 pieces",58.0,3.6,0.0,3.2,4.0,0.0,19.4,0.24,7.6,0.12,0.3,16.68,25.5,1.64,168.6,2.7,0.92,240,Snack,Pakistani,Snack
+"Food Aloo Samosa Pastry With Potato Filling, 1.2 oz",18.0,1.6,0.0,1.6,0.0,0.0,27.8,0.08,0.4,0.07,0.25,1.74,3.8,0.36,180.2,1.0,0.21,278,Snack,Pakistani,Snack
+"Samosa Vegetable Samosa, 1 samosa",100.0,6.0,0.0,3.2,0.8,0.0,109.2,0.0,6.1,0.08,0.28,11.27,36.8,0.44,74.9,6.4,0.55,388,Snack,Pakistani,Snack
+"Samosa Chaat, 156 g",96.0,16.0,0.0,3.2,4.0,0.0,0.0,0.04,0.3,0.01,1.28,12.05,40.6,1.53,40.1,2.2,0.04,420,Snack,Pakistani,Snack
+"Sainsbury's Vegetable Samosas, 1 Samosa (50g)",44.4,0.0,0.0,2.4,0.0,0.0,30.4,0.48,3.6,0.05,1.15,12.11,12.7,1.97,123.7,10.1,0.08,287,Snack,Pakistani,Snack
+"Chana Masala (Savory Chick Peas) Recipe, 1 serving(s)",92.0,12.0,0.0,4.0,3.2,0.0,40.5,0.06,1.1,0.13,0.11,6.75,20.7,1.49,26.5,10.8,0.29,161,Snack,Pakistani,Snack
+"Dahi, 1.5 tbsp(s)",8.4,0.4,0.0,0.4,0.8,0.0,10.3,0.06,0.4,0.09,0.53,0.38,17.8,0.17,191.7,9.9,0.87,298,Snack,Global,Snack
+"Amy's Organic Samosa Wrap, 1 wrap",100.0,14.0,0.0,3.6,3.2,0.0,0.0,0.36,9.9,0.14,0.73,0.69,28.6,0.24,99.3,8.0,0.42,286,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Pakora, 1 Pakora",49.6,5.2,0.0,2.4,1.2,0.0,0.0,0.1,2.2,0.17,0.08,6.63,22.3,0.64,194.4,6.7,0.17,218,Snack,Pakistani,Snack
+"Schweppes Diet Tonic Water Classic Mixers, 0.5 container (750 mls ea.)",4.4,0.0,0.0,0.0,0.0,0.0,30.6,0.12,10.5,0.12,0.36,8.98,32.2,0.32,193.4,21.7,0.14,338,Snack,Pakistani,Snack
+"Asda Chosen by You Bhaji & Samosa Selection, 1 bhaji or samosa",41.2,4.0,0.0,2.4,0.8,0.0,0.0,0.16,3.2,0.02,0.35,15.31,14.8,1.38,166.8,12.5,0.59,215,Snack,Pakistani,Snack
+"Samosa (Potato-filled), 0.5 piece",61.6,6.4,0.0,3.6,0.8,0.0,15.5,0.15,4.8,0.02,0.7,1.03,4.5,0.62,132.7,14.6,0.19,290,Snack,Pakistani,Snack
+"Shami Kebab Lamb/ Mutton, 65.9 grams ( 1 pcs)",75.2,4.0,0.0,3.6,6.0,0.0,13.0,0.05,6.2,0.0,0.15,15.33,25.3,0.61,14.0,28.8,0.42,99,Snack,Pakistani,Snack
+"Take Away Chicken Pakora, 6 piece",228.0,12.0,0.0,9.6,26.4,0.0,23.0,0.12,5.2,0.05,0.19,4.94,61.9,0.68,167.9,4.2,0.71,141,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Pakora, 2 vegetable pakora",24.8,2.4,0.0,1.2,0.8,0.0,52.6,0.0,5.1,0.21,0.11,9.79,13.3,1.18,147.0,15.6,1.07,190,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Pakora, 2 Pakora",31.2,3.6,0.0,1.2,0.8,0.0,42.3,0.38,14.7,0.22,0.06,13.01,4.8,0.16,156.1,2.6,0.37,345,Snack,Pakistani,Snack
+"Curd Dahi, 0.5 small bowl 100gm",12.0,0.0,0.0,0.0,0.0,0.0,19.6,0.18,1.0,0.19,0.47,3.8,19.4,0.2,190.0,9.5,0.32,212,Snack,Pakistani,Snack
+"Aloo Papri Chaat, 0.5 Plate",168.8,29.6,0.0,4.0,5.6,0.0,0.0,0.3,3.8,0.19,0.21,31.2,51.7,0.04,121.6,18.0,0.71,286,Snack,Pakistani,Snack
+"Homemade Kala Chana, 1 cup",65.6,10.8,0.0,1.2,3.6,0.0,24.2,0.32,0.0,0.04,0.25,1.83,5.8,0.09,130.9,9.4,0.6,10,Snack,Pakistani,Snack
+"Sodexo Roasted Mixed Vegetables, 4 oz (126 grams)",12.0,2.8,0.0,0.0,0.8,0.0,41.5,0.28,6.8,0.11,0.53,21.9,4.9,0.45,58.4,7.0,1.31,361,Snack,Pakistani,Snack
+"Kala Chana - Kala Chana Gujarati, 41 g (1 cup)",30.0,6.0,0.0,0.8,1.6,0.0,22.7,0.04,4.9,0.02,0.78,15.12,0.3,0.66,134.7,17.0,0.41,248,Snack,Global,Snack
+"Samosa (Potato-filled), 2 piece",246.4,25.6,0.0,14.4,3.6,0.0,48.9,0.33,5.5,0.12,0.12,4.69,12.1,1.62,42.6,11.3,0.86,15,Snack,Pakistani,Snack
+"Homemade Kala Chana, 3/4 cup",49.2,8.4,0.0,0.8,2.8,0.0,40.6,0.31,7.1,0.01,0.05,5.98,11.9,0.26,216.7,8.2,0.08,511,Snack,Global,Snack
+"Samosa Vegetable Samosa, 1.3 samosa",81.2,6.4,0.0,6.4,1.2,0.0,36.4,0.08,7.3,0.19,0.65,0.14,41.1,3.34,129.2,1.5,0.17,313,Snack,Pakistani,Snack
+"Homemade Black Chana Masala, 1 serving",40.4,6.4,0.0,1.2,2.0,0.0,0.0,0.66,1.5,0.12,0.48,5.4,22.1,0.9,141.8,11.6,1.0,23,Snack,Pakistani,Snack
+"Chicken Pakora (Reverse Engineered), 235 g",152.0,8.8,0.0,4.4,17.6,0.0,31.0,0.42,1.5,0.14,0.16,8.41,3.3,0.39,81.8,7.2,0.55,325,Snack,Pakistani,Snack
+"Tesco Chicken Tikka Samosas, 2 samosa",108.0,10.4,0.0,5.6,3.2,0.0,0.0,0.27,4.1,0.06,0.29,0.24,39.9,1.19,41.4,3.9,0.3,330,Snack,Pakistani,Snack
+"Chana Masala, 1.5 cup (275g)",276.0,46.8,0.0,5.6,7.6,0.0,26.7,0.32,1.1,0.24,0.22,4.52,1.2,0.14,158.2,13.7,0.08,10,Snack,Pakistani,Snack
+"Sainsbury's Vegetable Samosas, 0.5 Samosa (50g)",22.4,5.2,0.0,1.2,0.4,0.0,0.0,0.07,8.1,0.06,0.74,16.47,19.1,1.29,9.4,15.6,0.93,503,Snack,Pakistani,Snack
+"Samosa (Potato-filled), 4 piece",0.0,51.6,0.0,28.4,7.6,0.0,46.1,0.09,3.4,0.07,0.34,11.16,29.0,0.99,202.2,5.8,0.84,10,Snack,Pakistani,Snack
+"Chana Masala, 0.25 cup (275g)",46.0,8.0,0.0,0.8,1.2,0.0,0.0,0.27,7.8,0.16,0.53,9.79,22.8,1.13,23.6,3.0,0.76,351,Snack,Pakistani,Snack
+"Sheek Kebab, 55 g",56.4,0.0,0.0,0.0,0.0,0.0,0.0,0.33,8.8,0.16,0.5,13.26,6.2,2.16,209.8,0.3,0.38,274,Snack,Pakistani,Snack
+"Samosa (Potato-filled), 0.75 piece",92.4,9.6,0.0,5.2,1.6,0.0,0.0,0.06,5.4,0.1,0.84,0.06,23.7,0.22,210.3,7.7,0.41,331,Snack,Pakistani,Snack
+"Co-Op Mini Selection Mini Pakora, 2 Pakora",36.0,0.0,0.0,1.2,0.0,0.0,8.1,0.24,4.0,0.08,0.42,2.56,10.9,0.31,241.6,22.1,0.09,140,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Samosas, 2 vegetable samosa",28.8,3.6,0.0,1.2,0.8,0.0,13.1,0.25,1.7,0.16,0.35,2.98,27.9,0.06,57.6,15.2,1.01,221,Snack,Pakistani,Snack
+"Aloo Chana Chaat, 1 portion",68.0,13.6,0.0,0.8,2.4,0.0,12.9,0.41,0.2,0.08,0.41,11.42,26.9,1.78,74.8,17.0,0.21,247,Snack,Pakistani,Snack
+"Dahi Whole Milk Yogurt, 1 cup/(227g",72.0,7.2,0.0,2.8,4.8,0.0,3.9,0.34,12.7,0.18,0.38,8.67,19.7,0.78,162.7,11.3,0.41,383,Snack,Pakistani,Snack
+"Samosa Chaat, 266.8 g",164.0,27.6,0.0,5.2,6.8,0.0,17.4,0.11,0.7,0.06,0.05,4.6,42.9,1.14,190.5,20.7,0.51,196,Snack,Global,Snack
+"Iceland Platter Vegetable Pakora, 4 vegetable pakora",49.6,4.8,0.0,2.0,1.6,0.0,16.6,0.23,7.4,0.08,0.36,1.94,1.2,0.64,226.4,10.8,0.36,486,Snack,Pakistani,Snack
+"Vegetable Samosa, 3 samosa",300.0,18.0,0.0,9.6,2.4,0.0,24.6,0.47,1.3,0.11,0.17,16.92,43.2,1.61,38.7,16.2,0.61,124,Snack,Pakistani,Snack
+"Chana Masala, 1 cup (275g)",184.0,31.2,0.0,3.6,5.2,0.0,22.7,0.54,7.0,0.28,0.13,18.26,4.8,0.88,178.6,7.9,0.44,356,Snack,Pakistani,Snack
+"Gourmet Spinach Pakora, 6 pieces (130g)",120.0,10.8,0.0,7.2,3.6,0.0,0.0,0.04,2.2,0.06,1.18,8.88,16.0,0.25,80.6,25.5,0.05,308,Snack,Pakistani,Snack
+"Traditional Dahi Bhalla, 1.5 piece",39.6,6.8,0.0,0.0,3.2,0.0,0.0,0.43,0.1,0.07,0.34,4.72,0.7,0.74,72.9,15.2,0.11,166,Snack,Pakistani,Snack
+"Homemade Kala Chana, 1 1/4 cup",82.0,13.6,0.0,1.2,4.4,0.0,42.9,0.34,0.8,0.12,0.64,0.11,19.6,0.43,112.2,2.1,0.55,261,Snack,Pakistani,Snack
+"Vegetable Samosa, 1 samosa",100.0,6.0,0.0,3.2,0.8,0.0,61.9,0.16,3.0,0.01,0.09,14.88,36.1,1.3,70.4,6.0,0.5,10,Snack,Pakistani,Snack
+"Food Samosa Meat and Veg, 1 Samosa (35 Grams)",35.2,5.2,0.0,0.8,2.0,0.0,62.4,0.09,7.6,0.17,0.39,9.67,0.9,0.97,251.7,3.2,0.59,300,Snack,Pakistani,Snack
+"Homemade Black Chana Masala, 1.5 serving",60.8,9.6,0.0,2.0,2.8,0.0,0.0,0.01,6.7,0.01,0.05,11.14,11.2,0.82,123.4,12.0,0.19,133,Snack,Pakistani,Snack
+"Waitrose Good to Go Snack Selection (Two Bhajis, One Samosa, Mango Dip), 1 pack",101.6,13.2,0.0,4.4,1.6,0.0,0.0,0.06,10.1,0.16,0.31,1.84,26.0,0.76,56.6,8.7,1.18,620,Snack,Global,Snack
+"Glazed Cauliflower with Ginger Classic Cooking, 1 serving(s)",71.2,4.8,0.0,5.6,1.6,0.0,9.0,0.41,3.4,0.12,0.21,4.23,39.0,0.43,184.8,7.4,0.84,270,Snack,Pakistani,Snack
+"Curd Dahi, 1 bowl 100 gm",39.2,1.2,0.0,1.6,4.4,0.0,26.6,0.07,1.8,0.01,0.5,14.4,37.4,1.35,189.7,7.1,0.3,54,Snack,Pakistani,Snack
+"Heera Sweets Bhagut's Son Rolls Sweet -Flaky Pastry With Pistachios and Almonds, 1 =30g",60.0,8.8,0.0,2.4,0.8,0.0,13.9,0.31,6.9,0.09,0.86,18.45,25.3,0.23,93.8,11.6,0.51,223,Snack,Global,Snack
+"Iceland 60 Piece Selection Vegetable Samosa, 4 Samosa",59.2,6.8,0.0,2.8,1.2,0.0,42.4,0.27,13.0,0.31,0.12,21.68,29.9,0.75,204.9,14.3,0.42,389,Snack,Pakistani,Snack
+"Sweets Gulab Jambun, 1 pc cooked",71.2,12.0,0.0,2.4,1.2,0.0,25.1,0.22,6.1,0.03,0.44,12.52,1.3,0.79,31.0,17.6,1.18,33,Snack,Pakistani,Snack
+"Curd Dahi, 1 small bowl 100gm",24.0,0.0,0.0,0.0,0.0,0.0,42.6,0.01,4.0,0.32,0.73,7.39,31.9,0.82,1.4,13.3,0.43,84,Snack,Pakistani,Snack
+Chicken Samosa,52.8,1.2,0.0,4.4,2.0,0.0,46.1,0.11,0.7,0.05,0.72,1.16,47.1,0.13,188.4,15.6,0.16,226,Snack,Pakistani,Snack
+"Morrisons Mini Snack Vegetable Samosa, 1 Samosa",22.0,2.8,0.0,1.2,0.4,0.0,70.3,0.35,1.3,0.11,0.45,14.92,1.6,0.04,78.0,16.6,0.89,34,Snack,Pakistani,Snack
+"Sweets Gulab Jambun, 0.5 pc cooked",35.6,6.0,0.0,1.2,0.4,0.0,32.4,0.25,0.3,0.02,0.11,6.67,16.5,0.67,140.9,26.1,0.35,370,Snack,Pakistani,Snack
+"Homemade (Anjum Anand Food Made Easy Recipe) <Potassium> Samosa Potato and Pea With Filo Pastry, 1.5 Samosa",54.8,10.8,0.0,0.0,2.0,0.0,30.2,0.39,2.2,0.09,0.84,13.79,24.0,0.63,163.2,9.1,1.2,96,Snack,Pakistani,Snack
+"Take Away Chicken Pakora, 2 piece",76.0,4.0,0.0,3.2,8.8,0.0,24.6,0.1,4.7,0.06,0.16,14.23,5.5,1.08,65.4,21.6,1.34,318,Snack,Pakistani,Snack
+Dried Dates Pudding Recipe,96.0,10.4,0.0,5.2,2.8,0.0,0.0,0.24,12.1,0.0,0.32,9.84,9.6,0.2,253.9,13.7,0.79,175,Snack,Global,Snack
+"Iceland Platter Vegetable Pakora, 1 vegetable pakora",12.4,1.2,0.0,0.4,0.4,0.0,45.2,0.03,3.5,0.12,0.64,1.76,15.7,0.64,220.6,25.9,0.27,10,Snack,Pakistani,Snack
+"Samosa Vegetable Samosa, 2 samosa",200.0,12.0,0.0,6.4,1.6,0.0,32.3,0.12,5.8,0.12,0.15,6.6,61.0,0.29,67.0,15.8,0.47,110,Snack,Pakistani,Snack
+"Pakoras Vegetable Fritters, 3 fritters",42.4,2.8,0.0,3.2,0.8,0.0,27.2,0.26,4.6,0.11,0.4,7.3,16.1,0.24,28.1,7.6,0.35,408,Snack,Pakistani,Snack
+Date Roll,22.4,3.6,0.0,0.8,0.4,0.0,48.3,0.11,7.1,0.06,1.02,8.91,12.1,0.12,130.7,24.3,1.04,10,Snack,Pakistani,Snack
+"Deep Gourmet Potato & Pea Cocktail Samosa, 7.5 pieces (3g)",45.2,5.6,0.0,0.0,1.2,0.0,20.1,0.15,7.1,0.14,0.45,5.26,19.3,0.19,97.5,9.3,0.68,226,Snack,Pakistani,Snack
+"Ms Starter Selection Veg Pakora, 21 g",20.0,1.6,0.0,1.2,0.4,0.0,0.0,0.17,2.7,0.14,0.22,2.01,20.9,0.4,127.0,21.0,0.37,215,Snack,Pakistani,Snack
+"Chana Masala, 0.33 cup (275g)",61.2,10.4,0.0,1.2,1.6,0.0,23.9,0.45,0.1,0.04,0.21,16.37,34.5,0.58,123.8,4.1,0.33,384,Snack,Pakistani,Snack
+"Punjabi Curry With Pakora Food, 0.8 cup",123.6,13.6,0.0,5.2,6.0,0.0,50.1,0.16,5.5,0.13,0.05,11.23,5.6,0.98,71.6,18.9,0.06,352,Snack,Pakistani,Snack
+"Food Samosa Meat and Veg, 0.5 Samosa (35 Grams)",17.6,2.4,0.0,0.4,1.2,0.0,7.8,0.06,3.0,0.04,0.14,9.77,18.9,0.23,145.9,12.4,0.62,210,Snack,Global,Snack
+"Samosa (Potato-Filled), 1 piece",76.0,0.0,0.0,0.0,0.0,0.0,22.4,0.28,7.8,0.19,0.13,6.8,59.1,0.55,94.7,8.9,0.12,275,Snack,Pakistani,Snack
+"Homemade Kala Chana, 1.5 cup",98.4,16.4,0.0,1.6,5.2,0.0,5.8,0.3,0.6,0.03,0.2,14.62,18.6,0.89,209.7,17.5,0.03,319,Snack,Pakistani,Snack
+"Aldi Bilash 8 Mini Vegetable Samosas, 1 Samosa (23g)",25.6,2.8,0.0,1.6,0.4,0.0,0.0,0.26,2.0,0.16,0.21,5.5,59.9,1.06,172.4,8.1,0.15,100,Snack,Pakistani,Snack
+"(Uk Sheek Kebab, 2 piece",95.6,0.0,0.0,5.2,16.0,0.0,14.5,0.06,6.1,0.07,0.18,0.93,30.7,1.04,159.0,12.7,0.81,405,Snack,Pakistani,Snack
+"Sitar Cuisine Chana Masala (Chick Peas), 7.5 oz",87.2,10.4,0.0,4.4,3.2,0.0,0.0,0.28,4.1,0.22,0.9,0.14,7.4,0.26,96.3,15.1,0.82,64,Snack,Pakistani,Snack
+"Vegetable Samsosas Dish, 2 samosa",64.0,8.8,0.0,2.4,1.6,0.0,77.4,0.39,0.7,0.35,0.82,7.99,33.7,0.65,57.9,3.4,0.8,130,Snack,Pakistani,Snack
+"M&s Modern Crispy Chaat Selection, 3.99 pieces",90.4,10.0,0.0,4.0,3.6,0.0,0.0,0.21,11.1,0.04,0.16,12.85,61.4,0.63,43.5,4.9,0.77,465,Snack,Pakistani,Snack
+"Aldi Bilash 8 Mini Vegetable Samosas, 3 Samosa (23g)",76.8,8.0,0.0,4.4,1.6,0.0,0.0,0.45,8.7,0.01,0.53,2.41,22.2,1.21,164.4,22.7,0.61,224,Snack,Pakistani,Snack
+"Vegtable Samosa, 1 portion",56.0,6.0,0.0,3.2,0.8,0.0,19.9,0.24,11.1,0.06,0.32,8.39,44.7,1.35,163.0,0.5,0.2,342,Snack,Pakistani,Snack
+"Paneer Pakora, 1 piece",33.2,0.0,0.0,1.6,0.0,0.0,44.7,0.05,5.5,0.07,0.39,2.44,30.5,0.25,108.9,9.2,0.83,276,Snack,Pakistani,Snack
+"Quorn 8 Samosas, 4 samosa",86.4,8.8,0.0,4.4,2.4,0.0,27.4,0.5,5.9,0.16,0.63,10.59,24.0,1.28,43.5,7.4,0.08,335,Snack,Pakistani,Snack
+"Chana Cury, 0.5 cup cooked",49.2,6.0,0.0,2.4,1.6,0.0,10.5,0.42,1.1,0.09,0.35,0.94,40.1,0.24,99.2,10.8,0.44,161,Snack,Pakistani,Snack
+"Mango Lassi, 0.5 cup",27.6,6.0,0.0,0.4,0.8,0.0,0.0,0.43,0.1,0.21,0.56,9.62,1.7,0.93,102.2,8.1,0.97,447,Snack,Global,Snack
+"Deep Gourmet Potato & Pea Cocktail Samosa, 10 pieces (3g)",60.0,7.2,0.0,0.0,1.6,0.0,2.6,0.29,5.2,0.01,0.55,11.82,13.0,0.82,169.4,13.3,1.06,675,Snack,Pakistani,Snack
+"Chana Masala Chickpea, 409.5 grams",146.0,26.4,0.0,2.8,5.6,0.0,5.3,0.41,6.8,0.19,0.34,7.4,38.2,0.69,101.3,8.2,0.8,460,Snack,Pakistani,Snack
+"Vegetable Samosa, 0.13 samosa",12.4,0.8,0.0,0.4,0.0,0.0,56.6,0.06,4.8,0.11,0.48,1.35,26.0,0.24,53.8,12.0,0.61,266,Snack,Pakistani,Snack
+"Take Away Chicken Pakora, 150 g",63.2,4.4,0.0,2.4,1.2,0.0,0.0,0.34,5.3,0.06,0.47,9.0,45.7,0.47,140.6,11.1,1.55,276,Snack,Pakistani,Snack
+"Samosa Vegetable Samosa, 0.5 samosa",31.2,2.4,0.0,2.4,0.4,0.0,20.8,0.11,1.2,0.2,0.53,2.69,34.9,2.44,80.6,6.9,0.07,391,Snack,Pakistani,Snack
+"Paneer Pakora, 0.25 piece",8.4,0.0,0.0,0.4,0.0,0.0,14.4,0.36,2.7,0.06,0.47,5.06,27.7,0.84,35.3,0.9,0.76,120,Snack,Pakistani,Snack
+"Chicken Chaat, 105.5 g",75.2,1.2,0.0,8.0,4.0,0.0,42.7,0.44,5.0,0.06,1.3,5.74,5.2,0.4,31.8,15.9,0.18,237,Snack,Pakistani,Snack
+"Fitness raw nuts almonds, hazelnut, cashew, 125 g",291.6,11.6,0.0,32.0,9.2,0.0,47.6,0.3,4.2,0.13,0.11,17.01,11.1,2.56,7.8,18.5,0.92,332,Snack,Pakistani,Snack
+"Schweppes Diet Tonic Water Classic Mixers, 250 ml",1.6,0.0,0.0,0.0,0.0,0.0,41.8,0.21,5.7,0.05,0.11,10.68,14.4,0.42,0.0,11.8,0.57,142,Snack,Pakistani,Snack
+"Co-op Mini Selection Mini Samosa, 2 Samosa",36.0,0.0,0.0,1.2,0.0,0.0,0.0,0.36,4.6,0.04,0.45,2.92,39.1,1.36,34.7,14.2,0.27,239,Snack,Pakistani,Snack
+"Pakoras Vegetable Fritters, 1.5 fritters",21.2,1.6,0.0,1.6,0.4,0.0,27.5,0.2,3.2,0.02,0.39,0.96,26.3,0.41,84.7,10.9,0.18,10,Snack,Global,Snack
+"Take Away Chicken Pakora, 3 piece",114.0,6.0,0.0,4.8,13.2,0.0,25.9,0.02,0.1,0.02,0.33,8.14,36.6,0.92,53.8,14.6,0.37,418,Snack,Pakistani,Snack
+"Amy's Samosa Wrap, 1 wrap (142g)",100.0,14.0,0.0,3.6,3.2,0.0,66.6,0.22,3.1,0.04,0.08,5.59,18.8,0.35,59.8,10.0,0.62,363,Snack,Pakistani,Snack
+"Haldiram's Classic Patisa, 1 Piece",32.0,3.6,0.0,2.0,0.0,0.0,5.8,0.04,1.4,0.06,0.46,2.27,7.0,2.21,186.3,16.4,0.8,256,Snack,Pakistani,Snack
+"Samosa (Potato-Filled), 1.13 piece",85.6,0.0,0.0,0.0,0.0,0.0,0.0,0.11,9.9,0.0,0.1,11.44,11.0,0.42,208.5,4.9,0.52,240,Snack,Pakistani,Snack
+"Homemade Samosa Large, 0.5 piece",70.0,0.0,0.0,0.0,0.0,0.0,40.1,0.33,2.6,0.11,0.23,9.02,21.6,0.49,95.8,30.6,1.01,294,Snack,Global,Snack
+"Homemade Dahi Bhalla / Bhalle, 1 cup (160g)",70.0,8.0,0.0,3.2,2.0,0.0,46.6,0.07,3.6,0.02,1.78,1.11,27.0,1.09,198.2,13.4,0.87,40,Snack,Pakistani,Snack
+"That Drink Raspberry Cinnamon Lassi, 1 container (237 ml)",52.0,8.4,0.0,1.2,2.8,0.0,1.1,0.06,0.2,0.18,0.07,1.91,33.5,0.54,52.8,6.1,0.42,168,Snack,Pakistani,Snack
+"Bloomin’ -Spiced Whole Roasted Cauliflower, 1 serving(s)",80.8,11.2,0.0,2.8,5.6,0.0,14.8,0.17,3.6,0.09,0.69,6.46,37.3,1.46,153.8,10.0,0.84,59,Snack,Global,Snack
+"Schweppes Diet Tonic Water Classic Mixers, 1 container (750 mls ea.)",8.4,0.0,0.0,0.0,0.0,0.0,0.0,0.48,2.9,0.05,0.75,10.22,4.0,0.24,31.0,0.3,0.63,278,Snack,Pakistani,Snack
+Beef Seekh Kebab (),190.0,3.6,0.0,14.0,12.4,0.0,0.0,0.57,0.4,0.15,1.05,10.25,7.7,1.02,168.1,14.5,0.0,217,Snack,Pakistani,Snack
+"Recipes Chana Dal, 1/2 cup",142.4,24.0,0.0,3.2,8.0,0.0,63.4,0.14,1.4,0.04,0.47,7.22,1.3,0.58,155.5,27.5,0.13,349,Snack,Pakistani,Snack
+"Take Away Chicken Pakora, 1 piece",38.0,2.0,0.0,1.6,4.4,0.0,19.0,0.37,4.7,0.01,0.42,7.37,45.0,0.14,160.6,24.7,0.54,160,Snack,Pakistani,Snack
+"Paneer Pakora, 3 piece",99.6,0.0,0.0,4.8,0.0,0.0,0.0,0.17,8.4,0.23,0.65,1.8,36.8,0.61,184.2,12.9,0.48,82,Snack,Pakistani,Snack
+"Quorn 8 Samosas, 1 samosa",21.6,2.4,0.0,1.2,0.8,0.0,29.5,0.19,0.0,0.08,0.61,1.55,45.3,0.43,41.6,11.9,0.44,207,Snack,Pakistani,Snack
+"Take Away Chicken Pakora, 300 g",126.4,8.4,0.0,4.4,2.0,0.0,0.0,0.51,11.7,0.27,0.06,0.4,13.5,0.91,120.0,10.9,0.92,304,Snack,Pakistani,Snack
+"Sweets Gulab Jambun, 2 pc cooked",142.4,24.0,0.0,4.8,2.4,0.0,37.5,0.19,4.5,0.18,0.01,9.98,22.2,0.71,124.9,5.5,0.04,10,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Samosas, 3 vegetable samosa",43.2,5.6,0.0,2.0,0.8,0.0,105.4,0.35,2.7,0.05,0.37,9.06,34.0,0.05,0.9,12.6,0.37,219,Snack,Pakistani,Snack
+"Homemade Samosa Large, 1 piece",140.0,0.0,0.0,0.0,0.0,0.0,0.0,0.18,0.7,0.08,0.61,14.26,30.4,0.53,130.7,19.5,0.26,473,Snack,Global,Snack
+"Mango Lassi, 1 cup",55.2,12.4,0.0,0.4,1.6,0.0,19.9,0.11,2.6,0.06,0.09,1.59,44.5,0.28,193.7,25.8,0.02,247,Snack,Pakistani,Snack
+"Take Away Chicken Pakora, 4 piece",152.0,8.0,0.0,6.4,17.6,0.0,18.2,0.04,1.5,0.04,0.9,8.61,11.8,1.97,236.2,10.2,0.24,165,Snack,Pakistani,Snack
+"Co-op Mini Selection Mini Samosa, 3 Samosa",54.0,0.0,0.0,2.0,0.0,0.0,21.8,0.52,3.0,0.1,1.53,5.35,9.6,0.52,55.3,5.0,0.09,118,Snack,Pakistani,Snack
+Aloo Chana Chaat,113.2,20.8,0.0,2.0,4.0,0.0,23.8,0.08,0.8,0.09,0.41,7.48,24.4,0.47,55.5,18.8,0.38,263,Snack,Pakistani,Snack
+"Deep Gourmet Original Potato Pea Samosa, 1 Pieces (53g)",26.0,3.2,0.0,1.6,0.4,0.0,16.6,0.05,3.9,0.12,0.79,2.66,10.2,1.36,210.9,15.9,0.21,220,Snack,Pakistani,Snack
+"night (chx tikka, rice, pakora), 1.25 serving(s)",326.4,54.0,0.0,5.2,14.0,0.0,0.0,0.01,6.0,0.17,0.1,2.14,7.0,0.64,66.1,18.2,0.05,233,Snack,Pakistani,Snack
+"Life Pakoras Mixed Vegetables, 1 pak",24.0,3.6,0.0,0.8,0.8,0.0,12.2,0.19,0.1,0.09,0.56,10.04,52.1,0.6,124.7,3.8,0.46,207,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Samosas, 1 vegetable samosa",14.4,2.0,0.0,0.8,0.4,0.0,28.1,0.16,2.1,0.0,0.32,0.63,26.8,0.18,34.8,6.3,0.98,363,Snack,Pakistani,Snack
+Keema Samosa Recipe,47.2,8.4,0.0,1.2,0.8,0.0,31.0,0.2,4.9,0.05,0.09,9.63,31.8,1.13,173.0,15.4,0.78,430,Snack,Pakistani,Snack
+"Recipes Chana Dal, 1/4 cup",71.2,12.0,0.0,1.6,4.0,0.0,0.0,0.25,11.6,0.2,0.32,9.29,3.2,1.77,5.0,19.3,0.6,106,Snack,Pakistani,Snack
+"Neha's Inspired Frozen Yoghurt Mango & Honey Lassi, 80 g",67.2,7.6,0.0,3.6,1.2,0.0,58.4,0.37,4.8,0.33,0.17,6.05,18.6,1.81,44.7,26.0,0.18,201,Snack,Pakistani,Snack
+"night (chx tikka, rice, pakora), 1.5 serving(s)",391.6,64.8,0.0,6.4,16.8,0.0,9.0,0.36,8.2,0.19,0.17,8.48,11.9,0.14,173.1,13.4,0.76,362,Snack,Pakistani,Snack
+"Pakoras Vegetable Fritters, 6 fritters",84.8,6.0,0.0,6.4,1.6,0.0,80.1,0.03,1.5,0.11,0.67,1.5,3.6,0.66,238.1,12.3,0.11,236,Snack,Pakistani,Snack
+"Food Samosa Meat and Veg, 2 Samosa (35 Grams)",70.4,10.0,0.0,1.6,4.0,0.0,47.7,0.37,1.7,0.05,0.72,13.6,6.8,0.28,76.0,15.7,0.05,72,Snack,Pakistani,Snack
+"Punjabi Curry With Pakora Food, 1 cup",154.4,17.2,0.0,6.4,7.2,0.0,20.1,0.08,10.0,0.12,0.54,4.55,75.1,0.25,62.9,17.7,0.48,97,Snack,Pakistani,Snack
+Samosa,58.8,18.0,0.0,7.8,1.2,0.0,53.2,0.25,5.6,0.04,0.74,0.21,41.0,0.35,179.8,1.6,0.41,301,Snack,Pakistani,Snack
+Pakora,107.2,12.6,0.0,22.8,3.1,0.0,0.0,0.09,3.5,0.13,0.05,18.52,4.0,1.17,160.9,8.4,0.05,10,Snack,Pakistani,Snack
+Fruit Chaat,69.9,3.8,0.0,15.2,5.7,0.0,26.5,0.13,12.6,0.01,0.42,3.19,6.0,1.02,90.1,15.5,0.08,175,Snack,Pakistani,Snack
+Dahi Bhallay,75.6,39.1,0.0,2.9,1.6,0.0,41.3,0.35,10.2,0.1,0.1,22.07,44.6,0.48,124.6,13.4,0.31,13,Snack,Pakistani,Snack
+Roasted Chana,79.2,22.8,0.0,7.9,8.9,0.0,29.7,0.04,3.6,0.07,0.6,13.58,0.5,1.73,239.0,10.0,0.4,145,Snack,Pakistani,Snack
+Boiled Egg,58.6,31.7,0.0,0.8,3.1,0.0,8.6,0.46,0.7,0.09,0.16,10.95,24.4,1.26,75.9,3.9,0.55,146,Snack,Pakistani,Snack
+Lassi,104.0,38.6,0.0,9.9,4.1,0.0,0.0,0.54,5.9,0.0,0.52,17.89,10.3,0.62,50.0,13.0,0.06,107,Snack,Pakistani,Snack
+Doodh Patti,83.6,33.8,0.0,5.4,6.3,0.0,45.1,0.06,1.0,0.03,0.7,3.76,8.2,0.73,102.9,8.3,0.49,39,Snack,Pakistani,Snack
+Dates,111.4,21.6,0.0,20.8,1.2,0.0,36.9,0.09,11.9,0.01,0.06,0.2,10.0,0.08,60.7,9.6,0.26,10,Snack,Pakistani,Snack
+Dry Fruits Mix,91.3,33.2,0.0,8.7,4.3,0.0,0.0,0.02,8.1,0.19,0.23,10.64,7.0,0.08,87.5,29.0,0.88,194,Snack,Pakistani,Snack
+Chana Chaat,27.7,5.6,0.0,3.2,4.5,0.0,0.0,0.56,2.1,0.06,0.54,9.23,18.3,0.17,190.1,5.5,0.51,433,Snack,Pakistani,Snack
+Chikki,65.0,23.9,0.0,6.0,3.2,0.0,41.3,0.06,5.4,0.16,0.42,0.81,12.5,1.42,143.6,17.2,0.12,10,Snack,Pakistani,Snack
+Murabba,88.6,16.6,0.0,14.6,5.9,0.0,7.3,0.55,0.5,0.01,0.73,8.4,2.7,0.72,94.8,8.4,0.35,213,Snack,Pakistani,Snack
+Seviyan (sweet vermicelli),121.2,29.8,0.0,17.1,7.5,0.0,24.8,0.49,4.5,0.02,0.21,1.51,32.1,0.29,160.2,7.3,0.26,250,Snack,Pakistani,Snack
+"Homemade Dahi Bhalla / Bhalle, 1 cup (160g) Hyderabadi",84.1,9.6,0.0,2.7,2.0,0.0,0.0,0.25,4.1,0.12,0.18,6.58,32.8,0.55,20.7,13.2,0.47,235,Snack,Pakistani,Snack
+"Sitar Cuisine Chana Masala (Chick Peas), 1 oz Grilled",12.2,1.3,0.0,0.5,0.3,0.0,1.9,0.39,2.5,0.15,0.62,0.33,29.2,0.4,18.5,18.0,0.39,81,Snack,Pakistani,Snack
+"Homemade Kala Chana, 0.5 cup Low-fat",36.0,6.1,0.0,0.4,1.5,0.0,0.0,0.35,6.4,0.05,0.07,11.86,20.8,1.03,78.0,2.2,0.27,336,Snack,Pakistani,Snack
+"Co-op Mini Selection Mini Samosa, 3 Samosa Herbed",59.0,0.0,0.0,1.8,0.0,0.0,14.1,0.49,2.6,0.11,0.19,1.92,18.5,0.49,118.3,13.0,0.59,395,Snack,Pakistani,Snack
+Dry Fruits Mix Light,89.0,32.3,0.0,8.7,4.4,0.0,0.0,0.22,5.1,0.15,0.78,12.22,30.4,1.25,12.3,24.6,0.76,77,Snack,Pakistani,Snack
+"Gourmet Spinach Pakora, 2 pieces (130g) Herbed",38.9,3.5,0.0,2.5,1.3,0.0,0.0,0.46,4.8,0.01,0.63,8.98,17.9,0.79,138.9,5.3,0.2,239,Snack,Pakistani,Snack
+"Chana Masala, 1 cup (275g) Punjabi",168.0,28.5,0.0,3.8,4.6,0.0,1.1,0.38,0.9,0.04,0.01,2.36,29.7,1.1,126.9,20.0,0.64,237,Snack,Pakistani,Snack
+"Punjabi Curry With Pakora Food, 0.8 cup Buttery",126.0,13.9,0.0,3.6,6.5,0.0,0.0,0.61,1.1,0.15,0.76,5.44,40.4,1.09,101.6,12.6,0.3,138,Snack,Pakistani,Snack
+Dry Fruits Mix Crispy,84.0,30.5,0.0,8.8,4.3,0.0,20.0,0.01,2.4,0.05,0.19,9.32,42.0,1.18,51.2,18.3,1.2,244,Snack,Pakistani,Snack
+"Homemade Kala Chana, 1 cup Home-cooked",68.7,11.3,0.0,1.1,3.4,0.0,7.9,0.2,14.7,0.05,0.22,5.05,34.5,0.54,156.0,6.2,0.34,72,Snack,Pakistani,Snack
+"Samosa Chaat, 156 g Tandoori",96.3,16.1,0.0,4.1,4.7,0.0,0.0,0.09,2.1,0.1,0.6,9.56,7.0,0.72,130.9,19.0,0.1,309,Snack,Pakistani,Snack
+"Moong Daal Dahi Vada, 2 pieces Crispy",47.2,3.7,0.0,3.7,2.4,0.0,0.0,0.42,9.2,0.08,0.1,4.62,14.9,2.7,73.1,22.5,0.1,459,Snack,Pakistani,Snack
+"Homemade Samosa Large, 0.5 piece - Slow-cooked",63.3,0.0,0.0,0.0,0.0,0.0,18.9,0.49,0.7,0.27,0.11,3.79,20.8,0.52,43.5,7.0,0.48,205,Snack,Global,Snack
+"Deep Gourmet Potato & Pea Cocktail Samosa, 7.5 pieces (3g) Light",48.7,6.0,0.0,0.0,1.1,0.0,0.0,0.08,2.2,0.12,0.86,0.24,20.7,0.94,324.3,2.2,0.7,276,Snack,Pakistani,Snack
+"Co-op 12 Selection Vegetable Pakora, 2 pakora Crispy",38.2,3.4,0.0,1.3,1.4,0.0,43.8,0.21,1.1,0.11,0.18,1.63,15.4,0.49,71.3,15.3,0.29,312,Snack,Pakistani,Snack
+"Co-Op Mini Selection Mini Pakora, 2 Pakora Home-cooked",36.5,0.0,0.0,1.1,0.0,0.0,0.0,0.21,0.8,0.16,0.08,16.19,7.6,1.08,240.0,8.2,0.39,338,Snack,Pakistani,Snack
+"Deep Gourmet Original Potato Pea Samosa, 1 Pieces (53g) Buttery",27.6,3.4,0.0,1.8,0.5,0.0,45.1,0.04,1.4,0.08,0.0,1.99,8.4,0.24,205.5,5.5,0.16,10,Snack,Pakistani,Snack
+Dried Dates Pudding Recipe Grilled,118.3,12.8,0.0,6.2,2.5,0.0,9.5,0.06,10.8,0.0,0.58,3.21,19.5,0.18,77.2,26.1,0.71,152,Snack,Global,Snack
+"Iceland Platter Vegetable Samosas, 1 vegetable samosa Crispy",18.4,2.6,0.0,0.6,0.3,0.0,93.7,0.24,1.9,0.09,0.27,1.55,15.2,0.55,294.9,1.2,1.08,93,Snack,Pakistani,Snack
+Dried Dates Pudding Recipe Punjabi,105.1,11.4,0.0,5.7,3.2,0.0,0.0,0.07,2.9,0.08,0.79,0.87,40.2,0.81,19.4,5.3,0.51,467,Snack,Global,Snack
+"Samosa (Potato-filled), 1 piece Dry",133.5,13.9,0.0,8.3,1.5,0.0,34.0,0.11,13.0,0.07,0.79,8.65,15.3,1.09,97.3,20.2,0.82,170,Snack,Pakistani,Snack
+"Sainsbury's Vegetable Samosas, 1 Samosa (50g) Grilled",39.9,9.0,0.0,3.1,0.6,0.0,11.9,0.35,1.0,0.09,0.93,6.53,3.0,0.9,270.8,16.8,0.49,407,Snack,Pakistani,Snack
+"Samosa (Potato-filled), 4 piece Hyderabadi",10.0,53.1,0.0,23.9,7.3,0.0,0.0,0.01,6.5,0.08,0.05,8.78,4.9,0.75,190.1,19.6,1.35,54,Snack,Pakistani,Snack
+"Take Away Chicken Pakora, 10 piece Light",440.7,23.2,0.0,20.8,57.2,0.0,0.0,0.23,9.9,0.11,0.4,4.62,13.9,0.59,121.1,2.5,0.26,77,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Pakora, 2 Pakora Herbed",32.0,3.7,0.0,1.5,0.7,0.0,79.5,0.25,3.5,0.08,0.0,0.75,16.0,0.35,30.7,13.9,0.13,421,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Pakora, 2 Pakora Punjabi",96.5,9.8,0.0,5.9,2.6,0.0,75.5,0.0,0.0,0.03,0.17,11.12,15.1,0.5,201.5,16.8,0.11,47,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Pakora, 4 vegetable pakora Buttery",44.7,4.3,0.0,2.0,1.2,0.0,0.0,0.08,12.4,0.02,0.74,17.41,18.1,0.47,34.9,3.5,0.62,145,Snack,Pakistani,Snack
+"Samosa (Potato-Filled), 1 piece Slow-cooked",62.4,0.0,0.0,0.0,0.0,0.0,12.6,0.1,4.6,0.04,0.07,6.05,51.3,1.19,278.7,9.5,0.15,10,Snack,Pakistani,Snack
+"M&s Modern Kebab and Samosa Selection, 3 pieces Slow-cooked",58.5,3.6,0.0,3.4,3.8,0.0,29.0,0.46,2.8,0.02,0.8,1.03,0.8,0.2,119.1,20.0,0.34,338,Snack,Pakistani,Snack
+Keema Samosa Recipe Hyderabadi,49.8,8.9,0.0,1.0,0.7,0.0,0.0,0.5,1.8,0.03,1.16,7.81,9.0,1.58,172.9,11.0,0.73,265,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Pakora, 4 vegetable pakora Home-cooked",42.5,4.1,0.0,1.4,1.4,0.0,53.8,0.24,6.5,0.01,0.38,6.37,5.9,0.91,125.8,20.4,0.55,76,Snack,Pakistani,Snack
+"Homemade Kala Chana, 1 cup Smoky",61.8,10.2,0.0,1.2,4.6,0.0,23.2,0.05,4.4,0.05,0.69,4.24,27.4,1.15,183.3,6.1,0.05,72,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Pakora, 1 container (2 pakoras ea.) Tandoori",108.2,10.9,0.0,5.9,1.9,0.0,70.0,0.5,2.5,0.03,0.17,1.12,42.0,0.36,27.1,14.9,0.63,515,Snack,Pakistani,Snack
+"Food Samosa Meat and Veg, 0.5 Samosa (35 Grams) - Grilled",17.7,2.4,0.0,0.5,1.5,0.0,33.2,0.41,9.3,0.26,0.28,1.43,1.2,0.39,61.5,17.4,0.04,231,Snack,Global,Snack
+"Chana Masala Chickpea, 409.5 grams Slow-cooked",139.2,25.2,0.0,2.7,4.8,0.0,0.0,0.1,2.5,0.18,0.52,18.2,23.2,0.18,15.7,11.5,0.79,615,Snack,Pakistani,Snack
+Dried Dates Pudding Recipe Grilled Home-cooked,145.2,15.7,0.0,5.1,2.3,0.0,3.6,0.13,12.3,0.08,0.18,19.13,23.3,0.47,208.2,9.7,0.16,10,Snack,Global,Snack
+"Mango Lassi, 0.38 cup Tandoori",18.4,3.9,0.0,0.0,0.4,0.0,0.0,0.39,3.4,0.18,0.85,11.5,1.4,1.18,69.8,12.8,0.11,56,Snack,Pakistani,Snack
+"Homemade Samosa Large, 0.5 piece - Tandoori",45.5,0.0,0.0,0.0,0.0,0.0,58.2,0.36,5.8,0.04,1.7,2.63,34.3,0.81,41.4,20.1,0.69,191,Snack,Global,Snack
+"Tesco 12 Snack Selection (Mini Vegetable Pakoras), 2 pakora Slow-cooked",60.2,3.2,0.0,4.4,0.0,0.0,80.9,0.34,1.1,0.03,0.25,1.44,8.9,0.92,56.2,11.0,0.1,342,Snack,Pakistani,Snack
+"Samosa (Potato-Filled), 1 piece Tandoori",73.9,0.0,0.0,0.0,0.0,0.0,23.2,0.41,5.0,0.15,0.45,8.61,7.3,1.15,90.4,21.2,0.26,545,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Pakora, 2 vegetable pakora - Crispy",26.2,2.5,0.0,1.7,1.0,0.0,43.4,0.08,9.9,0.03,0.05,12.46,25.5,0.34,155.4,16.6,0.1,363,Snack,Pakistani,Snack
+"Vegtable Samosa, 1 portion Punjabi",54.2,5.8,0.0,2.3,1.0,0.0,22.8,0.28,3.9,0.05,1.05,11.06,26.9,0.47,41.7,17.3,0.4,270,Snack,Pakistani,Snack
+"Sitar Cuisine Chana Masala (Chick Peas), 1 oz Grilled Herbed",10.3,1.1,0.0,0.4,0.2,0.0,20.4,0.29,2.8,0.12,0.43,25.65,37.7,1.24,91.0,3.8,0.5,268,Snack,Pakistani,Snack
+"Vegetable Samosa, 0.13 samosa Spicy",10.0,0.4,0.0,0.3,0.0,0.0,97.0,0.49,6.0,0.04,0.05,9.08,15.6,0.65,4.1,6.3,0.7,54,Snack,Pakistani,Snack
+"Food Samosa Meat and Veg, 1 Samosa (35 Grams) Grilled",36.3,5.4,0.0,0.9,2.2,0.0,0.0,0.09,2.4,0.12,0.4,8.91,11.2,0.88,28.2,20.0,0.11,10,Snack,Pakistani,Snack
+"night (chx tikka, rice, pakora), 1.25 serving(s) Buttery",306.4,50.7,0.0,5.7,9.8,0.0,0.0,0.12,0.8,0.04,0.59,1.09,0.1,0.97,136.6,6.6,0.42,107,Snack,Pakistani,Snack
+"Homemade Kala Chana, 0.5 cup Dry",29.4,5.0,0.0,0.5,1.7,0.0,0.0,0.4,0.5,0.14,0.14,4.63,23.6,1.25,10.8,7.4,0.67,273,Snack,Pakistani,Snack
+"Samosa Vegetable Samosa, 2 samosa Herbed",113.2,8.7,0.0,10.3,1.1,0.0,58.7,0.22,1.1,0.08,0.14,7.1,5.0,0.53,140.0,9.0,0.61,288,Snack,Pakistani,Snack
+"Sainsbury's Vegetable Samosas, 2 Samosa (50g) Smoky",91.2,0.0,0.0,5.7,0.0,0.0,38.4,0.07,5.1,0.1,0.55,8.96,39.3,0.83,215.7,20.7,0.34,465,Snack,Pakistani,Snack
+"Food Samosa Meat and Veg, 2 Samosa (35 Grams) Hyderabadi",68.5,9.7,0.0,1.4,4.1,0.0,22.9,0.18,7.2,0.02,0.38,0.2,18.2,1.02,1.9,8.3,0.83,42,Snack,Pakistani,Snack
+"(Uk Sheek Kebab, 2 piece Hyderabadi",103.8,0.0,0.0,6.2,12.3,0.0,42.3,0.51,2.8,0.02,0.52,2.58,66.9,1.63,134.0,14.4,0.12,166,Snack,Pakistani,Snack
+"Gourmet Spinach Pakora, 2 pieces (130g) Slow-cooked",40.7,3.7,0.0,2.5,1.4,0.0,0.0,0.01,2.4,0.07,0.81,1.44,50.2,1.13,91.9,6.4,0.72,265,Snack,Pakistani,Snack
+"Schweppes Diet Tonic Water Classic Mixers, 0.5 container (750 mls ea.) Hyderabadi",10.0,0.0,0.0,0.0,0.0,0.0,47.2,0.07,4.1,0.18,0.28,9.82,39.6,0.87,296.3,10.1,0.84,10,Snack,Pakistani,Snack
+"Food Samosa Meat and Veg, 1 Samosa (35 Grams) Light",41.1,6.1,0.0,1.0,2.6,0.0,0.0,0.08,6.8,0.04,0.41,1.02,9.4,0.03,21.8,13.5,0.55,71,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Samosas, 2 vegetable samosa Masaledar",27.0,3.4,0.0,1.6,1.0,0.0,83.6,0.16,0.7,0.16,0.69,10.85,8.5,1.13,239.6,11.6,0.24,404,Snack,Pakistani,Snack
+"Neha's Inspired Frozen Yoghurt Mango & Honey Lassi, 80 g Punjabi",83.7,9.5,0.0,4.7,1.1,0.0,13.5,0.01,0.6,0.12,0.39,16.61,54.3,0.27,43.1,2.1,0.14,85,Snack,Pakistani,Snack
+"(Uk Sheek Kebab, 2 piece Hyderabadi Herbed",92.9,0.0,0.0,4.3,12.6,0.0,24.6,0.1,4.0,0.04,0.42,3.53,16.5,2.12,89.3,3.1,0.75,267,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Pakora, 2 vegetable pakora - Low-fat",20.7,2.0,0.0,1.4,0.6,0.0,34.7,0.42,4.1,0.1,1.21,4.58,30.9,1.52,77.8,18.6,0.67,25,Snack,Pakistani,Snack
+Dry Fruits Mix Masaledar,107.9,39.2,0.0,11.0,3.2,0.0,52.5,0.08,24.0,0.03,0.57,15.37,10.1,0.51,79.8,12.9,0.51,199,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Pakora, 1 container (2 pakoras ea.) Tandoori Tandoori",101.6,10.2,0.0,5.4,2.1,0.0,67.0,0.25,3.2,0.05,0.42,11.39,3.9,0.15,64.4,6.8,0.56,309,Snack,Pakistani,Snack
+"Sheek Kebab, 55 g Punjabi",63.5,0.0,0.0,0.0,0.0,0.0,11.8,0.06,1.0,0.07,0.44,2.8,2.0,0.63,202.2,9.9,0.43,109,Snack,Pakistani,Snack
+"Deep Gourmet Potato & Pea Cocktail Samosa, 7.5 pieces (3g) Light Home-cooked",39.1,4.8,0.0,0.0,1.0,0.0,0.0,0.1,2.2,0.03,0.86,3.0,29.1,0.4,196.1,4.9,0.07,222,Snack,Pakistani,Snack
+"Neha's Inspired Frozen Yoghurt Mango & Honey Lassi, 100 g Low-fat",89.7,10.3,0.0,3.1,1.1,0.0,56.1,0.07,0.3,0.15,0.51,0.56,16.6,1.53,320.8,0.6,0.96,149,Snack,Pakistani,Snack
+"Sainsbury's Vegetable Samosas, 0.5 Samosa (50g) Punjabi",21.5,5.0,0.0,1.3,0.3,0.0,54.3,0.65,1.2,0.03,0.14,11.36,25.1,1.34,79.5,15.5,0.95,320,Snack,Pakistani,Snack
+"Take Away Chicken Pakora, 2 piece Punjabi",64.9,3.4,0.0,3.0,10.1,0.0,6.3,0.49,2.5,0.13,0.19,7.37,31.8,0.31,10.0,9.5,0.61,289,Snack,Pakistani,Snack
+Beef Seekh Kebab () Masaledar,225.8,4.3,0.0,13.0,8.7,0.0,18.5,0.35,8.3,0.05,0.79,7.02,1.4,0.41,169.3,6.3,0.75,243,Snack,Pakistani,Snack
+"Vegtable Samosa, 1 portion Home-cooked",58.6,6.3,0.0,4.1,0.9,0.0,6.0,0.26,8.8,0.01,0.14,14.35,0.8,0.77,72.7,1.4,0.48,387,Snack,Pakistani,Snack
+"Quorn 8 Samosas, 4 samosa Smoky",85.8,8.7,0.0,3.1,2.5,0.0,7.6,0.3,7.9,0.23,0.53,10.84,17.1,1.9,221.4,9.1,0.67,307,Snack,Pakistani,Snack
+"Punjabi Curry With Pakora Food, 1 cup Crispy",181.6,20.2,0.0,6.2,6.1,0.0,0.0,0.4,6.5,0.08,0.21,11.56,27.7,0.09,148.9,7.3,0.76,76,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Pakora, 2 Pakora Punjabi Slow-cooked",90.5,9.2,0.0,6.7,2.4,0.0,15.1,0.27,4.4,0.07,0.11,0.51,54.9,0.54,270.9,12.8,0.33,363,Snack,Pakistani,Snack
+"Sheek Kebab, 55 g Buttery",42.4,0.0,0.0,0.0,0.0,0.0,32.9,0.53,9.7,0.09,0.71,19.46,15.7,0.56,186.3,20.4,0.34,41,Snack,Pakistani,Snack
+"Samosa Vegetable Samosa, 3 samosa Tandoori",209.3,16.1,0.0,12.2,2.6,0.0,67.2,0.16,1.1,0.1,0.19,10.25,29.6,1.59,90.3,16.6,0.21,45,Snack,Pakistani,Snack
+"Take Away Chicken Pakora, 0.2 piece Dry",10.0,0.4,0.0,0.4,1.0,0.0,0.0,0.25,17.0,0.05,0.04,25.55,2.9,0.96,270.1,12.4,0.28,147,Snack,Global,Snack
+"Sheek Kebab, 55 g Home-cooked",46.1,0.0,0.0,0.0,0.0,0.0,37.9,0.22,2.0,0.09,0.61,1.26,9.1,1.41,105.7,24.9,0.1,102,Snack,Pakistani,Snack
+"Curd Dahi, 0.2 small bowl 50gm Grilled",10.0,0.4,0.0,0.4,0.4,0.0,27.0,0.09,0.6,0.11,0.34,1.66,57.2,2.04,155.2,10.6,0.2,356,Snack,Pakistani,Snack
+"Dahi Ki Kadhi (Yoghurt Curry), 0.4 cup Herbed",24.1,2.3,0.0,0.9,0.9,0.0,5.4,0.4,3.5,0.08,0.38,6.18,27.1,1.11,67.2,17.2,0.74,324,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Pakora, 2 Pakora Punjabi Slow-cooked Spicy",98.7,10.0,0.0,7.3,3.0,0.0,99.3,0.08,1.7,0.18,0.26,5.17,19.2,0.04,190.0,5.7,0.54,262,Snack,Pakistani,Snack
+"Moong Daal Dahi Vada, 2 pieces Home-cooked",67.2,5.3,0.0,3.9,1.8,0.0,0.0,0.13,3.3,0.12,0.12,1.15,29.5,0.75,172.9,10.1,0.1,10,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Pakora, 2 vegetable pakora - Low-fat Low-fat",21.0,2.0,0.0,1.4,0.5,0.0,73.4,0.11,0.2,0.15,1.0,6.67,49.5,0.48,211.9,9.7,1.03,150,Snack,Pakistani,Snack
+"Chicken Pakora (Reverse Engineered), 235 g Low-fat",127.5,7.4,0.0,4.0,16.5,0.0,0.0,0.03,7.7,0.15,0.51,2.24,19.0,1.85,109.5,17.0,0.42,203,Snack,Pakistani,Snack
+Seviyan (sweet vermicelli) Masaledar,117.8,29.0,0.0,19.5,6.4,0.0,15.8,0.16,1.9,0.07,0.51,16.54,63.1,0.33,50.8,9.7,0.62,353,Snack,Pakistani,Snack
+"Samosa Vegetable Samosa, 0.5 samosa Smoky",30.8,2.4,0.0,1.9,0.4,0.0,47.3,0.39,6.3,0.04,0.22,5.33,71.2,0.86,96.3,16.3,0.64,307,Snack,Pakistani,Snack
+"Samosa (Potato-filled), 0.5 piece Tandoori",71.7,7.5,0.0,3.9,1.0,0.0,46.2,0.38,5.9,0.28,0.74,6.99,21.1,0.39,345.2,22.0,1.21,106,Snack,Pakistani,Snack
+Dry Fruits Mix Masaledar Buttery,122.2,44.4,0.0,8.0,2.2,0.0,0.0,0.2,11.9,0.13,1.31,1.53,4.0,0.28,90.6,11.2,0.32,514,Snack,Pakistani,Snack
+"Homemade Black Chana Masala, 2 serving Spicy",81.3,12.9,0.0,3.1,3.0,0.0,0.0,0.37,4.8,0.14,0.87,12.57,10.2,0.18,129.7,41.8,0.71,236,Snack,Pakistani,Snack
+"night (chx tikka, rice, pakora), 1.5 serving(s) Punjabi",423.2,70.0,0.0,5.6,17.7,0.0,0.0,0.18,0.4,0.09,0.09,12.43,15.9,0.31,196.3,23.9,0.21,457,Snack,Pakistani,Snack
+Dried Dates Pudding Recipe Grilled Home-cooked Smoky,125.6,13.6,0.0,5.9,2.4,0.0,0.0,0.04,4.1,0.25,0.31,0.51,3.7,0.59,34.5,24.0,0.41,357,Snack,Global,Snack
+"Asda Snacks Vegetable Pakora, 2 Pakora Punjabi Slow-cooked Smoky",82.4,8.4,0.0,4.7,2.8,0.0,22.0,0.17,6.0,0.15,0.39,4.83,19.7,0.76,190.7,9.8,0.13,169,Snack,Pakistani,Snack
+"Curd Dahi, 0.5 small bowl 100gm Light",15.3,0.0,0.0,0.0,0.0,0.0,0.0,0.01,0.8,0.05,0.1,0.48,29.4,0.1,159.6,10.5,0.49,108,Snack,Pakistani,Snack
+"Aloo Chana Chaat, 1 portion Smoky",73.7,14.7,0.0,0.7,3.1,0.0,27.8,0.36,6.6,0.23,0.53,0.83,1.8,0.49,238.7,0.9,0.07,187,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Pakora, 2 Pakora Punjabi Slow-cooked Spicy Slow-cooked",88.8,9.0,0.0,6.7,3.9,0.0,0.0,0.02,6.7,0.22,0.31,1.56,27.4,1.48,138.3,3.6,0.72,10,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Pakora, 2 vegetable pakora - Low-fat Light",19.1,1.8,0.0,1.4,0.5,0.0,39.3,0.01,6.7,0.08,0.35,7.43,48.7,0.12,39.4,7.1,0.06,236,Snack,Pakistani,Snack
+Date Roll - Light,22.1,3.5,0.0,1.0,0.4,0.0,57.0,0.12,8.7,0.05,0.35,5.63,19.7,2.38,95.9,1.1,0.54,194,Snack,Pakistani,Snack
+"Take Away Chicken Pakora, 2 piece Low-fat",81.1,4.3,0.0,3.8,8.7,0.0,63.8,0.13,1.4,0.14,0.26,5.42,10.8,0.52,315.0,21.9,0.81,299,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Pakora, 2 Pakora - Masaledar",100.4,10.2,0.0,4.7,2.1,0.0,28.1,0.25,3.4,0.12,0.81,15.09,17.8,0.25,152.7,16.3,1.23,264,Snack,Pakistani,Snack
+Pakora Slow-cooked,106.7,12.5,0.0,23.7,4.0,0.0,26.3,0.19,1.5,0.24,0.26,21.84,22.9,1.56,137.6,16.0,0.7,236,Snack,Pakistani,Snack
+"Vegetable Samsosas Dish, 2 samosa Tandoori",68.3,9.4,0.0,2.7,1.1,0.0,38.9,0.1,7.2,0.07,0.44,0.41,41.3,0.68,48.4,22.3,0.23,10,Snack,Pakistani,Snack
+"Homemade Kala Chana, 1/4 cup Crispy",14.7,2.5,0.0,0.3,0.8,0.0,41.5,0.13,0.8,0.09,1.1,5.16,10.6,0.52,78.7,15.5,0.25,190,Snack,Pakistani,Snack
+"Curd Dahi, 0.5 small bowl 100gm Hyderabadi",11.4,0.0,0.0,0.0,0.0,0.0,0.0,0.12,1.2,0.06,0.58,13.83,30.0,0.65,64.6,20.5,1.1,195,Snack,Pakistani,Snack
+"Paneer Pakora, 0.25 piece Herbed",10.0,0.0,0.0,0.4,0.0,0.0,38.1,0.04,14.7,0.1,0.23,3.84,86.2,0.15,34.7,16.4,0.3,319,Snack,Pakistani,Snack
+"Sitar Cuisine Chana Masala (Chick Peas), 1 oz Grilled Herbed Herbed",10.9,1.2,0.0,0.4,0.2,0.0,7.7,0.4,1.9,0.02,0.89,15.06,29.3,0.11,42.4,22.6,0.91,210,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Samosas, 1 vegetable samosa Crispy Masaledar",18.1,2.6,0.0,0.7,0.2,0.0,26.7,0.12,0.5,0.04,0.4,26.24,20.2,2.27,91.9,19.7,1.0,10,Snack,Pakistani,Snack
+"Samosa (Potato-filled), 1 piece Light",147.4,15.3,0.0,5.8,2.2,0.0,0.0,0.22,2.3,0.19,0.43,15.98,28.5,0.54,195.5,24.2,0.12,355,Snack,Pakistani,Snack
+Boiled Egg Dry,54.2,29.3,0.0,0.7,3.7,0.0,0.0,0.27,4.4,0.06,0.76,5.49,30.2,1.19,231.0,26.8,0.8,142,Snack,Pakistani,Snack
+Dry Fruits Mix Crispy Light,89.5,32.5,0.0,8.8,4.5,0.0,0.0,0.08,5.1,0.03,0.34,9.83,32.9,0.06,42.9,30.0,0.32,143,Snack,Pakistani,Snack
+"Samosa (Potato-filled), 1 piece Dry Home-cooked",142.1,14.8,0.0,7.3,1.5,0.0,0.0,0.16,1.1,0.14,0.72,25.71,3.9,0.05,158.2,20.7,0.05,151,Snack,Pakistani,Snack
+"Samosa (Potato-Filled), 1 piece Buttery",85.3,0.0,0.0,0.0,0.0,0.0,0.0,0.25,3.6,0.08,0.4,6.66,5.8,1.55,108.3,7.7,0.35,467,Snack,Pakistani,Snack
+Seviyan (sweet vermicelli) Home-cooked,121.7,29.9,0.0,12.4,5.2,0.0,56.3,0.33,1.8,0.17,0.26,12.97,6.7,1.21,211.0,8.8,0.35,10,Snack,Pakistani,Snack
+"Take Away Chicken Pakora, 0.2 piece Slow-cooked",10.0,0.4,0.0,0.5,0.6,0.0,36.1,0.64,4.4,0.02,0.93,9.6,29.2,0.18,101.7,15.8,0.28,290,Snack,Global,Snack
+"Samosa Vegetable Samosa, 0.5 samosa Light",30.7,2.4,0.0,1.7,0.3,0.0,30.5,0.21,7.7,0.11,0.68,4.52,6.1,0.11,45.4,16.7,0.12,160,Snack,Pakistani,Snack
+"Paneer Pakora, 1 piece Slow-cooked",33.3,0.0,0.0,2.1,0.0,0.0,59.5,0.32,6.0,0.04,0.3,15.91,61.4,0.1,68.3,12.4,0.43,75,Snack,Pakistani,Snack
+"Gourmet Spinach Pakora, 6 pieces (130g) Low-fat",116.4,10.5,0.0,5.1,4.5,0.0,23.1,0.05,0.5,0.06,0.54,0.71,59.5,0.6,215.3,14.2,1.25,378,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Pakora, 4 vegetable pakora Tandoori",49.9,4.8,0.0,2.3,1.5,0.0,15.8,0.61,4.0,0.02,0.15,0.9,24.6,0.22,155.6,21.1,0.91,179,Snack,Pakistani,Snack
+"Fitness raw nuts almonds, hazelnut, cashew, 125 g Grilled",313.0,12.5,0.0,24.7,7.9,0.0,0.0,0.1,0.1,0.12,0.86,4.08,39.6,0.21,24.4,29.4,0.44,503,Snack,Pakistani,Snack
+Seviyan (sweet vermicelli) Home-cooked Smoky,114.9,28.2,0.0,11.3,6.2,0.0,110.1,0.14,4.3,0.05,0.06,16.69,10.3,1.85,154.8,20.7,0.55,276,Snack,Pakistani,Snack
+"Neha's Inspired Frozen Yoghurt Mango & Honey Lassi, 100 g Low-fat - Smoky",96.9,11.1,0.0,2.3,1.2,0.0,0.0,0.21,0.7,0.15,0.23,10.19,17.0,0.79,170.3,9.5,0.37,284,Snack,Pakistani,Snack
+"Chana Cury, 0.5 cup cooked Herbed",50.4,6.1,0.0,2.1,1.9,0.0,3.1,0.02,4.3,0.1,0.01,0.07,1.7,0.9,174.3,29.4,0.33,10,Snack,Pakistani,Snack
+"Gourmet Spinach Pakora, 6 pieces (130g) Punjabi",112.7,10.1,0.0,8.4,3.0,0.0,0.0,0.02,3.1,0.04,0.59,2.96,29.0,0.21,29.6,7.7,0.25,488,Snack,Pakistani,Snack
+"Mango Lassi, 1.5 cup Tandoori",84.2,18.7,0.0,0.7,2.2,0.0,50.1,0.22,3.6,0.08,0.4,15.47,11.0,1.45,89.3,14.8,0.79,10,Snack,Pakistani,Snack
+"Samosa Chaat, 106.72 g Light",80.1,13.7,0.0,2.5,3.1,0.0,18.8,0.49,0.3,0.1,0.86,25.41,25.9,1.18,16.7,14.3,0.08,279,Snack,Pakistani,Snack
+"Samosa Vegetable Samosa, 3 samosa Buttery",185.1,14.2,0.0,11.7,2.9,0.0,79.4,0.02,2.0,0.0,0.06,23.06,26.4,0.85,161.9,15.4,0.33,564,Snack,Pakistani,Snack
+"Curd Dahi, 0.2 small bowl 50gm Masaledar",10.0,0.3,0.0,0.5,0.4,0.0,88.2,0.32,2.1,0.0,0.13,2.01,6.7,1.14,68.3,20.0,0.79,211,Snack,Pakistani,Snack
+"Paneer Pakora, 1 piece Tandoori",35.5,0.0,0.0,1.8,0.0,0.0,30.9,0.34,10.4,0.02,0.62,2.12,47.2,0.67,218.4,12.9,0.97,72,Snack,Pakistani,Snack
+"Samosa Vegetable Samosa, 2 samosa Low-fat",220.4,13.2,0.0,4.5,1.5,0.0,38.4,0.48,0.7,0.16,0.25,27.38,45.7,0.95,160.4,3.3,0.01,392,Snack,Pakistani,Snack
+"Samosa Vegetable Samosa, 1.3 samosa - Dry",72.1,5.7,0.0,6.7,1.4,0.0,8.0,0.52,3.2,0.13,0.54,0.91,9.3,0.56,26.4,19.8,0.71,477,Snack,Pakistani,Snack
+"Deep Gourmet Original Potato Pea Samosa, 1 Pieces (53g) Slow-cooked",22.6,2.8,0.0,1.5,0.4,0.0,0.0,0.14,5.2,0.02,1.04,4.98,16.6,1.68,210.7,15.8,0.21,124,Snack,Pakistani,Snack
+"That Drink Raspberry Cinnamon Lassi, 1 container (237 ml) Herbed",43.8,7.1,0.0,1.1,2.6,0.0,0.0,0.02,4.0,0.0,0.38,17.63,23.4,1.2,169.6,10.4,0.77,29,Snack,Pakistani,Snack
+Roasted Chana Smoky,78.4,22.6,0.0,7.6,10.7,0.0,62.4,0.29,6.1,0.02,0.33,15.64,22.3,1.75,80.6,9.1,0.71,154,Snack,Pakistani,Snack
+"Boti Lamb Kebab, 1 serving 50 grams Punjabi",199.8,25.3,0.0,4.5,16.9,0.0,18.5,0.15,2.4,0.08,0.06,0.43,14.5,0.22,2.1,12.9,0.32,82,Snack,Pakistani,Snack
+"Quorn Meat Free Samosa, 1 samosa Tandoori",26.2,2.9,0.0,1.1,0.8,0.0,19.7,0.13,2.0,0.13,0.06,11.82,23.2,1.75,194.5,17.2,0.23,20,Snack,Pakistani,Snack
+"Homemade Dahi Bhalla / Bhalle, 1 cup (160g) Hyderabadi Low-fat",83.2,9.5,0.0,1.9,2.1,0.0,0.0,0.18,8.0,0.12,0.18,3.17,8.7,0.95,69.3,22.4,0.59,450,Snack,Pakistani,Snack
+"Quorn 8 Samosas, 4 samosa Smoky Herbed",87.2,8.8,0.0,3.8,2.7,0.0,0.0,0.61,1.5,0.05,0.39,9.37,48.0,0.22,19.9,10.7,0.11,454,Snack,Pakistani,Snack
+"Samosa Chaat, 266.8 g Dry",159.5,26.8,0.0,3.6,7.1,0.0,0.0,0.18,0.4,0.05,0.33,3.06,37.6,0.97,18.2,24.9,0.71,429,Snack,Global,Snack
+"Homemade Kala Chana, 1.5 cup Home-cooked",87.2,14.5,0.0,1.6,5.8,0.0,9.3,0.03,1.8,0.17,0.3,10.18,23.6,0.58,15.1,7.8,0.07,123,Snack,Pakistani,Snack
+"Homemade Kala Chana, 1/2 cup Grilled",42.7,7.3,0.0,0.4,1.3,0.0,31.7,0.03,8.0,0.13,0.27,15.66,14.5,1.98,137.6,9.0,0.31,196,Snack,Pakistani,Snack
+"Samosa (Potato-Filled), 1 piece Home-cooked",68.7,0.0,0.0,0.0,0.0,0.0,48.3,0.35,5.2,0.09,0.27,2.56,35.8,0.37,96.7,14.4,0.08,343,Snack,Pakistani,Snack
+"Haldiram's Classic Soan Papdi Premium 500g Pack, 1 pc = 26 g Dry",43.4,4.5,0.0,3.2,0.9,0.0,13.7,0.09,10.0,0.13,0.5,13.5,10.5,1.63,98.8,22.7,0.34,10,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Pakora, 4 vegetable pakora Home-cooked Grilled",47.4,4.6,0.0,1.0,1.1,0.0,7.0,0.25,0.3,0.02,0.26,1.96,6.9,0.71,103.9,2.1,0.76,161,Snack,Pakistani,Snack
+"Neha's Inspired Frozen Yoghurt Mango & Honey Lassi, 80 g Punjabi Dry",109.0,12.4,0.0,5.6,1.1,0.0,38.9,0.04,2.4,0.02,0.11,0.31,16.9,0.58,119.8,7.0,1.33,254,Snack,Pakistani,Snack
+"Chana Masala Chickpea, 409.5 grams Slow-cooked Home-cooked",146.5,26.5,0.0,2.5,4.0,0.0,49.1,0.62,9.4,0.13,0.03,4.86,5.0,0.56,51.6,19.3,0.35,10,Snack,Pakistani,Snack
+"Samosa Vegetable Samosa, 1.3 samosa - Dry Masaledar",63.3,5.0,0.0,6.6,1.0,0.0,36.6,0.29,0.2,0.04,0.13,6.45,13.7,0.91,155.1,16.8,0.3,347,Snack,Pakistani,Snack
+"Paneer Pakora, 3 piece Buttery",104.8,0.0,0.0,4.5,0.0,0.0,28.9,0.12,6.6,0.15,0.76,5.99,39.2,1.16,149.2,4.3,0.31,469,Snack,Pakistani,Snack
+Boiled Egg Dry Spicy,47.0,25.4,0.0,0.7,4.6,0.0,0.0,0.28,4.4,0.04,0.89,0.99,4.4,0.7,114.5,23.6,1.05,279,Snack,Pakistani,Snack
+"Sheek Kebab, 55 g Buttery Crispy",52.7,0.0,0.0,0.0,0.0,0.0,0.0,0.66,1.7,0.03,0.08,3.15,38.3,1.52,194.1,7.6,0.23,477,Snack,Pakistani,Snack
+Date Roll - Masaledar,16.1,2.6,0.0,0.8,0.2,0.0,33.3,0.36,1.5,0.04,0.26,20.94,13.9,0.02,91.0,6.6,0.18,10,Snack,Pakistani,Snack
+"Food Samosa Meat and Veg, 1 Samosa (35 Grams) Hyderabadi",27.5,4.1,0.0,1.0,2.0,0.0,7.0,0.52,9.8,0.14,0.3,6.68,24.3,0.47,87.7,21.0,0.12,443,Snack,Pakistani,Snack
+"Deep Gourme Jumbo Punjabi Jumbo Samosa, 1 piece Dry",73.5,8.1,0.0,2.9,1.4,0.0,0.0,0.07,0.5,0.04,0.58,0.95,23.2,0.61,163.2,20.4,0.14,82,Snack,Pakistani,Snack
+"Samosa (Potato-filled), 1 piece Dry Home-cooked Slow-cooked",139.8,14.6,0.0,6.3,1.2,0.0,0.0,0.46,2.6,0.21,0.03,9.86,1.2,0.66,280.4,26.4,0.43,408,Snack,Pakistani,Snack
+"night (chx tikka, rice, pakora), 1.5 serving(s) Punjabi Grilled",465.5,77.0,0.0,5.4,12.7,0.0,41.0,0.01,2.3,0.22,0.4,6.28,29.4,0.36,166.8,11.8,0.61,36,Snack,Pakistani,Snack
+"Homemade Roasted Masala Salmon, 2.25 ounces Spicy",45.5,1.6,0.0,3.6,6.8,0.0,0.0,0.2,8.6,0.06,0.89,10.8,83.9,0.71,196.1,9.5,0.0,147,Snack,Pakistani,Snack
+Dry Fruits Mix Masaledar Buttery Herbed,124.1,45.1,0.0,7.3,2.9,0.0,34.3,0.39,6.1,0.01,0.75,13.71,36.7,0.25,124.8,18.2,1.05,64,Snack,Pakistani,Snack
+"Boti Lamb Kebab, 1 serving 50 grams Punjabi Tandoori",184.9,23.4,0.0,3.9,17.9,0.0,0.0,0.5,0.3,0.17,1.77,7.23,23.6,0.49,282.5,9.8,0.5,254,Snack,Pakistani,Snack
+Roasted Chana Low-fat,78.2,22.5,0.0,9.1,9.1,0.0,0.0,0.15,4.8,0.11,0.82,20.09,2.0,0.71,104.5,3.1,0.63,336,Snack,Pakistani,Snack
+"night (chx tikka, rice, pakora), 1.25 serving(s) Buttery Low-fat",266.8,44.1,0.0,5.3,8.9,0.0,0.0,0.23,3.3,0.09,0.42,16.81,5.2,0.01,172.4,10.9,0.85,304,Snack,Pakistani,Snack
+Roasted Chana Smoky Punjabi,96.4,27.8,0.0,7.5,7.5,0.0,26.0,0.33,0.7,0.05,0.13,22.31,17.0,0.27,188.9,3.9,0.4,456,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Pakora, 2 Pakora Punjabi Slow-cooked Spicy Slow-cooked - Spicy",90.7,9.2,0.0,6.0,3.5,0.0,52.3,0.02,1.4,0.24,0.03,2.86,50.1,0.12,98.7,11.4,0.16,327,Snack,Pakistani,Snack
+"Homemade Kala Chana, 0.5 cup Hyderabadi",25.0,4.3,0.0,0.5,1.6,0.0,0.0,0.14,4.5,0.01,0.49,11.31,31.6,0.68,127.6,7.1,0.38,66,Snack,Pakistani,Snack
+"Food Samosa Meat and Veg, 1 Samosa (35 Grams) Light - Tandoori",33.0,4.9,0.0,1.1,2.6,0.0,21.4,0.16,5.3,0.09,0.68,3.51,14.8,0.42,87.4,3.6,0.6,306,Snack,Pakistani,Snack
+"Homemade Kala Chana, 1/2 cup Grilled Light",46.4,7.9,0.0,0.3,1.3,0.0,13.9,0.2,1.3,0.16,0.23,0.23,42.0,0.05,59.2,17.9,0.17,319,Snack,Pakistani,Snack
+"Food Aloo Samosa Pastry With Potato Filling, 1.2 oz Tandoori",16.9,1.5,0.0,1.7,0.0,0.0,31.7,0.04,11.0,0.04,1.18,6.69,3.9,1.57,65.9,6.4,0.6,67,Snack,Pakistani,Snack
+Beef Seekh Kebab () Light,181.6,3.4,0.0,14.7,13.5,0.0,0.0,0.12,9.8,0.11,0.57,2.41,7.1,0.92,244.9,14.7,0.29,25,Snack,Pakistani,Snack
+"Food Samosa Meat and Veg, 1 Samosa (35 Grams) Light - Hyderabadi",36.0,5.3,0.0,0.7,2.7,0.0,51.6,0.05,5.1,0.1,0.85,6.42,47.7,1.46,20.0,14.9,0.57,10,Snack,Pakistani,Snack
+"Sainsbury's Vegetable Samosas, 1 Samosa (50g) Grilled Dry",32.2,7.3,0.0,2.8,0.4,0.0,37.3,0.26,4.2,0.12,0.44,9.11,53.1,0.17,140.7,26.5,0.5,182,Snack,Pakistani,Snack
+"Gourmet Spinach Pakora, 2 pieces (130g) Home-cooked",36.9,3.3,0.0,3.1,1.2,0.0,0.0,0.21,0.4,0.02,0.36,7.66,15.1,1.0,77.5,9.2,0.37,364,Snack,Pakistani,Snack
+"Pakoras Vegetable Fritters, 6 fritters Tandoori",90.1,6.4,0.0,7.3,1.7,0.0,21.7,0.01,4.5,0.22,0.95,7.72,14.2,0.43,47.6,9.8,0.76,493,Snack,Pakistani,Snack
+"Homemade Kala Chana, 1.5 cup Spicy",88.8,14.8,0.0,1.1,4.6,0.0,49.3,0.46,2.2,0.03,0.46,5.15,37.9,1.9,147.6,10.0,0.03,203,Snack,Pakistani,Snack
+"Samosa (Potato-Filled), 1 piece Tandoori Smoky",75.7,0.0,0.0,0.0,0.0,0.0,9.7,0.26,1.5,0.02,0.52,0.19,12.6,0.69,210.9,23.0,0.86,210,Snack,Pakistani,Snack
+"Curd Dahi, 0.2 small bowl 50gm Grilled Masaledar",10.0,0.4,0.0,0.4,0.4,0.0,47.2,0.12,0.6,0.01,0.77,10.53,29.1,0.9,159.3,5.8,0.2,179,Snack,Pakistani,Snack
+"Vegtable Samosa, 1 portion Home-cooked Herbed",55.9,6.0,0.0,4.7,0.7,0.0,0.0,0.18,5.5,0.03,0.52,8.01,54.7,0.68,138.9,10.0,0.32,532,Snack,Pakistani,Snack
+"Sainsbury's Vegetable Samosas, 1 Samosa (50g) Buttery",45.8,10.3,0.0,2.6,0.6,0.0,73.3,0.33,1.4,0.03,0.16,2.57,46.7,1.46,180.2,28.2,0.66,150,Snack,Pakistani,Snack
+"Quorn 8 Samosas, 4 samosa Smoky Hyderabadi",85.7,8.7,0.0,2.7,2.0,0.0,36.8,0.35,1.8,0.07,0.88,13.7,11.0,0.83,120.8,18.8,0.2,69,Snack,Pakistani,Snack
+"Paneer Pakora, 3 piece Smoky",107.8,0.0,0.0,3.4,0.0,0.0,0.0,0.3,3.9,0.01,0.22,7.49,35.5,0.32,141.5,25.9,0.1,216,Snack,Pakistani,Snack
+"Mango Lassi, 0.5 cup Light",22.2,4.8,0.0,0.3,0.9,0.0,20.7,0.19,3.1,0.12,0.35,13.78,9.1,1.62,10.7,9.5,0.02,95,Snack,Global,Snack
+"Sainsbury's Vegetable Samosas, 0.5 Samosa (50g) Low-fat",26.1,6.1,0.0,1.4,0.3,0.0,58.6,0.26,7.5,0.13,0.41,0.39,1.2,1.52,73.6,6.0,0.81,258,Snack,Pakistani,Snack
+"Sheek Kebab, 55 g Punjabi Tandoori",79.6,0.0,0.0,0.0,0.0,0.0,49.6,0.04,5.1,0.13,0.22,12.2,63.2,0.26,53.7,16.3,0.16,324,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Pakora, 2 Pakora Punjabi Masaledar",88.3,9.0,0.0,5.0,2.6,0.0,66.3,0.31,5.2,0.14,0.03,0.77,51.4,0.13,64.1,4.0,0.14,10,Snack,Pakistani,Snack
+"M&s Modern Crispy Chaat Selection, 3.99 pieces Light",100.9,11.2,0.0,2.8,3.9,0.0,1.7,0.1,4.6,0.05,0.49,3.32,0.1,0.53,32.8,10.5,0.54,10,Snack,Pakistani,Snack
+Pakora Smoky,121.2,14.3,0.0,26.5,2.2,0.0,32.9,0.32,5.1,0.23,0.18,3.89,21.3,1.87,130.0,15.3,0.37,40,Snack,Pakistani,Snack
+Dates Buttery,80.4,15.6,0.0,20.9,0.9,0.0,13.7,0.01,7.2,0.1,0.39,22.19,9.7,0.47,59.3,0.1,0.94,382,Snack,Pakistani,Snack
+"Mango Lassi, 1.5 cup Hyderabadi",90.1,20.0,0.0,0.9,3.0,0.0,0.0,0.17,4.3,0.26,0.11,3.15,13.1,0.24,167.1,6.3,0.09,397,Snack,Pakistani,Snack
+"Take Away Chicken Pakora, 1 piece Low-fat",30.7,1.6,0.0,1.1,4.2,0.0,8.6,0.13,1.0,0.18,0.14,12.69,19.4,1.12,268.7,2.7,0.76,205,Snack,Pakistani,Snack
+"Neha's Inspired Frozen Yoghurt Mango & Honey Lassi, 100 g Low-fat - Smoky Light",85.9,9.8,0.0,2.3,1.6,0.0,0.0,0.39,1.9,0.05,0.58,5.95,19.0,0.72,19.4,4.6,0.1,93,Snack,Pakistani,Snack
+Murabba Dry,99.4,18.6,0.0,12.0,7.6,0.0,24.1,0.02,0.4,0.0,0.39,0.21,3.7,0.7,147.2,34.8,0.43,221,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Pakora, 2 vegetable pakora - Low-fat Herbed",21.8,2.1,0.0,1.1,0.4,0.0,77.0,0.18,5.3,0.17,0.43,5.49,28.1,1.4,259.5,11.5,0.46,441,Snack,Pakistani,Snack
+Beef Seekh Kebab () Light Light,157.1,2.9,0.0,11.5,11.2,0.0,0.0,0.14,0.7,0.0,0.18,6.1,35.0,0.42,36.4,18.0,0.18,202,Snack,Pakistani,Snack
+"Homemade Black Chana Masala, 1 serving Masaledar",38.6,6.1,0.0,1.1,2.5,0.0,13.6,0.1,3.8,0.12,0.35,7.53,10.5,0.66,21.0,13.1,0.39,54,Snack,Pakistani,Snack
+"Paneer Pakora, 3 piece Slow-cooked",83.4,0.0,0.0,5.5,0.0,0.0,49.1,0.01,9.4,0.07,0.4,8.54,48.2,1.21,94.0,5.1,0.05,52,Snack,Pakistani,Snack
+"Take Away Chicken Pakora, 0.2 piece Slow-cooked Punjabi",10.5,0.4,0.0,0.5,0.5,0.0,11.4,0.24,1.1,0.05,0.29,4.94,13.7,1.2,61.2,19.6,1.16,220,Snack,Global,Snack
+"Samosa Chaat, 156 g Grilled",111.1,18.5,0.0,3.7,2.9,0.0,27.9,0.24,2.8,0.05,0.27,10.74,9.1,0.56,80.2,7.3,0.14,62,Snack,Pakistani,Snack
+"(Uk Sheek Kebab, 2 piece Hyderabadi Herbed Low-fat",95.9,0.0,0.0,4.0,11.5,0.0,44.4,0.43,3.9,0.02,0.48,5.17,7.5,0.01,192.7,18.2,0.39,479,Snack,Pakistani,Snack
+"Deep Gourmet Pakora Spinach, 2.5 pieces Tandoori",52.5,4.6,0.0,3.4,1.7,0.0,8.4,0.19,4.9,0.02,0.24,2.39,18.2,0.61,7.7,6.1,0.02,140,Snack,Pakistani,Snack
+"Dahi Whole Milk Yogurt, 1 cup/(227g Spicy",61.8,6.2,0.0,2.8,5.8,0.0,39.6,0.02,0.3,0.11,0.04,2.7,76.6,0.68,261.1,2.6,0.15,281,Snack,Pakistani,Snack
+"Waitrose Good to Go Snack Selection (Two Bhajis, One Samosa, Mango Dip), 1 pack Grilled",102.7,13.3,0.0,3.1,1.5,0.0,28.1,0.07,3.2,0.05,0.76,12.37,25.2,0.66,14.3,1.7,0.43,351,Snack,Global,Snack
+"Samosa (Potato-Filled), 1 piece Tandoori Dry",85.7,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.6,0.18,0.63,5.87,49.9,0.7,264.9,30.6,0.29,305,Snack,Pakistani,Snack
+"Mango Lassi, 0.38 cup Spicy",19.8,4.2,0.0,0.0,0.4,0.0,26.4,0.18,1.6,0.25,0.16,10.83,39.2,0.01,133.2,10.5,0.68,551,Snack,Pakistani,Snack
+"Chicken Pakora (Reverse Engineered), 235 g Low-fat Home-cooked",138.3,8.0,0.0,3.5,16.2,0.0,0.0,0.34,8.5,0.11,0.1,6.87,25.4,0.88,112.2,12.4,0.04,592,Snack,Pakistani,Snack
+Seviyan (sweet vermicelli) Home-cooked Smoky Herbed,117.1,28.7,0.0,12.5,5.9,0.0,0.0,0.19,12.3,0.17,0.2,6.66,0.9,0.94,160.4,19.4,0.23,30,Snack,Pakistani,Snack
+"Samosa Chaat, 106.72 g Hyderabadi",57.2,9.8,0.0,1.5,2.9,0.0,13.4,0.27,0.5,0.08,0.44,3.5,18.6,0.74,268.3,13.9,0.45,454,Snack,Pakistani,Snack
+"Morrisons Mini Snack Vegetable Samosa, 1 Samosa Low-fat",20.0,2.5,0.0,1.4,0.4,0.0,27.6,0.15,6.9,0.14,0.02,7.7,7.3,0.71,43.3,5.2,0.67,107,Snack,Pakistani,Snack
+"Homemade Kala Chana, 1/2 cup Dry",27.7,4.7,0.0,0.5,1.8,0.0,0.0,0.17,2.9,0.03,0.57,10.47,21.6,0.93,3.8,30.9,0.36,79,Snack,Pakistani,Snack
+"Fitness raw nuts almonds, hazelnut, cashew, 125 g Grilled Herbed",318.5,12.7,0.0,28.4,8.7,0.0,8.2,0.3,2.0,0.15,0.29,13.39,23.4,0.52,100.8,31.7,1.19,86,Snack,Pakistani,Snack
+"Samosa (Potato-Filled), 1 piece Tandoori Dry Low-fat",86.2,0.0,0.0,0.0,0.0,0.0,11.9,0.2,6.1,0.02,0.4,4.83,5.8,1.61,108.6,37.8,0.74,413,Snack,Pakistani,Snack
+"Food Samosa Meat and Veg, 0.5 Samosa (35 Grams) - Grilled Spicy",15.5,2.1,0.0,0.6,1.1,0.0,25.2,0.05,11.7,0.08,0.01,13.92,25.9,0.47,132.5,0.7,0.23,292,Snack,Global,Snack
+"Food Samosa Meat and Veg, 2 Samosa (35 Grams) Light",86.3,12.3,0.0,1.5,5.2,0.0,0.0,0.01,5.1,0.0,0.11,0.31,10.9,1.32,79.6,18.4,0.58,10,Snack,Pakistani,Snack
+"Homemade Roasted Masala Salmon, 2.25 ounces Spicy Slow-cooked",47.1,1.7,0.0,2.5,5.6,0.0,0.0,0.02,11.0,0.08,0.49,4.07,19.2,0.61,122.6,20.2,0.32,356,Snack,Pakistani,Snack
+"Take Away Chicken Pakora, 0.2 piece Slow-cooked Punjabi Hyderabadi",10.0,0.3,0.0,0.6,0.4,0.0,42.5,0.02,1.3,0.05,0.33,8.94,57.6,2.52,172.0,14.9,0.09,506,Snack,Global,Snack
+"Sheek Kebab, 55 g Punjabi Tandoori Spicy",81.7,0.0,0.0,0.0,0.0,0.0,27.2,0.47,4.8,0.05,0.21,3.22,18.5,0.55,122.0,24.4,0.59,235,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Pakora, 1 container (2 pakoras ea.) Tandoori Tandoori Spicy",94.4,9.5,0.0,6.3,2.1,0.0,24.2,0.02,0.7,0.06,0.12,1.15,20.6,1.03,28.5,10.0,0.39,195,Snack,Pakistani,Snack
+"Samosa (Potato-filled), 1 piece Dry Home-cooked Slow-cooked Low-fat",142.3,14.9,0.0,7.0,1.2,0.0,0.0,0.02,0.7,0.03,0.14,3.42,25.5,0.64,215.8,23.5,0.33,202,Snack,Pakistani,Snack
+"Mango Lassi, 0.38 cup Spicy Masaledar",21.0,4.5,0.0,0.0,0.3,0.0,9.4,0.07,1.4,0.07,0.04,16.34,50.6,1.27,109.6,4.8,0.43,274,Snack,Pakistani,Snack
+"Sitar Cuisine Chana Masala (Chick Peas), 1 oz Dry",12.7,1.3,0.0,0.5,0.5,0.0,39.8,0.02,8.1,0.23,0.8,8.12,3.8,0.83,12.3,13.8,0.12,229,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Samosas, 2 vegetable samosa Masaledar Grilled",25.7,3.2,0.0,1.7,1.2,0.0,27.5,0.24,5.4,0.14,0.54,5.64,20.5,0.27,54.1,14.9,0.12,270,Snack,Pakistani,Snack
+"Deep Gourmet Potato & Pea Cocktail Samosa, 7.5 pieces (3g) Light Home-cooked Home-cooked",39.2,4.8,0.0,0.0,0.9,0.0,0.0,0.41,1.6,0.17,0.54,7.59,39.5,1.27,265.1,29.1,1.05,289,Snack,Pakistani,Snack
+"Sainsbury's Vegetable Samosas, 1 Samosa (50g) Dry",42.0,9.5,0.0,2.6,0.6,0.0,73.7,0.6,5.3,0.04,0.33,15.78,12.3,1.11,180.4,21.2,0.27,238,Snack,Pakistani,Snack
+"M&s Modern Kebab and Samosa Selection, 3 pieces - Buttery",53.2,3.3,0.0,2.7,2.8,0.0,0.0,0.38,4.7,0.1,0.45,3.07,13.3,0.33,133.5,12.9,0.01,413,Snack,Pakistani,Snack
+"Sheek Kebab, 55 g Home-cooked Light",32.3,0.0,0.0,0.0,0.0,0.0,0.0,0.67,3.0,0.09,0.52,1.03,39.3,0.77,131.2,11.6,0.15,12,Snack,Pakistani,Snack
+"Samosa Chaat, 156 g Tandoori Grilled",109.8,18.4,0.0,4.8,5.7,0.0,47.0,0.05,7.6,0.01,0.23,1.18,12.9,0.92,126.1,16.3,0.89,311,Snack,Pakistani,Snack
+Beef Seekh Kebab () Light Hyderabadi,224.4,4.2,0.0,18.7,15.5,0.0,0.0,0.1,7.3,0.12,0.17,31.7,2.1,0.69,87.8,8.1,0.1,27,Snack,Pakistani,Snack
+"Sainsbury's Vegetable Samosas, 1 Samosa (50g) Grilled - Smoky",29.0,6.6,0.0,3.0,0.5,0.0,84.3,0.51,8.4,0.07,0.03,14.26,4.8,0.82,116.5,4.9,0.51,331,Snack,Pakistani,Snack
+"Homemade Kala Chana, 1/2 cup Grilled Slow-cooked",37.9,6.5,0.0,0.4,0.9,0.0,20.7,0.37,2.4,0.11,0.12,5.55,23.8,0.19,91.6,16.8,1.12,401,Snack,Pakistani,Snack
+"Sheek Kebab, 55 g Home-cooked Light Grilled",27.9,0.0,0.0,0.0,0.0,0.0,47.2,0.46,2.0,0.03,0.46,12.13,28.8,0.25,71.0,3.1,0.48,313,Snack,Pakistani,Snack
+"Sheek Kebab, 55 g Buttery Home-cooked",46.1,0.0,0.0,0.0,0.0,0.0,23.2,0.19,2.1,0.19,0.09,20.43,15.5,0.41,268.6,15.9,0.28,190,Snack,Pakistani,Snack
+"Sainsbury's Vegetable Samosas, 2 Samosa (50g) Smoky Punjabi",88.9,0.0,0.0,7.4,0.0,0.0,39.3,0.02,6.9,0.11,0.2,13.99,15.2,0.22,73.3,21.8,0.52,152,Snack,Pakistani,Snack
+Seviyan (sweet vermicelli) Home-cooked Smoky Buttery,102.6,25.2,0.0,14.7,4.9,0.0,53.5,0.16,1.7,0.04,0.65,12.79,19.4,0.69,5.3,19.1,0.57,81,Snack,Pakistani,Snack
+"Neha's Inspired Frozen Yoghurt Mango & Honey Lassi, 100 g Low-fat Smoky",106.2,12.2,0.0,3.3,1.1,0.0,0.0,0.05,8.1,0.0,0.06,0.21,50.6,1.5,88.4,21.8,0.44,93,Snack,Pakistani,Snack
+"Recipes Chana Dal, 1/4 cup Punjabi",67.1,11.3,0.0,2.0,5.2,0.0,6.3,0.05,1.1,0.02,0.16,2.71,11.3,0.42,180.8,10.2,0.33,193,Snack,Pakistani,Snack
+"Sheek Kebab, 55 g Buttery Punjabi",50.3,0.0,0.0,0.0,0.0,0.0,26.4,0.42,0.1,0.06,0.19,11.15,67.0,1.27,19.0,18.4,0.02,167,Snack,Pakistani,Snack
+"Morrisons Mini Snack Vegetable Samosa, 1 Samosa Low-fat Hyderabadi",20.4,2.6,0.0,1.5,0.4,0.0,24.2,0.45,4.8,0.07,0.41,6.84,2.2,1.82,224.6,19.0,0.41,248,Snack,Pakistani,Snack
+"Homemade Kala Chana, 1 cup Home-cooked Slow-cooked",79.1,13.0,0.0,1.3,3.4,0.0,17.3,0.11,0.7,0.02,0.43,9.86,21.1,0.96,43.9,8.7,0.88,177,Snack,Pakistani,Snack
+"(Uk Sheek Kebab, 2 piece Hyderabadi Herbed Low-fat Punjabi",98.8,0.0,0.0,4.3,9.1,0.0,56.8,0.17,0.3,0.06,0.3,24.04,25.3,0.82,66.7,16.7,0.46,210,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Pakora, 2 Pakora Punjabi Slow-cooked Spicy Light",106.6,10.8,0.0,5.7,3.0,0.0,6.7,0.07,2.8,0.01,0.04,1.41,52.5,2.33,83.9,14.7,0.06,335,Snack,Pakistani,Snack
+"Curd Dahi, 1 small bowl 100gm Home-cooked",22.6,0.0,0.0,0.0,0.0,0.0,32.0,0.13,1.2,0.32,0.57,0.91,12.3,0.96,18.6,7.9,0.39,252,Snack,Pakistani,Snack
+"Food Samosa Meat and Veg, 2 Samosa (35 Grams) Smoky",63.9,9.1,0.0,2.0,3.3,0.0,0.0,0.07,8.2,0.1,0.19,3.95,40.2,0.69,139.1,20.3,1.01,202,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Pakora, 2 Pakora Herbed Home-cooked",26.9,3.1,0.0,1.1,0.6,0.0,95.4,0.31,0.6,0.05,0.69,13.07,33.7,1.01,27.1,8.7,0.9,10,Snack,Pakistani,Snack
+"Homemade Kala Chana, 1/4 cup Spicy",16.1,2.8,0.0,0.5,0.9,0.0,0.0,0.59,6.1,0.17,0.29,7.67,34.9,1.04,55.1,9.7,0.18,175,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Samosas, 2 vegetable samosa Masaledar Tandoori",23.0,2.9,0.0,1.7,1.2,0.0,44.2,0.01,2.5,0.05,0.03,7.32,77.0,0.23,199.0,6.7,1.29,270,Snack,Pakistani,Snack
+"Sainsbury's Vegetable Samosas, 1 Samosa (50g) Grilled - Smoky Masaledar",31.9,7.3,0.0,2.6,0.6,0.0,7.6,0.15,0.4,0.14,0.08,17.72,31.2,1.63,13.3,26.4,0.96,125,Snack,Pakistani,Snack
+"Samosa (Potato-filled), 1 piece Masaledar",106.7,11.1,0.0,8.7,1.5,0.0,10.2,0.49,3.9,0.15,0.02,2.47,15.7,0.52,120.3,10.7,0.31,172,Snack,Pakistani,Snack
+"Morrisons Mini Snack Vegetable Samosa, 1 Samosa Dry",27.6,3.5,0.0,1.6,0.5,0.0,39.3,0.18,3.2,0.03,0.32,4.47,24.2,0.71,40.4,19.4,0.48,167,Snack,Pakistani,Snack
+"Homemade Roasted Masala Salmon, 2.25 ounces Spicy Slow-cooked Punjabi",37.8,1.4,0.0,1.9,6.1,0.0,10.3,0.16,3.7,0.02,0.4,2.7,78.4,0.31,91.4,9.5,0.14,328,Snack,Pakistani,Snack
+Dry Fruits Mix Masaledar Buttery Herbed - Light,121.8,44.2,0.0,6.6,4.3,0.0,19.4,0.68,8.8,0.07,0.49,8.74,36.8,0.85,129.1,42.7,0.74,406,Snack,Pakistani,Snack
+"(Uk Sheek Kebab, 2 piece Hyderabadi Light",104.6,0.0,0.0,6.0,13.9,0.0,23.9,0.1,3.1,0.06,0.68,4.61,35.0,0.35,151.8,19.7,0.12,301,Snack,Pakistani,Snack
+"Chicken Pakora (Reverse Engineered), 235 g Low-fat Tandoori",144.9,8.4,0.0,4.6,13.9,0.0,58.8,0.2,1.2,0.09,0.02,5.65,15.7,0.61,93.7,3.9,0.78,91,Snack,Pakistani,Snack
+"Deep Gourmet Potato Cocktail Samosas, 5 pieces (42 g) Spicy",27.9,5.6,0.0,0.4,0.4,0.0,10.5,0.27,9.8,0.17,0.46,0.77,29.1,1.15,146.7,15.0,0.82,288,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Pakora, 4 vegetable pakora Home-cooked Hyderabadi",41.2,4.0,0.0,1.5,1.8,0.0,57.6,0.29,7.8,0.05,0.02,12.18,2.4,1.57,135.8,11.2,0.92,383,Snack,Pakistani,Snack
+"Chicken Pakora (Reverse Engineered), 235 g Tandoori",138.6,8.0,0.0,5.5,12.3,0.0,44.5,0.28,0.8,0.03,1.55,2.33,29.9,1.02,53.8,16.2,0.25,302,Snack,Pakistani,Snack
+"Aldi Bilash 8 Mini Vegetable Samosas, 3 Samosa (23g) Hyderabadi",70.1,7.3,0.0,3.5,1.4,0.0,12.7,0.36,6.1,0.01,0.68,11.57,36.3,0.06,25.7,1.5,0.14,164,Snack,Pakistani,Snack
+Murabba Dry Masaledar,93.8,17.6,0.0,11.3,6.7,0.0,21.7,0.03,4.9,0.01,0.46,2.58,67.4,0.52,171.7,21.4,0.16,437,Snack,Pakistani,Snack
+"Take Away Chicken Pakora, 10 piece Home-cooked",368.7,19.4,0.0,11.8,39.5,0.0,0.0,0.72,2.7,0.11,0.79,0.26,24.2,0.3,239.9,15.5,0.27,283,Snack,Pakistani,Snack
+"M&s Modern Kebab and Samosa Selection, 3 pieces - Dry",51.8,3.3,0.0,3.9,3.4,0.0,0.0,0.49,5.5,0.15,0.57,11.6,11.2,0.14,299.9,7.8,0.04,226,Snack,Pakistani,Snack
+"Schweppes Diet Tonic Water Classic Mixers, 0.5 container (750 mls ea.) - Punjabi",10.1,0.0,0.0,0.0,0.0,0.0,1.9,0.2,3.5,0.12,0.35,9.16,11.2,1.21,74.3,19.2,0.18,324,Snack,Pakistani,Snack
+"Sainsbury's Vegetable Samosas, 0.5 Samosa (50g) Low-fat Herbed",24.7,5.8,0.0,1.4,0.3,0.0,64.5,0.33,6.5,0.1,0.67,5.14,49.4,1.63,150.4,9.7,0.09,254,Snack,Pakistani,Snack
+"Co-Op Mini Selection Mini Pakora, 2 Pakora Herbed",43.3,0.0,0.0,0.9,0.0,0.0,0.0,0.05,5.2,0.13,0.32,3.51,12.6,0.65,90.8,13.7,0.27,175,Snack,Pakistani,Snack
+"(Uk Sheek Kebab, 2 piece Hyderabadi Herbed Low-fat Grilled",97.7,0.0,0.0,4.3,14.3,0.0,64.1,0.31,7.8,0.01,0.16,0.09,13.7,1.46,61.6,11.3,0.83,252,Snack,Pakistani,Snack
+"Aloo Chana Chaat, 1 portion Smoky Masaledar",73.6,14.7,0.0,0.7,2.4,0.0,16.2,0.38,5.8,0.16,0.93,2.95,13.4,1.78,63.9,2.6,0.26,151,Snack,Pakistani,Snack
+"Neha's Inspired Frozen Yoghurt Mango & Honey Lassi, 90 g Home-cooked",76.0,8.4,0.0,3.3,1.3,0.0,0.0,0.17,0.3,0.07,0.66,4.16,11.8,1.15,187.4,14.2,0.56,316,Snack,Pakistani,Snack
+"Take Away Chicken Pakora, 0.2 piece Spicy",10.0,0.3,0.0,0.4,0.9,0.0,21.2,0.28,4.3,0.03,0.51,9.54,3.6,0.05,47.9,21.2,0.48,271,Snack,Global,Snack
+"Food Samosa Meat and Veg, 2 Samosa (35 Grams) Smoky Punjabi",69.2,9.9,0.0,2.0,4.0,0.0,0.0,0.28,4.5,0.0,0.08,14.18,2.4,0.84,65.1,20.8,0.65,10,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Samosas, 1 vegetable samosa Slow-cooked",13.9,1.9,0.0,0.6,0.5,0.0,0.0,0.23,1.9,0.01,0.67,4.73,37.2,2.88,224.6,1.6,0.4,308,Snack,Pakistani,Snack
+"Moong Daal Dahi Vada, 2 pieces Crispy Grilled",43.3,3.4,0.0,4.3,2.7,0.0,18.6,0.07,4.5,0.07,0.0,1.57,58.0,1.7,21.2,10.3,0.23,267,Snack,Pakistani,Snack
+"Samosa (Potato-filled), 1 piece Dry Home-cooked Home-cooked",133.5,13.9,0.0,9.0,1.9,0.0,11.2,0.14,0.2,0.04,1.11,8.92,20.1,1.17,157.2,23.3,0.2,418,Snack,Pakistani,Snack
+"Mango Lassi, 2 cup Masaledar",125.4,27.7,0.0,0.8,2.6,0.0,0.0,0.19,9.6,0.11,0.12,15.32,16.0,0.8,114.2,26.5,0.35,10,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Pakora, 2 vegetable pakora - Low-fat Spicy",19.7,1.9,0.0,1.5,0.6,0.0,0.0,0.22,0.3,0.07,0.45,13.91,8.9,0.44,74.1,6.1,0.07,436,Snack,Pakistani,Snack
+"Recipes Chana Dal, 1/2 cup Light",144.9,24.4,0.0,4.2,8.0,0.0,40.7,0.03,4.8,0.01,0.26,15.37,0.3,0.06,113.7,7.9,1.29,379,Snack,Pakistani,Snack
+"Moong Daal Dahi Vada, 2 pieces Home-cooked Tandoori",62.4,4.9,0.0,3.5,1.3,0.0,12.6,0.19,1.9,0.22,0.23,6.25,29.5,0.55,295.3,9.3,0.08,223,Snack,Pakistani,Snack
+"Take Away Chicken Pakora, 300 g Crispy",129.4,8.6,0.0,4.9,2.3,0.0,0.0,0.17,5.3,0.04,0.65,3.42,58.1,0.55,201.8,19.2,0.61,52,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Pakora, 2 Pakora Spicy",84.7,8.6,0.0,3.7,2.5,0.0,62.0,0.24,3.5,0.03,0.18,8.61,37.8,1.16,82.4,8.9,0.03,335,Snack,Pakistani,Snack
+"Quorn 8 Samosas, 4 samosa Smoky Hyderabadi Smoky",65.5,6.7,0.0,1.9,1.4,0.0,33.6,0.04,1.5,0.2,0.45,22.64,12.1,0.08,33.5,12.2,0.77,234,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Pakora, 1 container (2 pakoras ea.) Tandoori Tandoori Spicy Masaledar",95.3,9.6,0.0,5.1,2.5,0.0,4.2,0.28,1.8,0.0,0.73,4.42,25.5,1.54,92.9,2.6,0.24,248,Snack,Pakistani,Snack
+"Paneer Pakora, 3 piece Smoky Tandoori",120.8,0.0,0.0,3.0,0.0,0.0,2.8,0.47,5.4,0.09,0.08,16.79,9.3,0.93,52.9,13.5,0.25,162,Snack,Pakistani,Snack
+"Aldi Bilash 8 Mini Vegetable Samosas, 3 Samosa (23g) Punjabi",58.5,6.1,0.0,4.8,1.3,0.0,8.3,0.3,4.3,0.12,0.31,3.65,0.4,1.36,154.1,6.7,0.82,296,Snack,Pakistani,Snack
+"Chana Masala, 0.25 cup (275g) Herbed",38.3,6.7,0.0,0.6,0.9,0.0,66.3,0.01,3.9,0.14,0.66,7.06,31.9,0.04,186.6,13.9,0.25,234,Snack,Pakistani,Snack
+"Mango Lassi, 0.38 cup Light",23.4,5.0,0.0,0.0,0.3,0.0,0.0,0.22,2.6,0.15,0.0,2.13,11.0,0.18,173.0,5.5,0.76,312,Snack,Pakistani,Snack
+"Samosa (Potato-filled), 0.75 piece Home-cooked",89.8,9.3,0.0,4.7,2.0,0.0,16.7,0.14,5.3,0.01,0.2,14.64,21.8,0.07,131.6,14.9,0.52,224,Snack,Pakistani,Snack
+"Quorn 8 Samosas, 4 samosa Smoky Hyderabadi Smoky Slow-cooked",56.0,5.7,0.0,1.5,1.2,0.0,5.2,0.18,11.4,0.13,0.79,6.14,16.8,0.93,138.1,18.5,0.01,328,Snack,Pakistani,Snack
+"M&s Modern Kebab and Samosa Selection, 3 pieces - Dry Light",52.8,3.4,0.0,2.7,3.5,0.0,5.2,0.1,5.7,0.06,0.58,3.04,21.9,0.52,86.5,6.6,0.36,331,Snack,Pakistani,Snack
+"Homemade Kala Chana, 0.5 cup Low-fat Herbed",32.0,5.4,0.0,0.4,1.5,0.0,18.6,0.2,0.5,0.06,0.06,5.43,18.1,1.78,195.7,21.9,0.41,456,Snack,Pakistani,Snack
+"Mango Lassi, 0.5 cup Light Dry",22.9,5.0,0.0,0.3,1.1,0.0,53.4,0.05,2.9,0.03,0.01,1.54,12.5,1.68,156.7,13.1,0.11,161,Snack,Global,Snack
+"Sheek Kebab, 55 g Punjabi Tandoori Spicy Punjabi",80.5,0.0,0.0,0.0,0.0,0.0,12.7,0.1,4.5,0.01,0.21,1.04,33.6,0.73,32.7,0.9,0.03,288,Snack,Pakistani,Snack
+"Dahi Whole Milk Yogurt, 1 cup/(227g Grilled",76.8,7.7,0.0,3.6,3.8,0.0,10.5,0.25,3.2,0.02,0.26,10.85,51.6,0.8,149.0,9.8,0.27,298,Snack,Pakistani,Snack
+"Deep Gourmet Pakora Spinach, 2.5 pieces Tandoori Slow-cooked",62.5,5.5,0.0,2.5,1.2,0.0,13.7,0.2,5.1,0.02,0.4,6.4,11.0,0.4,117.1,12.5,0.26,251,Snack,Pakistani,Snack
+"Sainsbury's Vegetable Samosas, 1 Samosa (50g) - Hyderabadi",36.7,0.0,0.0,2.4,0.0,0.0,13.6,0.15,1.5,0.07,0.1,4.33,31.6,0.38,141.7,2.4,0.3,171,Snack,Pakistani,Snack
+Dry Fruits Mix Punjabi,88.8,32.3,0.0,8.2,3.9,0.0,18.0,0.22,3.1,0.16,0.96,11.38,19.1,0.23,194.0,19.9,0.42,294,Snack,Pakistani,Snack
+"Samosa (Potato-Filled), 1.13 piece - Buttery",97.6,0.0,0.0,0.0,0.0,0.0,19.9,0.29,12.9,0.0,1.04,7.1,27.2,0.74,169.9,12.0,0.15,355,Snack,Pakistani,Snack
+"Homemade Kala Chana, 1.5 cup Home-cooked Smoky",78.4,13.0,0.0,1.7,6.7,0.0,27.2,0.07,1.9,0.06,0.42,1.49,3.2,1.56,73.7,12.8,0.29,10,Snack,Pakistani,Snack
+"Schweppes Diet Tonic Water Classic Mixers, 250 ml Smoky",10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.29,9.7,0.09,0.69,3.76,42.4,0.26,139.2,9.1,0.76,355,Snack,Pakistani,Snack
+"Homemade Samosa Large, 0.5 piece - Hyderabadi",40.7,0.0,0.0,0.0,0.0,0.0,23.5,0.06,4.9,0.05,0.29,15.38,50.4,0.83,100.9,3.5,0.83,343,Snack,Global,Snack
+"That Drink Raspberry Cinnamon Lassi, 1 container (237 ml) Low-fat",46.9,7.6,0.0,1.0,3.1,0.0,0.0,0.0,1.6,0.14,0.68,5.83,21.4,1.37,140.6,9.0,0.07,368,Snack,Pakistani,Snack
+"Homemade (Anjum Anand Food Made Easy Recipe) <Potassium> Samosa Potato and Pea With Filo Pastry, 1.5 Samosa Spicy",58.1,11.4,0.0,0.0,2.4,0.0,0.0,0.31,3.0,0.02,0.13,4.14,24.7,0.28,212.5,0.2,1.28,143,Snack,Pakistani,Snack
+"Samosa (Potato-Filled), 1 piece Tandoori Tandoori",83.2,0.0,0.0,0.0,0.0,0.0,11.5,0.29,1.5,0.06,0.24,0.03,4.5,0.04,190.8,14.9,0.5,204,Snack,Pakistani,Snack
+Roasted Chana Smoky Grilled,68.2,19.7,0.0,5.3,11.7,0.0,17.9,0.47,2.2,0.13,0.23,11.56,36.0,1.31,173.5,10.8,0.24,175,Snack,Pakistani,Snack
+"Samosa (Potato-Filled), 1.13 piece - Smoky",103.9,0.0,0.0,0.0,0.0,0.0,30.1,0.12,7.9,0.14,0.45,3.27,31.7,1.47,42.4,13.8,0.52,259,Snack,Pakistani,Snack
+"Gourmet Spinach Pakora, 6 pieces (130g) Punjabi Dry",97.1,8.7,0.0,9.2,2.7,0.0,1.5,0.28,0.5,0.13,0.26,8.98,25.1,0.9,106.2,22.8,0.61,333,Snack,Pakistani,Snack
+"Co-op 12 Selection Vegetable Pakora, 2 pakora Crispy Dry",40.1,3.6,0.0,1.0,1.6,0.0,40.2,0.28,1.5,0.05,0.19,2.85,19.4,1.1,86.4,26.7,0.69,87,Snack,Pakistani,Snack
+"Sainsbury's Vegetable Samosas, 0.5 Samosa (50g) Low-fat Herbed Tandoori",29.9,7.0,0.0,1.7,0.3,0.0,1.3,0.08,8.7,0.06,0.42,2.2,37.3,1.01,128.5,4.8,0.66,329,Snack,Pakistani,Snack
+"night (chx tikka, rice, pakora), 1 serving(s) Home-cooked",222.0,36.8,0.0,3.1,12.4,0.0,0.0,0.26,5.4,0.01,0.13,7.29,48.1,0.74,66.6,2.7,0.11,491,Snack,Pakistani,Snack
+"That Drink Raspberry Cinnamon Lassi, 1 container (237 ml) Low-fat Spicy",45.9,7.4,0.0,0.9,3.0,0.0,11.0,0.2,4.3,0.14,0.08,5.09,2.6,0.24,141.4,19.2,0.11,10,Snack,Pakistani,Snack
+"(Uk Sheek Kebab, 2 piece Hyderabadi Buttery",91.0,0.0,0.0,5.6,9.3,0.0,9.5,0.09,4.9,0.22,0.91,4.34,31.7,1.04,116.5,13.4,0.67,352,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Pakora, 1 Pakora Masaledar",44.8,4.7,0.0,2.8,1.6,0.0,0.0,0.32,3.3,0.15,0.36,3.56,37.5,0.25,139.4,11.9,0.32,305,Snack,Pakistani,Snack
+"Food Aloo Samosa Pastry With Potato Filling, 1.2 oz Smoky",16.3,1.4,0.0,1.5,0.0,0.0,33.4,0.1,2.4,0.14,0.68,12.35,32.5,0.81,24.7,8.8,0.35,227,Snack,Pakistani,Snack
+"Co-op 12 Selection Vegetable Pakora, 2 pakora Low-fat",33.7,3.0,0.0,1.0,1.1,0.0,36.0,0.26,10.9,0.14,0.86,3.31,10.1,1.24,118.7,17.8,0.05,317,Snack,Pakistani,Snack
+Boiled Egg Dry Spicy Grilled,51.1,27.6,0.0,0.6,3.9,0.0,0.0,0.24,0.1,0.08,0.53,12.12,18.6,0.18,120.3,28.1,0.69,164,Snack,Pakistani,Snack
+"Neha's Inspired Frozen Yoghurt Mango & Honey Lassi, 90 g Masaledar",78.9,8.8,0.0,3.3,1.2,0.0,24.8,0.05,1.8,0.02,0.58,0.8,11.4,0.97,169.0,12.8,0.25,36,Snack,Pakistani,Snack
+"Homemade Kala Chana, 1/2 cup Grilled Light Crispy",49.2,8.4,0.0,0.3,1.3,0.0,2.9,0.26,2.3,0.15,0.38,0.85,8.8,0.59,67.3,1.5,0.45,195,Snack,Pakistani,Snack
+"Food Samosa Meat and Veg, 1 Samosa (35 Grams) Punjabi",37.9,5.6,0.0,0.7,1.4,0.0,13.8,0.15,0.8,0.11,0.74,5.17,9.3,0.31,3.3,4.3,0.42,262,Snack,Pakistani,Snack
+"(Uk Sheek Kebab, 2 piece Hyderabadi Herbed Low-fat Grilled Light",95.8,0.0,0.0,5.5,12.7,0.0,13.2,0.39,1.1,0.02,0.41,10.85,23.4,1.48,136.4,20.8,0.1,368,Snack,Pakistani,Snack
+"Aloo Chana Chaat, 1 portion Buttery",64.8,13.0,0.0,0.8,2.7,0.0,37.4,0.09,2.8,0.04,0.9,0.04,48.2,0.44,231.9,5.1,0.74,90,Snack,Pakistani,Snack
+"Co-op Mini Selection Mini Samosa, 3 Samosa Herbed Crispy",63.4,0.0,0.0,1.5,0.0,0.0,27.3,0.39,2.6,0.05,0.34,10.63,11.9,1.34,164.6,1.6,0.2,46,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Pakora, 2 Pakora Punjabi Slow-cooked Spicy Light Light",117.6,11.9,0.0,5.2,2.1,0.0,11.4,0.15,2.5,0.17,0.02,5.72,13.7,0.43,175.1,21.7,0.89,162,Snack,Pakistani,Snack
+"Deep Gourmet Pakora Spinach, 2.5 pieces Spicy",51.8,4.6,0.0,4.2,2.1,0.0,22.7,0.39,8.2,0.05,0.15,10.58,18.7,1.18,13.3,17.3,0.74,17,Snack,Pakistani,Snack
+"Vegetable Samosa, 0.13 samosa Spicy Crispy",11.3,0.5,0.0,0.3,0.0,0.0,21.5,0.17,1.6,0.11,0.47,1.67,5.1,1.14,65.2,17.7,0.33,188,Snack,Pakistani,Snack
+"Samosa (Potato-Filled), 1.13 piece - Punjabi",92.0,0.0,0.0,0.0,0.0,0.0,0.0,0.56,3.6,0.08,0.14,0.86,27.2,0.01,177.9,22.1,0.32,202,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Samosas, 1 vegetable samosa Slow-cooked Home-cooked",12.5,1.7,0.0,0.7,0.6,0.0,0.0,0.42,2.3,0.02,0.42,3.74,11.7,0.34,32.3,12.7,0.93,10,Snack,Pakistani,Snack
+"Homemade Dahi Bhalla / Bhalle, 1 cup (160g) Hyderabadi Low-fat Hyderabadi",67.4,7.7,0.0,1.7,1.8,0.0,0.0,0.12,0.5,0.25,0.35,9.27,10.6,0.3,149.0,15.9,0.48,188,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Pakora, 4 vegetable pakora Home-cooked Grilled Masaledar",46.6,4.5,0.0,1.0,0.8,0.0,0.0,0.68,3.6,0.05,0.01,8.8,14.1,0.35,43.8,17.8,0.07,385,Snack,Pakistani,Snack
+Dry Fruits Mix Light - Crispy,100.3,36.5,0.0,12.4,5.4,0.0,37.2,0.17,6.2,0.0,0.5,7.44,1.0,0.44,78.0,20.6,0.07,148,Snack,Pakistani,Snack
+"Samosa Vegetable Samosa, 3 samosa Tandoori Spicy",202.0,15.5,0.0,12.6,3.0,0.0,52.9,0.26,0.4,0.14,0.26,18.98,11.0,1.72,96.4,14.2,0.29,304,Snack,Pakistani,Snack
+"Schweppes Diet Tonic Water Classic Mixers, 0.5 container (750 mls ea.) Hyderabadi Home-cooked",10.1,0.0,0.0,0.0,0.0,0.0,4.8,0.18,2.1,0.03,0.07,12.8,27.1,1.31,19.5,16.3,0.06,304,Snack,Pakistani,Snack
+"Homemade Kala Chana, 0.5 cup Light",32.3,5.5,0.0,0.3,2.0,0.0,0.0,0.36,4.4,0.17,0.58,7.72,3.9,0.25,88.8,6.8,0.45,248,Snack,Pakistani,Snack
+"Samosa (Potato-Filled), 1.13 piece Punjabi",100.8,0.0,0.0,0.0,0.0,0.0,53.5,0.37,2.8,0.03,0.45,3.82,27.5,0.04,151.7,3.8,0.22,117,Snack,Pakistani,Snack
+"Quorn 8 Samosas, 4 samosa Smoky Hyderabadi Tandoori",103.1,10.5,0.0,2.2,2.2,0.0,18.7,0.17,5.0,0.05,0.45,2.34,21.1,0.25,129.9,8.6,0.36,125,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Samosas, 2 vegetable samosa Home-cooked",30.5,3.8,0.0,1.6,0.9,0.0,19.7,0.31,9.5,0.12,0.31,2.85,23.3,0.47,56.1,9.7,0.39,57,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Pakora, 2 Pakora Slow-cooked",114.7,11.6,0.0,3.9,2.3,0.0,24.2,0.2,6.1,0.03,0.5,3.85,22.9,1.13,96.4,4.4,0.59,200,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Samosas, 1 vegetable samosa Crispy Masaledar Punjabi",17.1,2.5,0.0,0.8,0.3,0.0,4.5,0.16,3.1,0.05,0.02,8.76,16.5,2.67,136.6,10.0,0.04,299,Snack,Pakistani,Snack
+"Sainsbury's Vegetable Samosas, 2 Samosa (50g) Smoky Punjabi Light",82.0,0.0,0.0,6.5,0.0,0.0,51.6,0.0,6.0,0.07,0.42,4.87,8.4,0.24,150.6,7.5,0.32,323,Snack,Pakistani,Snack
+"M&s Modern Crispy Chaat Selection, 3.99 pieces Dry",95.6,10.6,0.0,3.3,3.6,0.0,56.1,0.03,1.8,0.14,0.21,7.12,16.3,0.25,129.5,29.0,0.53,463,Snack,Pakistani,Snack
+"Deep Gourmet Potato & Pea Cocktail Samosa, 10 pieces (3g) Light",47.2,5.7,0.0,0.0,1.4,0.0,2.3,0.13,3.7,0.17,0.88,20.54,37.9,0.93,162.7,3.4,0.88,357,Snack,Pakistani,Snack
+"Chana Masala, 1 cup (275g) Punjabi Tandoori",177.1,30.0,0.0,4.1,4.9,0.0,1.4,0.11,7.6,0.05,0.19,15.65,32.0,1.18,6.6,15.2,0.0,151,Snack,Pakistani,Snack
+"Neha's Inspired Frozen Yoghurt Mango & Honey Lassi, 100 g Low-fat - Crispy",90.8,10.4,0.0,2.6,1.6,0.0,0.0,0.67,1.9,0.17,1.06,1.15,21.5,0.09,124.0,9.3,0.93,485,Snack,Pakistani,Snack
+"Quorn 8 Samosas, 4 samosa Slow-cooked",76.4,7.8,0.0,4.0,1.9,0.0,11.0,0.26,0.4,0.04,0.23,1.17,23.7,0.71,134.9,6.5,0.46,355,Snack,Pakistani,Snack
+"Fitness raw nuts almonds, hazelnut, cashew, 125 g Buttery",272.1,10.8,0.0,39.7,6.4,0.0,0.0,0.02,5.5,0.14,0.03,2.54,13.1,2.05,42.2,20.2,0.49,160,Snack,Pakistani,Snack
+"Samosa (Potato-Filled), 1 piece Buttery Low-fat",79.1,0.0,0.0,0.0,0.0,0.0,0.0,0.35,6.8,0.03,0.21,9.54,22.1,0.51,2.3,28.0,0.47,220,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Samosas, 1 vegetable samosa Slow-cooked Home-cooked Light",14.5,2.0,0.0,0.8,0.6,0.0,11.1,0.45,1.9,0.0,0.47,11.12,12.3,0.44,81.9,28.4,0.64,221,Snack,Pakistani,Snack
+Date Roll Buttery,15.0,2.4,0.0,0.9,0.5,0.0,14.9,0.09,4.3,0.2,0.14,4.89,13.0,0.2,1.0,8.9,0.17,424,Snack,Pakistani,Snack
+"Samosa (Potato-Filled), 1 piece Buttery Tandoori",97.1,0.0,0.0,0.0,0.0,0.0,49.8,0.27,4.2,0.04,0.43,19.02,24.7,0.39,119.5,12.3,0.32,112,Snack,Pakistani,Snack
+"Homemade Kala Chana, 0.5 cup Punjabi",38.8,6.6,0.0,0.3,1.1,0.0,0.0,0.02,3.7,0.07,0.26,4.33,3.8,0.47,197.3,24.5,0.84,295,Snack,Pakistani,Snack
+Pakora Slow-cooked Smoky,119.3,14.0,0.0,18.1,3.4,0.0,20.1,0.4,6.1,0.06,0.21,7.71,4.4,0.77,130.7,2.3,0.56,423,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Pakora, 2 Pakora Punjabi Slow-cooked Tandoori",96.3,9.8,0.0,6.8,3.1,0.0,43.8,0.59,3.5,0.09,0.51,0.74,1.7,0.41,36.0,0.3,1.05,218,Snack,Pakistani,Snack
+Lassi Grilled,79.5,29.5,0.0,12.2,5.1,0.0,1.9,0.23,9.0,0.01,0.18,8.46,45.2,0.56,173.6,12.9,0.3,95,Snack,Pakistani,Snack
+"M&s Modern Crispy Chaat Selection, 3.99 pieces Buttery",77.9,8.6,0.0,3.5,2.9,0.0,16.1,0.02,6.3,0.08,0.45,3.69,43.3,1.5,105.3,17.7,0.84,150,Snack,Pakistani,Snack
+"Deep Gourme Jumbo Punjabi Jumbo Samosa, 1 piece Hyderabadi",86.0,9.5,0.0,3.2,1.7,0.0,0.0,0.54,0.5,0.06,0.32,4.72,24.3,0.11,54.4,19.1,0.88,155,Snack,Pakistani,Snack
+"Chana Masala, 1.5 cup (275g) Herbed",231.8,39.3,0.0,4.6,8.0,0.0,45.7,0.2,11.0,0.12,0.28,20.84,22.0,2.1,98.7,14.2,0.57,194,Snack,Pakistani,Snack
+"Paneer Pakora, 1 piece Crispy",38.3,0.0,0.0,2.1,0.0,0.0,0.0,0.3,4.6,0.12,0.39,10.25,14.9,0.81,175.9,22.8,0.42,187,Snack,Pakistani,Snack
+"Samosa Vegetable Samosa, 3 samosa - Hyderabadi",176.4,13.6,0.0,7.7,3.1,0.0,42.5,0.11,1.5,0.04,0.03,16.3,12.2,1.04,221.3,20.6,0.4,114,Snack,Pakistani,Snack
+Fruit Chaat Home-cooked,74.1,4.0,0.0,13.1,7.4,0.0,25.4,0.24,4.2,0.1,0.08,20.87,2.3,1.01,57.4,5.7,0.31,281,Snack,Pakistani,Snack
+"Sitar Cuisine Chana Masala (Chick Peas), 1 oz Dry - Herbed",10.0,0.8,0.0,0.5,0.5,0.0,27.5,0.07,5.2,0.09,0.43,19.41,47.4,0.15,19.6,12.3,0.11,391,Snack,Pakistani,Snack
+"Mango Lassi, 0.5 cup Buttery",22.1,4.8,0.0,0.3,1.0,0.0,0.0,0.6,4.4,0.08,0.95,2.25,3.8,1.21,200.3,5.6,0.98,227,Snack,Global,Snack
+"Vegetable Seekh Kebabs, 1 kebab Slow-cooked",31.1,4.4,0.0,0.9,1.5,0.0,0.0,0.18,9.8,0.03,0.27,10.06,27.6,1.32,153.1,9.4,0.36,92,Snack,Pakistani,Snack
+"Chana Masala, 1 cup (275g) Punjabi Dry",152.5,25.9,0.0,3.6,5.4,0.0,0.0,0.09,2.7,0.18,0.09,7.86,0.4,0.28,174.4,38.8,0.62,157,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Pakora, 2 vegetable pakora Buttery",23.8,2.3,0.0,1.6,0.8,0.0,46.5,0.29,9.6,0.18,0.3,1.09,24.9,0.11,198.4,10.4,0.6,476,Snack,Pakistani,Snack
+"Sainsbury's Vegetable Samosas, 1 Samosa (50g) Dry Herbed",44.8,10.1,0.0,2.7,0.5,0.0,56.0,0.23,6.8,0.12,0.25,3.83,14.6,0.82,185.9,18.7,1.01,278,Snack,Pakistani,Snack
+"Paneer Pakora, 1 piece Slow-cooked Smoky",34.2,0.0,0.0,2.3,0.0,0.0,0.9,0.08,0.6,0.05,1.36,1.75,13.1,0.48,240.1,24.6,1.18,229,Snack,Pakistani,Snack
+"Samosa Vegetable Samosa, 1.3 samosa - Slow-cooked",82.8,6.6,0.0,5.2,1.4,0.0,41.2,0.25,1.8,0.14,1.0,1.02,12.3,1.02,150.7,10.6,0.62,519,Snack,Pakistani,Snack
+"Neha's Inspired Frozen Yoghurt Mango & Honey Lassi, 100 g Low-fat - Smoky Light Spicy",89.2,10.2,0.0,2.7,2.0,0.0,0.0,0.27,0.0,0.18,0.04,1.36,14.0,0.32,44.6,5.2,0.38,128,Snack,Pakistani,Snack
+"Homemade Kala Chana, 1/2 cup Grilled Light Punjabi",61.0,10.4,0.0,0.4,1.6,0.0,0.0,0.72,1.5,0.01,0.18,4.85,50.5,1.47,59.5,5.8,0.9,535,Snack,Pakistani,Snack
+"Paneer Pakora, 3 piece Smoky Light",105.9,0.0,0.0,4.2,0.0,0.0,22.4,0.16,3.2,0.17,0.13,2.44,3.4,1.53,207.7,14.9,0.45,143,Snack,Pakistani,Snack
+"Tesco 12 Snack Selection (Mini Vegetable Pakoras), 2 pakora - Spicy",41.1,2.2,0.0,5.9,0.0,0.0,48.1,0.42,7.7,0.01,0.06,3.75,7.5,1.78,125.0,11.4,0.5,228,Snack,Pakistani,Snack
+"Boti Lamb Kebab, 1 serving 50 grams Punjabi - Grilled",187.6,23.8,0.0,5.0,24.2,0.0,7.6,0.63,2.1,0.12,0.08,3.95,38.1,0.78,48.3,19.3,0.44,251,Snack,Pakistani,Snack
+"Recipes Chana Dal, 1/4 cup Punjabi Smoky",72.8,12.3,0.0,1.6,6.3,0.0,24.0,0.43,1.0,0.12,1.07,7.91,9.4,2.45,138.5,23.2,0.23,380,Snack,Pakistani,Snack
+"Sainsbury's Vegetable Samosas, 1 Samosa (50g) - Hyderabadi Light",44.8,0.0,0.0,2.2,0.0,0.0,22.2,0.3,6.8,0.08,0.44,4.8,6.9,2.07,131.0,19.2,0.1,18,Snack,Pakistani,Snack
+"Sainsbury's Vegetable Samosas, 0.5 Samosa (50g) Low-fat Spicy",25.8,6.0,0.0,1.0,0.3,0.0,50.0,0.32,4.0,0.04,0.89,2.21,33.4,1.79,135.2,23.0,0.55,236,Snack,Pakistani,Snack
+"Bloomin’ -Spiced Whole Roasted Cauliflower, 1 serving(s) - Home-cooked",76.0,10.6,0.0,2.2,8.1,0.0,0.0,0.69,0.8,0.02,0.09,3.2,13.3,0.19,24.3,5.6,0.83,88,Snack,Global,Snack
+"Sheek Kebab, 55 g Punjabi Tandoori Spicy Punjabi Spicy",63.9,0.0,0.0,0.0,0.0,0.0,0.0,0.4,4.5,0.27,0.01,1.35,44.6,0.91,44.7,16.5,0.56,10,Snack,Pakistani,Snack
+Dates Masaledar,102.7,19.9,0.0,21.6,1.5,0.0,0.0,0.36,10.1,0.03,0.9,4.47,4.0,0.36,187.2,12.6,0.31,276,Snack,Pakistani,Snack
+Dry Fruits Mix Masaledar - Home-cooked,90.4,32.8,0.0,8.0,1.9,0.0,26.8,0.28,3.1,0.13,0.01,14.52,3.7,0.18,107.9,26.8,0.39,225,Snack,Pakistani,Snack
+"Vegetable Samsosas Dish, 2 samosa Tandoori Masaledar",65.1,9.0,0.0,2.8,1.1,0.0,44.5,0.67,1.1,0.03,0.34,8.43,11.8,0.55,58.0,6.0,0.11,182,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Pakora, 2 Pakora Herbed Home-cooked Buttery",19.3,2.2,0.0,1.2,0.5,0.0,51.2,0.07,4.3,0.2,0.31,9.04,12.8,1.54,63.0,6.0,0.86,328,Snack,Pakistani,Snack
+"Morrisons Mini Snack Vegetable Samosa, 1 Samosa Low-fat Masaledar",18.4,2.3,0.0,1.4,0.3,0.0,29.3,0.01,8.5,0.04,0.27,12.3,8.6,0.01,143.8,15.6,0.75,500,Snack,Pakistani,Snack
+"Moong Daal Dahi Vada, 0.25 pieces - Spicy",10.0,0.4,0.0,0.4,0.3,0.0,4.6,0.08,0.3,0.07,0.28,1.57,30.4,0.63,35.9,6.7,1.03,95,Snack,Pakistani,Snack
+"Dahi Whole Milk Yogurt, 1 cup/(227g Grilled Tandoori",76.3,7.6,0.0,2.9,3.2,0.0,0.0,0.38,4.3,0.04,0.67,32.53,41.9,0.3,239.1,13.5,1.24,144,Snack,Pakistani,Snack
+"Samosa Vegetable Samosa, 0.5 samosa - Smoky",37.4,2.9,0.0,2.7,0.5,0.0,53.2,0.37,10.5,0.03,0.68,1.43,18.8,0.67,165.8,16.2,0.17,238,Snack,Pakistani,Snack
+"Samosa Chaat, 266.8 g Crispy",118.1,19.9,0.0,6.2,8.8,0.0,32.3,0.05,2.9,0.12,0.47,12.31,18.7,0.74,178.9,11.4,0.12,287,Snack,Global,Snack
+"Homemade (Anjum Anand Food Made Easy Recipe) <Potassium> Samosa Potato and Pea With Filo Pastry, 1.5 Samosa Buttery",47.4,9.3,0.0,0.0,1.4,0.0,0.0,0.42,7.1,0.18,0.11,2.84,35.1,0.7,189.9,8.4,0.7,313,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Pakora, 2 Pakora Punjabi Slow-cooked Tandoori Light",96.2,9.8,0.0,7.9,3.5,0.0,9.8,0.49,6.9,0.03,0.51,4.29,2.1,0.7,188.7,19.5,1.33,234,Snack,Pakistani,Snack
+"Quorn 8 Samosas, 4 samosa Home-cooked",83.9,8.5,0.0,4.9,2.3,0.0,0.0,0.35,6.2,0.04,0.35,1.72,68.7,0.61,299.1,23.0,0.76,435,Snack,Pakistani,Snack
+"Deep Gourmet Pakora Spinach, 2.5 pieces Tandoori Punjabi",55.0,4.8,0.0,2.4,1.9,0.0,7.7,0.02,6.7,0.03,0.4,1.41,18.2,0.11,26.1,10.8,0.01,429,Snack,Pakistani,Snack
+"Pakoras Vegetable Fritters, 6 fritters Smoky",83.6,5.9,0.0,6.9,1.8,0.0,15.5,0.0,0.6,0.17,0.18,5.1,23.1,0.39,38.8,22.5,0.43,349,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Pakora, 1 container (2 pakoras ea.) Tandoori - Dry",134.5,13.6,0.0,6.0,1.7,0.0,39.4,0.26,7.0,0.01,0.59,2.03,18.8,0.57,225.4,12.3,0.07,61,Snack,Pakistani,Snack
+"Homemade Kala Chana, 1 cup Home-cooked Slow-cooked Low-fat",83.2,13.7,0.0,0.9,3.9,0.0,63.1,0.45,2.6,0.08,1.21,0.46,21.2,1.33,37.0,6.9,0.37,239,Snack,Pakistani,Snack
+"Homemade Kala Chana, 0.5 cup Dry Punjabi",24.8,4.2,0.0,0.5,1.7,0.0,1.9,0.16,7.1,0.08,0.49,22.44,9.7,2.58,154.2,14.9,0.55,336,Snack,Pakistani,Snack
+"Take Away Chicken Pakora, 300 g Grilled",102.9,6.8,0.0,4.7,2.6,0.0,0.0,0.43,2.3,0.05,0.8,7.75,5.1,2.03,2.9,14.2,0.07,10,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Pakora, 4 vegetable pakora Grilled",42.8,4.1,0.0,2.0,1.7,0.0,48.3,0.11,7.2,0.01,0.6,10.89,48.1,0.06,276.9,16.7,0.57,142,Snack,Pakistani,Snack
+Seviyan (sweet vermicelli) Home-cooked Smoky Buttery Hyderabadi,115.1,28.3,0.0,10.3,4.6,0.0,35.9,0.27,6.0,0.02,0.69,2.27,3.2,0.09,38.6,21.3,0.82,659,Snack,Pakistani,Snack
+"Samosa (Potato-filled), 0.75 piece Crispy",88.7,9.2,0.0,4.5,1.1,0.0,56.6,0.02,5.6,0.0,0.87,6.86,23.9,0.5,24.2,2.7,0.04,123,Snack,Pakistani,Snack
+"Food Samosa Meat and Veg, 1 Samosa (35 Grams) Light - Hyderabadi Crispy",34.9,5.1,0.0,0.7,2.8,0.0,0.0,0.21,13.2,0.03,0.45,5.52,36.6,0.83,187.6,16.1,0.66,286,Snack,Pakistani,Snack
+"Recipes Chana Dal, 1/4 cup Punjabi Smoky Buttery",64.0,10.8,0.0,1.2,5.9,0.0,19.3,0.19,3.0,0.06,1.14,4.41,26.3,0.02,199.6,13.3,0.22,139,Snack,Pakistani,Snack
+"Homemade Kala Chana, 0.5 cup Hyderabadi Light",23.7,4.1,0.0,0.5,1.2,0.0,0.0,0.4,0.2,0.06,0.53,5.69,18.4,1.12,251.5,7.9,0.21,304,Snack,Pakistani,Snack
+"Homemade Kala Chana, 1/2 cup Grilled Light Spicy",47.6,8.1,0.0,0.3,1.7,0.0,0.0,0.44,4.6,0.09,0.14,1.22,40.2,0.75,25.8,17.7,0.06,252,Snack,Pakistani,Snack
+Aloo Chana Chaat Punjabi,130.8,24.0,0.0,2.4,4.4,0.0,0.0,0.15,0.5,0.1,0.42,10.31,53.7,0.72,198.3,19.7,1.23,247,Snack,Pakistani,Snack
+"Samosa (Potato-Filled), 1.13 piece Punjabi Tandoori",96.1,0.0,0.0,0.0,0.0,0.0,17.1,0.17,6.8,0.08,0.17,0.37,11.8,1.3,172.7,10.9,0.07,164,Snack,Pakistani,Snack
+"Quorn 8 Samosas, 1 samosa Tandoori",19.0,2.1,0.0,1.4,1.0,0.0,0.0,0.11,4.5,0.07,0.11,1.12,44.3,0.25,227.7,13.5,0.25,102,Snack,Pakistani,Snack
+"Pakoras Vegetable Fritters, 6 fritters Spicy",83.2,5.9,0.0,7.0,1.5,0.0,36.3,0.06,4.8,0.02,0.99,8.55,17.1,1.58,152.4,20.1,0.06,289,Snack,Pakistani,Snack
+Seviyan (sweet vermicelli) Home-cooked Smoky Herbed Masaledar,124.2,30.4,0.0,8.8,7.7,0.0,0.0,0.29,6.2,0.0,0.62,3.42,0.6,0.67,111.4,18.8,0.68,488,Snack,Pakistani,Snack
+"Samosa Vegetable Samosa, 0.5 samosa Smoky Buttery",28.4,2.2,0.0,1.4,0.4,0.0,17.6,0.33,3.0,0.11,0.34,11.15,23.6,1.19,181.2,12.2,0.41,10,Snack,Pakistani,Snack
+"Pakoras Vegetable Fritters, 3 fritters Tandoori",39.1,2.6,0.0,2.8,0.8,0.0,13.6,0.42,2.8,0.01,0.14,3.46,44.5,0.34,95.9,6.1,0.3,252,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Samosa, 1 Samosa Smoky",47.0,5.2,0.0,1.3,0.8,0.0,63.6,0.14,1.1,0.08,0.01,4.14,45.1,0.92,107.7,11.0,0.48,95,Snack,Global,Snack
+"Moong Daal Dahi Vada, 2 pieces Home-cooked Tandoori Herbed",64.0,5.0,0.0,4.0,1.3,0.0,29.6,0.02,2.1,0.11,0.22,10.12,63.3,1.84,64.8,14.0,0.24,467,Snack,Pakistani,Snack
+"Homemade Kala Chana, 1/2 cup Grilled Light Punjabi Herbed",63.9,10.9,0.0,0.4,2.1,0.0,0.0,0.42,6.1,0.08,0.33,2.2,11.3,1.53,6.0,24.8,0.92,82,Snack,Pakistani,Snack
+Dried Dates Pudding Recipe Grilled Home-cooked Dry,137.9,14.9,0.0,4.4,2.5,0.0,0.0,0.45,7.9,0.03,0.2,16.92,41.5,1.58,326.8,24.4,0.53,423,Snack,Global,Snack
+"Deep Gourme Jumbo Punjabi Jumbo Samosa, 1 piece - Herbed",93.3,10.3,0.0,3.6,1.2,0.0,36.7,0.01,11.7,0.0,0.07,12.8,0.6,0.52,179.5,10.9,0.88,344,Snack,Pakistani,Snack
+"Morrisons Mini Snack Vegetable Samosa, 1 Samosa Low-fat Hyderabadi Slow-cooked",16.1,2.1,0.0,1.9,0.5,0.0,32.6,0.1,3.1,0.14,0.65,2.88,1.5,0.59,171.8,8.9,0.28,479,Snack,Pakistani,Snack
+"Sheek Kebab, 55 g Home-cooked Light Low-fat",34.6,0.0,0.0,0.0,0.0,0.0,0.0,0.15,2.9,0.02,0.58,10.72,2.1,0.76,124.1,16.5,0.58,287,Snack,Pakistani,Snack
+"Vegtable Samosa, 1 portion Punjabi Light",62.6,6.7,0.0,2.8,1.1,0.0,7.7,0.27,5.9,0.09,0.28,7.0,1.8,0.58,13.8,18.9,0.47,508,Snack,Pakistani,Snack
+"Take Away Chicken Pakora, 0.2 piece Dry Light",10.4,0.4,0.0,0.4,0.8,0.0,0.0,0.33,10.5,0.14,0.49,4.19,5.4,0.51,74.8,9.5,0.41,386,Snack,Global,Snack
+"Samosa Chaat, 156 g Tandoori Spicy",81.4,13.6,0.0,5.2,5.8,0.0,4.4,0.21,0.3,0.05,0.27,20.31,29.1,0.43,112.1,6.3,0.18,356,Snack,Pakistani,Snack
+Dahi Bhallay Tandoori,71.1,36.8,0.0,2.5,1.4,0.0,14.3,0.14,2.1,0.07,0.17,12.4,63.5,1.39,150.2,19.4,1.17,139,Snack,Pakistani,Snack
+"Samosa Chaat, 156 g Hyderabadi",83.1,13.8,0.0,3.6,2.8,0.0,30.2,0.1,8.0,0.02,0.55,5.16,28.7,0.21,118.1,22.6,0.45,397,Snack,Pakistani,Snack
+"Chicken Chaat Drumstick (Tandori or Jatt Patt), 1 Leg (no skin) Tandoori",33.9,0.0,0.0,1.4,5.4,0.0,25.7,0.01,3.9,0.1,0.87,3.66,18.9,0.06,86.5,13.6,0.37,294,Snack,Pakistani,Snack
+"Vegetable Seekh Kebabs, 1 kebab Masaledar",31.4,4.5,0.0,0.9,1.9,0.0,56.6,0.34,10.8,0.06,0.12,14.56,49.1,0.72,260.8,11.3,0.77,447,Snack,Pakistani,Snack
+"Gourmet Spinach Pakora, 6 pieces (130g) Punjabi Low-fat",114.0,10.2,0.0,9.2,3.6,0.0,50.0,0.26,0.5,0.06,0.45,14.19,32.9,0.93,252.4,10.2,0.95,213,Snack,Pakistani,Snack
+"Mango Lassi, 0.38 cup Grilled",21.1,4.5,0.0,0.0,0.5,0.0,11.3,0.19,4.9,0.16,0.47,13.85,8.7,0.56,39.9,27.9,0.33,175,Snack,Pakistani,Snack
+"Samosa (Potato-Filled), 1 piece Tandoori Dry Buttery",91.9,0.0,0.0,0.0,0.0,0.0,52.9,0.09,5.7,0.05,0.36,12.66,3.6,1.39,24.5,22.7,0.5,10,Snack,Pakistani,Snack
+"Paneer Pakora, 3 piece Masaledar",90.1,0.0,0.0,4.0,0.0,0.0,0.0,0.03,5.8,0.01,0.25,1.14,30.0,0.22,83.6,6.4,0.2,435,Snack,Pakistani,Snack
+"Boti Lamb Kebab, 1 serving 50 grams Punjabi - Grilled Light",199.3,25.3,0.0,5.5,29.1,0.0,27.7,0.24,1.0,0.03,0.64,0.39,19.0,1.07,291.8,4.1,0.13,404,Snack,Pakistani,Snack
+"Neha's Inspired Frozen Yoghurt Mango & Honey Lassi, 80 g Smoky",57.5,6.5,0.0,4.0,1.6,0.0,9.6,0.12,1.9,0.18,0.5,7.98,10.1,1.69,225.2,8.7,0.36,353,Snack,Pakistani,Snack
+"Fitness raw nuts almonds, hazelnut, cashew, 125 g Buttery Hyderabadi",304.2,12.1,0.0,27.8,7.5,0.0,38.5,0.46,3.1,0.13,0.21,0.98,1.5,0.74,270.9,12.8,0.65,268,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Pakora, 2 vegetable pakora - Low-fat Light Punjabi",22.5,2.1,0.0,1.8,0.4,0.0,25.5,0.12,3.7,0.04,0.16,6.41,27.3,0.55,100.7,5.3,0.24,464,Snack,Pakistani,Snack
+"Sheek Kebab, 55 g - Home-cooked",49.2,0.0,0.0,0.0,0.0,0.0,14.8,0.08,1.1,0.16,0.33,7.67,35.4,0.88,82.3,20.1,0.32,233,Snack,Pakistani,Snack
+"Curd Dahi, 0.5 small bowl 100gm Slow-cooked",13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.01,12.1,0.07,0.2,2.76,4.2,0.44,198.0,11.9,0.64,484,Snack,Pakistani,Snack
+"(Uk Sheek Kebab, 2 piece Hyderabadi Herbed Low-fat Grilled Light Low-fat",89.1,0.0,0.0,5.8,15.3,0.0,66.2,0.13,7.3,0.04,1.1,14.95,16.6,0.58,63.9,6.3,0.29,41,Snack,Pakistani,Snack
+"night (chx tikka, rice, pakora), 1.5 serving(s) Punjabi Herbed",419.6,69.4,0.0,6.1,12.4,0.0,19.9,0.16,5.0,0.07,0.25,4.37,69.8,2.69,98.8,19.0,0.77,378,Snack,Pakistani,Snack
+"Paneer Pakora, 1 piece Grilled",30.6,0.0,0.0,2.1,0.0,0.0,5.8,0.26,3.9,0.15,0.09,7.3,43.7,0.95,121.1,23.9,0.4,10,Snack,Pakistani,Snack
+"That Drink Raspberry Cinnamon Lassi, 1 container (237 ml) Low-fat Slow-cooked",45.6,7.4,0.0,1.2,2.2,0.0,89.6,0.44,2.7,0.1,0.75,9.0,31.3,0.73,143.1,12.3,0.4,235,Snack,Pakistani,Snack
+"Tesco 12 Snack Selection (Mini Vegetable Pakoras), 2 pakora - Dry",43.1,2.3,0.0,5.3,0.0,0.0,34.6,0.32,2.6,0.01,0.3,2.5,19.6,1.06,129.8,25.2,0.21,349,Snack,Pakistani,Snack
+"Homemade Samosa Large, 0.5 piece - Slow-cooked Spicy",54.7,0.0,0.0,0.0,0.0,0.0,39.9,0.45,1.8,0.07,0.55,8.86,25.2,0.26,199.0,20.0,0.34,102,Snack,Global,Snack
+"Samosa Vegetable Samosa, 1 samosa Crispy",56.9,4.4,0.0,6.1,1.0,0.0,0.0,0.18,4.0,0.07,0.79,8.3,21.0,1.4,137.6,7.8,0.4,363,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Samosas, 2 vegetable samosa Herbed",29.7,3.7,0.0,1.2,1.0,0.0,58.9,0.39,4.2,0.18,0.32,0.48,40.2,0.11,164.4,11.1,0.47,158,Snack,Pakistani,Snack
+"Paneer Pakora, 1 piece Slow-cooked Smoky Masaledar",42.8,0.0,0.0,1.6,0.0,0.0,0.0,0.66,0.2,0.03,0.18,9.82,56.4,1.11,193.4,2.3,0.85,372,Snack,Pakistani,Snack
+"Food Samosa Meat and Veg, 2 Samosa (35 Grams) Light Punjabi",83.9,12.0,0.0,1.8,5.5,0.0,0.0,0.22,7.1,0.11,0.02,6.72,4.5,0.06,125.5,16.2,0.54,247,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Samosas, 2 vegetable samosa Masaledar Crispy",29.0,3.7,0.0,2.1,1.0,0.0,93.3,0.31,2.2,0.08,0.33,9.65,6.8,1.61,120.4,18.7,0.52,238,Snack,Pakistani,Snack
+"Deep Gourmet Potato & Pea Cocktail Samosa, 10 pieces (3g) Light Hyderabadi",48.5,5.9,0.0,0.0,1.8,0.0,11.3,0.16,9.8,0.11,0.14,6.84,16.1,0.37,40.6,12.7,0.63,137,Snack,Pakistani,Snack
+"Sitar Cuisine Chana Masala (Chick Peas), 7.5 oz Herbed",89.9,10.7,0.0,4.5,3.9,0.0,0.6,0.59,0.2,0.02,0.15,5.78,16.2,1.18,125.0,6.3,0.14,241,Snack,Pakistani,Snack
+Dry Fruits Mix Punjabi Herbed,65.5,23.8,0.0,9.1,4.4,0.0,25.5,0.39,1.3,0.11,0.95,6.72,1.8,1.11,26.5,17.9,0.76,10,Snack,Pakistani,Snack
+"Boti Lamb Kebab, 1 serving 50 grams Punjabi Tandoori - Buttery",181.9,23.0,0.0,3.2,16.7,0.0,17.7,0.31,4.5,0.02,0.32,11.45,9.0,0.53,35.1,1.8,0.12,391,Snack,Pakistani,Snack
+Dry Fruits Mix Masaledar Buttery Dry,115.2,41.8,0.0,7.1,2.0,0.0,39.6,0.29,6.2,0.09,0.8,8.07,22.0,0.94,27.8,40.6,0.61,314,Snack,Pakistani,Snack
+Vegetable Samosa Grilled,121.6,16.3,0.0,3.6,2.3,0.0,15.1,0.13,5.9,0.18,0.29,4.17,5.9,0.68,137.4,15.5,0.22,299,Snack,Pakistani,Snack
+"Fitness raw nuts almonds, hazelnut, cashew, 30 g Smoky",73.8,3.0,0.0,7.0,1.7,0.0,0.0,0.46,6.6,0.03,0.01,19.32,15.7,0.43,45.2,24.2,0.19,185,Snack,Pakistani,Snack
+"Samosa Chaat, 266.8 g Crispy Grilled",113.0,19.0,0.0,7.1,10.1,0.0,0.0,0.24,6.5,0.07,0.9,9.1,18.7,0.03,135.9,11.3,0.75,128,Snack,Global,Snack
+"Samosa Chaat, 156 g Tandoori Slow-cooked",85.1,14.2,0.0,3.8,5.6,0.0,49.8,0.43,5.9,0.07,0.59,0.52,5.1,0.05,106.3,7.0,0.47,194,Snack,Pakistani,Snack
+"Deep Gourmet Pakora Spinach, 2.5 pieces Tandoori Spicy",53.9,4.7,0.0,3.8,1.6,0.0,33.1,0.22,1.1,0.17,0.44,2.06,9.1,1.12,58.1,18.4,0.71,81,Snack,Pakistani,Snack
+"Samosa Chaat, 106.72 g Light Hyderabadi",80.7,13.8,0.0,2.0,3.4,0.0,0.0,0.42,11.7,0.1,0.48,1.82,19.5,0.88,105.4,22.8,0.47,265,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Pakora, 4 vegetable pakora Home-cooked Grilled Masaledar Dry",45.7,4.4,0.0,1.0,1.0,0.0,45.5,0.13,5.0,0.21,0.73,13.99,11.8,1.76,277.3,28.4,1.06,339,Snack,Pakistani,Snack
+"Samosa Vegetable Samosa, 3 samosa Dry",168.2,12.9,0.0,15.9,1.9,0.0,45.5,0.29,7.0,0.03,0.47,8.98,35.3,0.8,89.7,24.0,0.28,355,Snack,Pakistani,Snack
+Dry Fruits Mix Punjabi Herbed Masaledar,68.9,25.0,0.0,9.0,3.7,0.0,73.1,0.31,9.0,0.1,0.36,1.67,35.7,0.87,198.8,37.1,0.08,362,Snack,Pakistani,Snack
+"Food Samosa Meat and Veg, 2 Samosa (35 Grams) Hyderabadi Low-fat",74.1,10.5,0.0,1.8,4.7,0.0,37.6,0.49,2.1,0.01,1.07,18.09,12.9,0.72,105.8,24.6,0.59,161,Snack,Pakistani,Snack
+"Paneer Pakora, 0.25 piece Herbed Masaledar",10.0,0.0,0.0,0.4,0.0,0.0,0.0,0.27,3.6,0.02,0.71,18.56,31.2,0.84,31.6,17.9,0.59,171,Snack,Pakistani,Snack
+"Chana Masala, 0.25 cup (275g) Herbed Light",34.9,6.1,0.0,0.8,1.0,0.0,16.9,0.21,6.9,0.21,0.7,15.29,11.8,0.26,13.0,13.6,0.53,436,Snack,Pakistani,Snack
+"Deep Gourmet Original Potato Pea Samosa, 1 Pieces (53g) Slow-cooked Home-cooked",19.9,2.5,0.0,1.5,0.3,0.0,12.1,0.34,3.4,0.01,0.11,13.3,32.9,0.11,69.0,13.7,0.17,193,Snack,Pakistani,Snack
+Keema Samosa Recipe Dry,49.2,8.8,0.0,1.6,0.6,0.0,0.0,0.2,0.4,0.01,0.11,1.83,41.4,1.66,154.1,18.1,0.5,340,Snack,Pakistani,Snack
+"Chana Cury, 0.5 cup cooked Herbed Punjabi",56.5,6.8,0.0,2.3,2.5,0.0,31.1,0.08,3.2,0.08,0.13,0.03,23.1,0.05,100.9,7.4,0.06,379,Snack,Pakistani,Snack
+"Neha's Inspired Frozen Yoghurt Mango & Honey Lassi, 80 g Smoky Herbed",56.8,6.4,0.0,5.2,1.7,0.0,0.0,0.25,8.5,0.04,0.42,4.08,12.5,0.56,40.1,11.9,0.66,264,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Pakora, 4 vegetable pakora Home-cooked Hyderabadi Spicy",42.1,4.1,0.0,1.7,1.9,0.0,44.1,0.15,4.3,0.05,0.06,3.05,19.2,0.28,146.7,26.8,0.01,144,Snack,Pakistani,Snack
+"Pakoras Vegetable Fritters, 6 fritters Spicy Tandoori",111.0,7.9,0.0,5.8,1.9,0.0,36.1,0.29,5.9,0.07,0.0,17.13,43.0,1.09,291.9,16.9,0.14,420,Snack,Pakistani,Snack
+"Schweppes Diet Tonic Water Classic Mixers, 0.5 container (750 mls ea.) - Punjabi Tandoori",10.0,0.0,0.0,0.0,0.0,0.0,34.5,0.43,0.2,0.08,0.72,4.24,69.1,0.82,38.8,17.8,0.74,78,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Pakora, 2 Pakora Punjabi Slow-cooked Tandoori Light Smoky",113.2,11.5,0.0,6.6,4.6,0.0,51.1,0.33,5.6,0.16,0.18,7.5,13.0,0.07,71.8,25.2,0.65,306,Snack,Pakistani,Snack
+"Sainsbury's Vegetable Samosas, 0.5 Samosa (50g) Low-fat Herbed Tandoori Punjabi",33.7,7.9,0.0,1.9,0.4,0.0,19.0,0.08,2.6,0.07,1.19,10.54,2.3,1.0,26.2,13.1,0.44,84,Snack,Pakistani,Snack
+"Homemade Kala Chana, 1/4 cup Spicy Slow-cooked",15.7,2.7,0.0,0.4,0.7,0.0,25.3,0.11,1.3,0.01,0.09,7.22,41.3,0.44,181.2,0.8,0.12,348,Snack,Pakistani,Snack
+"Sainsbury's Vegetable Samosas, 1 Samosa (50g) Crispy",49.1,0.0,0.0,1.8,0.0,0.0,50.7,0.12,2.6,0.11,0.21,2.31,10.6,1.03,166.8,18.3,0.45,161,Snack,Pakistani,Snack
+"Vegetable Samosa, 0.13 samosa Spicy Crispy Light",10.5,0.5,0.0,0.2,0.0,0.0,8.6,0.41,0.7,0.03,0.4,12.69,5.0,0.39,89.6,4.7,0.93,132,Snack,Pakistani,Snack
+"Neha's Inspired Frozen Yoghurt Mango & Honey Lassi, 90 g Dry",54.0,6.0,0.0,3.7,1.4,0.0,0.0,0.2,4.1,0.06,0.08,1.0,16.1,0.48,45.1,22.7,0.38,212,Snack,Pakistani,Snack
+"Quorn 8 Samosas, 4 samosa Slow-cooked Punjabi",66.5,6.8,0.0,4.5,1.5,0.0,32.9,0.18,9.3,0.01,0.93,8.8,14.5,1.72,106.6,13.9,0.29,88,Snack,Pakistani,Snack
+"Haldiram's Classic Soan Papdi Premium 500g Pack, 1 pc = 26 g Dry Low-fat",41.3,4.3,0.0,2.4,1.0,0.0,94.7,0.12,3.6,0.04,0.78,3.88,8.2,2.43,51.2,18.4,0.77,97,Snack,Pakistani,Snack
+"Sitar Cuisine Chana Masala (Chick Peas), 2 oz Punjabi",26.0,3.1,0.0,1.4,1.0,0.0,42.8,0.5,5.5,0.05,0.11,17.41,40.2,0.24,234.6,8.2,0.12,446,Snack,Pakistani,Snack
+"night (chx tikka, rice, pakora), 1.25 serving(s) Buttery Low-fat Light",221.0,36.5,0.0,6.4,6.2,0.0,0.0,0.25,11.0,0.03,1.01,4.74,38.9,1.28,170.9,15.9,0.26,504,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Samosas, 3 vegetable samosa Home-cooked",40.6,5.3,0.0,1.4,0.9,0.0,80.2,0.3,0.8,0.01,0.83,10.7,34.4,2.35,163.5,10.1,0.34,147,Snack,Pakistani,Snack
+Boiled Egg Grilled,54.0,29.2,0.0,0.8,3.5,0.0,0.0,0.53,2.3,0.06,0.45,0.37,64.4,0.99,84.2,9.1,0.34,103,Snack,Pakistani,Snack
+"Paneer Pakora, 0.25 piece Herbed Punjabi",12.0,0.0,0.0,0.4,0.0,0.0,41.8,0.05,3.5,0.19,0.61,5.21,15.8,1.65,35.6,5.6,0.65,339,Snack,Pakistani,Snack
+"Chana Cury, 0.5 cup cooked Herbed Punjabi Spicy",65.7,7.9,0.0,2.5,2.7,0.0,0.0,0.06,11.4,0.13,0.91,7.06,24.5,0.67,124.4,25.6,1.02,132,Snack,Pakistani,Snack
+"Quorn 8 Samosas, 4 samosa Smoky Slow-cooked",97.2,9.9,0.0,3.9,2.8,0.0,0.0,0.11,5.9,0.06,0.49,19.25,3.1,0.9,156.4,18.8,0.24,236,Snack,Pakistani,Snack
+Dried Dates Pudding Recipe Grilled Home-cooked Hyderabadi,159.9,17.3,0.0,5.6,2.0,0.0,10.0,0.08,9.6,0.05,0.26,2.79,1.0,0.9,86.5,26.8,0.39,314,Snack,Global,Snack
+"Recipes Chana Dal, 1/4 cup Punjabi Masaledar",66.4,11.2,0.0,2.0,5.5,0.0,40.0,0.21,3.2,0.04,0.78,2.61,12.1,1.1,146.9,5.8,0.31,192,Snack,Pakistani,Snack
+Dried Dates Pudding Recipe Punjabi Crispy,105.2,11.4,0.0,6.4,2.9,0.0,60.0,0.54,2.3,0.07,0.69,4.08,28.8,0.08,109.4,9.2,0.52,33,Snack,Global,Snack
+"Asda Snacks Vegetable Pakora, 2 Pakora - Masaledar Buttery",99.2,10.1,0.0,3.5,1.9,0.0,57.7,0.35,1.4,0.18,0.12,4.22,21.7,0.33,148.9,16.4,0.09,192,Snack,Pakistani,Snack
+"Sweets Gulab Jambun, 0.5 pc cooked Hyderabadi",34.9,5.9,0.0,1.4,0.4,0.0,0.0,0.07,1.5,0.21,0.55,14.27,8.8,0.96,145.3,26.8,0.21,235,Snack,Pakistani,Snack
+"Homemade Kala Chana, 1.3 cup Dry",69.2,11.7,0.0,1.2,4.3,0.0,0.0,0.12,1.6,0.1,0.12,12.98,5.9,0.86,159.8,32.3,0.11,286,Snack,Pakistani,Snack
+"Vegetable Samosa, 3 samosa Smoky",265.9,16.0,0.0,12.5,1.9,0.0,4.1,0.32,3.0,0.28,0.75,13.67,13.0,0.27,161.7,26.4,0.86,255,Snack,Pakistani,Snack
+"Sainsbury's Vegetable Samosas, 0.5 Samosa (50g) Low-fat Herbed Crispy",20.7,4.9,0.0,1.0,0.4,0.0,77.3,0.48,7.6,0.14,0.05,5.33,90.2,1.87,109.7,23.4,0.37,295,Snack,Pakistani,Snack
+"Homemade Samosa Large, 0.5 piece Dry",74.4,0.0,0.0,0.0,0.0,0.0,0.0,0.14,2.5,0.12,0.89,4.62,12.2,0.69,27.7,18.2,0.27,307,Snack,Global,Snack
+"Samosa Vegetable Samosa, 1.3 samosa - Dry Herbed",74.8,5.9,0.0,6.9,1.8,0.0,31.1,0.05,0.9,0.09,0.77,5.68,22.9,0.36,117.7,29.2,0.47,81,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Pakora, 2 Pakora - Masaledar Buttery Crispy",92.5,9.4,0.0,4.1,2.1,0.0,0.0,0.3,7.3,0.08,0.49,4.9,8.5,0.92,154.7,11.7,0.79,443,Snack,Pakistani,Snack
+"Sitar Cuisine Chana Masala (Chick Peas), 1 oz Grilled Herbed Herbed Punjabi",11.4,1.3,0.0,0.5,0.2,0.0,0.0,0.34,10.6,0.12,0.16,11.9,19.1,1.41,105.7,20.2,0.55,263,Snack,Pakistani,Snack
+"Paneer Pakora, 0.25 piece Grilled",10.0,0.0,0.0,0.3,0.0,0.0,9.5,0.42,3.4,0.0,0.21,4.53,34.0,0.3,33.9,20.1,0.46,261,Snack,Pakistani,Snack
+"Sheek Kebab, 55 g Punjabi Tandoori Spicy Punjabi Tandoori",72.6,0.0,0.0,0.0,0.0,0.0,0.0,0.15,4.1,0.03,0.38,16.56,23.3,1.19,190.0,0.3,0.9,276,Snack,Pakistani,Snack
+Dry Fruits Mix Crispy Spicy,86.9,31.5,0.0,7.8,3.6,0.0,46.2,0.05,8.5,0.15,0.24,5.27,7.3,0.46,83.3,14.4,0.46,37,Snack,Pakistani,Snack
+Dry Fruits Mix Masaledar Buttery Herbed - Home-cooked,135.6,49.2,0.0,4.9,2.5,0.0,20.7,0.22,2.1,0.15,0.06,3.91,70.1,1.63,136.8,9.0,0.14,394,Snack,Pakistani,Snack
+"Schweppes Diet Tonic Water Classic Mixers, 0.5 container (750 mls ea.) - Punjabi Tandoori Crispy",10.0,0.0,0.0,0.0,0.0,0.0,55.7,0.11,9.2,0.04,0.64,1.46,5.6,1.66,127.9,9.2,0.47,109,Snack,Pakistani,Snack
+"Amy's Samosa Wrap, 1 wrap (142g) - Spicy",97.7,13.6,0.0,3.6,2.7,0.0,0.0,0.06,0.5,0.25,0.25,3.32,15.7,0.57,154.6,1.7,0.03,49,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Samosas, 2 vegetable samosa Masaledar Crispy Low-fat",23.3,3.0,0.0,2.6,1.1,0.0,35.0,0.19,7.1,0.21,0.43,26.7,17.9,0.23,125.9,13.3,1.19,371,Snack,Pakistani,Snack
+"Samosa Chaat, 106.72 g Light Smoky",84.1,14.4,0.0,3.0,3.3,0.0,12.0,0.03,8.3,0.04,0.36,8.13,28.4,1.44,158.5,15.9,0.08,233,Snack,Pakistani,Snack
+"Take Away Chicken Pakora, 10 piece Grilled",364.9,19.2,0.0,15.4,43.0,0.0,0.0,0.06,1.9,0.14,0.37,16.33,29.9,0.56,86.6,10.1,0.13,245,Snack,Pakistani,Snack
+"Boti Lamb Kebab, 1 serving 50 grams Punjabi - Masaledar",163.4,20.7,0.0,5.5,17.3,0.0,31.2,0.04,1.5,0.1,0.82,9.89,6.0,1.0,248.9,14.3,0.04,56,Snack,Pakistani,Snack
+"Homemade Meal With Salt Chana Dal Cooked, 1/2 cup cooked Masaledar",142.3,24.4,0.0,5.1,8.4,0.0,0.0,0.31,6.9,0.17,0.14,14.95,30.3,0.54,139.6,25.3,0.16,468,Snack,Pakistani,Snack
+"Food Samosa Meat and Veg, 1 Samosa (35 Grams) Light - Hyderabadi Crispy Dry",36.5,5.3,0.0,0.9,2.9,0.0,31.6,0.15,8.1,0.01,0.25,13.46,11.0,0.1,42.6,20.6,0.08,10,Snack,Pakistani,Snack
+"Take Away Chicken Pakora, 0.2 piece Slow-cooked Dry",10.0,0.3,0.0,0.6,0.6,0.0,0.0,0.08,0.6,0.12,0.74,1.34,20.1,1.33,187.0,15.4,0.64,309,Snack,Global,Snack
+Chikki Masaledar,67.5,24.8,0.0,7.3,3.7,0.0,10.9,0.21,6.1,0.03,0.44,4.1,42.0,1.08,3.9,6.4,0.73,344,Snack,Pakistani,Snack
+"Pakoras Vegetable Fritters, 3 fritters - Light",52.1,3.4,0.0,2.4,0.8,0.0,84.3,0.06,6.1,0.13,0.03,18.96,5.0,0.36,34.1,13.2,0.81,182,Snack,Pakistani,Snack
+"Boti Lamb Kebab, 1 serving 50 grams Punjabi - Grilled Light Grilled",229.6,29.2,0.0,4.0,20.4,0.0,0.0,0.55,4.2,0.15,0.2,16.39,8.3,0.35,158.6,8.9,0.21,239,Snack,Pakistani,Snack
+"Punjabi Curry With Pakora Food, 1 cup Crispy Tandoori",174.7,19.4,0.0,5.2,7.6,0.0,15.9,0.12,13.4,0.1,0.66,13.32,18.3,0.45,241.5,18.2,0.06,111,Snack,Pakistani,Snack
+"Moong Daal Dahi Vada, 0.25 pieces - Spicy Light",10.0,0.4,0.0,0.4,0.3,0.0,0.0,0.0,4.6,0.12,0.09,10.19,49.9,2.12,178.6,25.7,0.42,429,Snack,Pakistani,Snack
+"Samosa Vegetable Samosa, 1.3 samosa - Grilled",85.9,6.8,0.0,5.7,1.0,0.0,5.5,0.11,12.0,0.12,0.98,11.83,69.0,1.54,73.4,0.1,0.1,296,Snack,Pakistani,Snack
+"Homemade Kala Chana, 1 cup Home-cooked Light",85.0,14.0,0.0,1.4,2.4,0.0,14.1,0.07,0.7,0.04,0.46,3.65,5.7,1.01,251.4,28.9,0.58,206,Snack,Pakistani,Snack
+"Homemade Kala Chana, 1.5 cup Home-cooked Light",101.0,16.8,0.0,2.0,6.8,0.0,20.7,0.02,1.4,0.11,1.06,0.25,1.4,0.01,83.4,0.2,0.82,10,Snack,Pakistani,Snack
+"Take Away Chicken Pakora, 150 g Masaledar",58.9,4.1,0.0,2.8,1.0,0.0,54.6,0.09,0.0,0.08,0.29,5.63,15.8,0.64,259.3,1.4,1.33,396,Snack,Pakistani,Snack
+"Deep Gourmet Original Potato Pea Samosa, 1 Pieces (53g) Low-fat",31.9,3.9,0.0,1.6,0.5,0.0,0.0,0.3,6.2,0.12,1.28,4.34,50.3,1.52,184.0,26.7,0.34,223,Snack,Pakistani,Snack
+"Amy's Samosa Wrap, 1 wrap (142g) - Punjabi",128.0,17.9,0.0,2.9,2.9,0.0,62.9,0.11,6.6,0.24,0.71,7.76,6.5,0.87,19.2,10.2,0.04,259,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Pakora, 1 Pakora Masaledar Smoky",49.8,5.2,0.0,2.2,1.8,0.0,32.7,0.34,1.5,0.12,0.53,3.53,25.3,1.84,113.4,19.4,0.71,220,Snack,Pakistani,Snack
+"Tesco 12 Snack Selection (Mini Vegetable Samosas), 2 samosa Tandoori",85.5,10.3,0.0,3.6,1.5,0.0,0.0,0.48,10.8,0.02,0.8,5.35,22.0,0.74,150.8,13.6,0.24,348,Snack,Pakistani,Snack
+"Chana Masala, 0.5 cup (275g) Herbed",104.6,17.7,0.0,1.9,3.1,0.0,50.7,0.46,1.1,0.03,1.08,0.47,15.1,0.4,225.7,29.2,0.43,582,Snack,Pakistani,Snack
+"Sheek Kebab, 55 g - Home-cooked Spicy",45.9,0.0,0.0,0.0,0.0,0.0,0.0,0.11,2.7,0.02,0.41,12.11,19.5,0.75,106.6,4.6,0.5,198,Snack,Pakistani,Snack
+"Sweets Gulab Jambun, 1 pc cooked Home-cooked",79.6,13.4,0.0,1.8,1.2,0.0,0.0,0.02,2.0,0.01,0.93,13.29,35.1,1.23,130.4,22.4,0.28,537,Snack,Pakistani,Snack
+"Samosa Vegetable Samosa, 1 samosa Low-fat",88.7,5.3,0.0,2.5,0.6,0.0,46.4,0.37,2.2,0.09,0.03,9.91,6.5,0.04,1.1,8.6,0.12,207,Snack,Pakistani,Snack
+"Food Samosa Meat and Veg, 0.5 Samosa (35 Grams) - Grilled Spicy Home-cooked",16.4,2.2,0.0,0.6,1.1,0.0,66.6,0.05,8.6,0.06,0.26,2.97,56.5,0.41,224.0,14.3,1.14,10,Snack,Global,Snack
+"Sheek Kebab, 55 g Punjabi Tandoori Spicy Punjabi Spicy Hyderabadi",67.6,0.0,0.0,0.0,0.0,0.0,32.2,0.14,4.7,0.3,0.24,11.11,4.3,1.46,192.5,7.1,0.71,343,Snack,Pakistani,Snack
+"Homemade Kala Chana, 0.5 cup Low-fat Light",39.2,6.6,0.0,0.4,1.9,0.0,13.3,0.43,2.8,0.07,0.05,2.59,24.8,0.42,221.1,15.4,0.06,168,Snack,Pakistani,Snack
+"Tesco Chicken Tikka Samosas, 2 samosa Smoky",127.4,12.3,0.0,6.1,2.6,0.0,32.3,0.27,0.5,0.13,0.04,7.05,54.7,0.99,57.2,13.1,0.41,167,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Samosas, 2 vegetable samosa Home-cooked Tandoori",31.4,3.9,0.0,1.3,1.1,0.0,33.2,0.08,13.0,0.03,0.72,0.42,32.7,0.61,83.5,6.1,0.11,358,Snack,Pakistani,Snack
+"Chana Masala, 1 cup (275g) Smoky",200.1,33.9,0.0,3.4,3.6,0.0,14.3,0.11,2.5,0.04,1.0,17.68,6.9,0.39,162.8,11.6,0.55,48,Snack,Pakistani,Snack
+"Homemade Kala Chana, 1 1/4 cup Smoky",80.6,13.4,0.0,0.8,4.2,0.0,0.0,0.22,2.0,0.1,0.39,4.52,38.6,0.39,220.5,19.0,0.36,244,Snack,Pakistani,Snack
+"Sitar Cuisine Chana Masala (Chick Peas), 1 oz Grilled Herbed Herbed Smoky",10.0,1.1,0.0,0.5,0.2,0.0,4.7,0.45,2.7,0.12,0.34,7.52,14.8,1.38,96.1,16.9,0.86,104,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Pakora, 2 Pakora Herbed Tandoori",39.1,4.5,0.0,1.3,0.8,0.0,34.9,0.31,0.6,0.18,0.0,1.19,21.1,0.41,39.4,14.8,0.27,366,Snack,Pakistani,Snack
+"Food Samosa Meat and Veg, 1 Samosa (35 Grams) Hyderabadi Home-cooked",21.8,3.2,0.0,0.7,2.0,0.0,0.0,0.48,0.4,0.02,0.25,9.89,0.2,0.28,20.1,14.8,0.77,369,Snack,Pakistani,Snack
+Pakora Punjabi,89.6,10.5,0.0,21.1,3.9,0.0,10.3,0.31,3.4,0.01,0.64,10.53,48.1,0.12,163.8,10.7,0.21,423,Snack,Pakistani,Snack
+Pakora Punjabi Punjabi,97.6,11.4,0.0,20.9,5.1,0.0,0.0,0.22,8.9,0.11,0.99,4.48,12.1,0.53,139.3,18.1,1.05,496,Snack,Pakistani,Snack
+"Morrisons Mini Snack Vegetable Samosa, 1 Samosa Low-fat Hyderabadi Herbed",24.5,3.1,0.0,1.7,0.4,0.0,44.1,0.02,0.3,0.14,0.08,1.74,13.0,0.11,106.3,8.3,0.12,61,Snack,Pakistani,Snack
+"Chicken Pakora (Reverse Engineered), 235 g Tandoori Grilled",136.9,7.9,0.0,6.2,15.1,0.0,18.8,0.03,0.0,0.14,0.61,18.71,2.5,1.03,111.1,12.1,0.55,10,Snack,Pakistani,Snack
+"Homemade Kala Chana, 1/2 cup Grilled Herbed",49.5,8.5,0.0,0.4,1.2,0.0,16.2,0.17,5.6,0.03,0.32,5.12,8.2,0.86,135.8,7.7,0.54,91,Snack,Pakistani,Snack
+"Moong Daal Dahi Vada, 2 pieces Home-cooked Hyderabadi",57.5,4.5,0.0,4.8,2.1,0.0,34.3,0.2,4.0,0.08,0.7,7.43,31.5,1.05,102.1,20.4,0.94,25,Snack,Pakistani,Snack
+"Sainsbury's Vegetable Samosas, 1 Samosa (50g) Dry Herbed Tandoori",50.8,11.5,0.0,3.5,0.6,0.0,24.9,0.16,0.0,0.08,0.11,9.86,17.5,0.74,131.9,17.6,0.6,280,Snack,Pakistani,Snack
+"M&s Modern Crispy Chaat Selection, 3.99 pieces Light - Grilled",112.2,12.4,0.0,4.4,5.7,0.0,0.3,0.16,11.9,0.04,0.16,21.11,18.6,0.89,115.1,10.0,0.02,120,Snack,Pakistani,Snack
+Murabba Dry Grilled,94.5,17.7,0.0,13.2,8.9,0.0,26.4,0.33,5.3,0.14,0.19,8.97,6.3,0.51,95.3,17.9,0.27,161,Snack,Pakistani,Snack
+"Gourmet Spinach Pakora, 6 pieces (130g) Low-fat Light",140.0,12.6,0.0,3.6,3.7,0.0,31.3,0.37,7.4,0.1,0.67,15.14,43.7,1.47,170.9,5.4,0.27,160,Snack,Pakistani,Snack
+"Chana Masala, 1 cup (275g) Punjabi - Low-fat",143.6,24.4,0.0,3.9,7.2,0.0,0.0,0.11,6.9,0.03,0.84,16.21,8.0,1.67,49.9,4.9,0.83,10,Snack,Pakistani,Snack
+"Homemade Kala Chana, 1/2 cup Grilled Herbed Masaledar",49.5,8.5,0.0,0.5,1.5,0.0,0.0,0.07,3.2,0.09,0.32,20.12,31.9,0.64,135.7,2.0,0.93,108,Snack,Pakistani,Snack
+"(Uk Sheek Kebab, 2 piece Hyderabadi Light - Smoky",106.4,0.0,0.0,7.9,9.4,0.0,8.0,0.34,0.5,0.05,0.31,18.49,14.3,0.07,137.7,16.1,0.56,430,Snack,Pakistani,Snack
+Dates Buttery Slow-cooked,101.5,19.7,0.0,16.2,0.8,0.0,0.0,0.16,8.2,0.09,0.31,17.57,36.8,0.79,74.6,8.7,0.2,371,Snack,Pakistani,Snack
+"Homemade Kala Chana, 1/2 cup Grilled Light Crispy Buttery",52.3,8.9,0.0,0.3,1.3,0.0,30.7,0.04,15.5,0.03,0.13,20.95,30.7,2.15,127.5,7.8,0.05,29,Snack,Pakistani,Snack
+"Schweppes Diet Tonic Water Classic Mixers, 0.5 container (750 mls ea.) - Punjabi Home-cooked",10.0,0.0,0.0,0.0,0.0,0.0,50.2,0.73,13.5,0.01,0.45,7.16,55.1,0.33,42.8,21.1,0.56,53,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Pakora, 2 vegetable pakora Punjabi",26.9,2.6,0.0,1.6,0.7,0.0,60.4,0.19,7.7,0.08,0.71,5.71,15.7,0.33,12.3,15.3,0.41,152,Snack,Pakistani,Snack
+"Moong Daal Dahi Vada, 2 pieces Crispy Slow-cooked",45.6,3.6,0.0,2.9,2.3,0.0,0.0,0.27,4.8,0.05,0.05,9.89,77.5,0.66,94.8,29.0,0.49,601,Snack,Pakistani,Snack
+Dry Fruits Mix Masaledar Buttery Herbed - Light - Slow-cooked,82.6,30.0,0.0,5.8,3.9,0.0,0.0,0.21,4.0,0.04,0.18,15.93,12.7,0.77,24.6,13.3,0.11,200,Snack,Pakistani,Snack
+"Quorn 8 Samosas, 4 samosa Smoky Hyderabadi Tandoori Punjabi",105.3,10.7,0.0,1.7,2.0,0.0,44.0,0.08,2.4,0.22,0.8,5.75,14.6,1.19,149.6,23.4,0.35,370,Snack,Pakistani,Snack
+"Life Pakoras Mixed Vegetables, 1 pak Low-fat",24.3,3.6,0.0,0.6,1.0,0.0,6.5,0.01,4.9,0.05,0.08,15.41,28.5,1.06,105.2,13.5,0.72,245,Snack,Pakistani,Snack
+"Samosa Vegetable Samosa, 1.3 samosa - Dry Herbed Herbed",81.8,6.5,0.0,5.3,1.9,0.0,40.9,0.18,3.2,0.2,0.98,6.61,14.5,0.45,93.7,19.6,0.59,100,Snack,Pakistani,Snack
+Dried Dates Pudding Recipe Smoky,97.6,10.6,0.0,5.6,2.3,0.0,0.0,0.04,2.1,0.06,0.16,15.44,5.8,0.11,172.6,4.2,0.08,103,Snack,Global,Snack
+"Recipes Chana Dal, 1/4 cup Masaledar",45.6,7.7,0.0,1.8,4.8,0.0,55.2,0.13,7.5,0.04,0.01,6.06,8.3,0.86,246.5,17.8,0.09,63,Snack,Pakistani,Snack
+Murabba Dry Low-fat,106.2,19.9,0.0,14.2,9.5,0.0,35.7,0.07,3.4,0.14,0.46,0.69,80.2,2.14,120.8,18.5,0.68,211,Snack,Pakistani,Snack
+Chikki - Grilled,79.5,29.3,0.0,5.8,3.5,0.0,0.0,0.01,6.4,0.04,0.44,6.89,20.7,0.48,122.1,21.6,0.02,10,Snack,Pakistani,Snack
+"Paneer Pakora, 1 piece Slow-cooked Smoky Masaledar Home-cooked",46.4,0.0,0.0,1.5,0.0,0.0,0.0,0.28,3.3,0.21,0.09,6.42,74.6,1.1,310.4,13.3,0.49,436,Snack,Pakistani,Snack
+"Quorn 8 Samosas, 1 samosa Tandoori Spicy",18.7,2.1,0.0,1.5,0.7,0.0,6.8,0.38,3.9,0.01,0.48,1.94,26.2,0.8,170.4,1.4,0.91,147,Snack,Pakistani,Snack
+"Quorn 8 Samosas, 1 samosa Tandoori Spicy Tandoori",18.8,2.1,0.0,1.3,0.7,0.0,37.0,0.29,1.0,0.09,0.32,2.09,28.4,0.42,42.2,21.5,0.35,282,Snack,Pakistani,Snack
+"Pakoras Vegetable Fritters, 3 fritters - Light Tandoori",47.3,3.1,0.0,2.9,0.9,0.0,8.3,0.61,11.7,0.03,0.63,3.16,27.5,1.08,118.2,24.5,1.01,409,Snack,Pakistani,Snack
+"Vegtable Samosa, 1 portion Punjabi Light Tandoori",68.8,7.4,0.0,3.0,1.4,0.0,0.0,0.02,5.5,0.14,0.1,7.96,29.1,0.35,132.3,28.6,0.29,182,Snack,Pakistani,Snack
+"Sheek Kebab, 55 g Buttery Punjabi Light",51.2,0.0,0.0,0.0,0.0,0.0,0.0,0.59,2.6,0.12,1.13,12.76,55.0,1.75,331.6,3.7,0.08,146,Snack,Pakistani,Snack
+"Homemade Black Chana Masala, 2 serving Spicy Home-cooked",76.2,12.1,0.0,3.2,2.7,0.0,1.2,0.43,0.9,0.13,0.46,30.49,11.7,0.11,49.5,4.0,0.12,71,Snack,Pakistani,Snack
+"Bloomin’ -Spiced Whole Roasted Cauliflower, 1 serving(s) - Home-cooked Smoky",67.8,9.5,0.0,1.6,5.7,0.0,8.1,0.5,1.1,0.04,0.35,7.9,16.2,0.3,144.4,3.5,0.92,379,Snack,Global,Snack
+"Homemade Dahi Bhalla / Bhalle, 1 cup (160g) Hyderabadi Dry",62.9,7.2,0.0,2.2,2.0,0.0,0.0,0.67,1.8,0.03,0.48,4.61,36.4,2.2,139.8,12.1,0.06,440,Snack,Pakistani,Snack
+"Tesco 12 Snack Selection (Mini Vegetable Pakoras), 2 pakora - Dry Punjabi",46.6,2.5,0.0,3.7,0.0,0.0,19.7,0.14,3.6,0.21,0.45,11.5,44.1,0.1,90.2,18.7,0.57,383,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Pakora, 2 vegetable pakora - Low-fat Light Masaledar",23.4,2.2,0.0,1.6,0.6,0.0,75.7,0.32,5.1,0.03,0.5,4.95,23.7,0.14,112.3,4.9,0.05,147,Snack,Pakistani,Snack
+"Sitar Cuisine Chana Masala (Chick Peas), 1 oz Dry Hyderabadi",10.7,1.1,0.0,0.4,0.6,0.0,0.0,0.44,3.7,0.03,0.4,12.52,2.5,0.18,87.2,15.0,0.88,105,Snack,Pakistani,Snack
+"Recipes Chana Dal, 1/4 cup Punjabi Smoky Crispy",68.4,11.6,0.0,1.6,6.2,0.0,0.0,0.36,5.0,0.05,0.8,2.33,11.0,0.55,133.2,4.7,0.35,262,Snack,Pakistani,Snack
+"Take Away Chicken Pakora, 1 piece Low-fat Tandoori",33.8,1.8,0.0,0.9,5.1,0.0,61.2,0.27,0.5,0.08,0.8,12.95,47.9,0.21,176.7,7.1,1.07,215,Snack,Pakistani,Snack
+Beef Seekh Kebab () Masaledar - Spicy,184.5,3.5,0.0,14.8,13.5,0.0,34.4,0.12,9.0,0.09,1.25,8.51,20.2,0.73,117.7,12.7,0.88,273,Snack,Pakistani,Snack
+"night (chx tikka, rice, pakora), 1.5 serving(s) Punjabi Grilled Light",335.2,55.4,0.0,7.0,8.9,0.0,52.7,0.14,3.9,0.15,0.56,5.66,30.4,1.36,134.3,10.3,0.08,153,Snack,Pakistani,Snack
+"Paneer Pakora, 0.25 piece Herbed Masaledar Light",10.0,0.0,0.0,0.5,0.0,0.0,0.0,0.23,1.2,0.17,0.91,9.38,56.2,0.04,43.6,15.5,0.41,519,Snack,Pakistani,Snack
+"Vegtable Samosa, 1 portion Punjabi Light Tandoori Hyderabadi",52.9,5.7,0.0,3.4,1.6,0.0,0.0,0.13,9.3,0.32,0.03,4.89,17.8,0.28,72.8,21.7,1.68,111,Snack,Pakistani,Snack
+"Chicken Chaat, 211 g Masaledar",134.1,1.8,0.0,12.3,8.7,0.0,0.0,0.47,5.8,0.12,0.39,0.39,2.9,1.02,153.9,16.5,0.23,270,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Pakora, 1 container (2 pakoras ea.) Tandoori Tandoori Spicy Home-cooked",87.8,8.8,0.0,5.3,2.1,0.0,61.2,0.3,0.4,0.16,0.67,5.84,36.0,0.53,62.2,11.7,0.1,297,Snack,Pakistani,Snack
+"Samosa Chaat, 266.8 g Crispy Punjabi",131.5,22.2,0.0,6.8,9.5,0.0,0.0,0.11,3.4,0.14,0.59,2.19,43.2,0.51,241.7,22.7,0.33,164,Snack,Global,Snack
+"Iceland Platter Vegetable Pakora, 4 vegetable pakora Home-cooked Hyderabadi Spicy Home-cooked",40.3,3.9,0.0,1.7,1.5,0.0,39.4,0.61,8.0,0.03,0.09,0.02,46.4,0.11,35.7,7.7,0.13,10,Snack,Pakistani,Snack
+Murabba Dry Home-cooked,102.3,19.1,0.0,9.2,7.5,0.0,36.7,0.14,2.3,0.11,0.34,2.95,5.6,0.29,132.6,12.3,0.72,200,Snack,Pakistani,Snack
+"Sitar Cuisine Chana Masala (Chick Peas), 1 oz Dry Light",13.7,1.4,0.0,0.4,0.4,0.0,37.4,0.08,0.6,0.18,0.58,24.25,20.1,0.06,148.2,28.9,0.07,117,Snack,Pakistani,Snack
+"Co-op 12 Selection Vegetable Pakora, 2 pakora Crispy Buttery",39.3,3.5,0.0,1.4,1.3,0.0,45.2,0.06,1.9,0.23,0.37,13.9,2.1,0.81,183.5,24.0,0.89,52,Snack,Pakistani,Snack
+"Chicken Pakora (Reverse Engineered), 235 g Tandoori Tandoori",157.8,9.1,0.0,7.2,10.9,0.0,15.4,0.13,3.9,0.2,0.23,3.57,17.7,0.58,3.9,8.5,0.73,248,Snack,Pakistani,Snack
+Lassi Light,78.3,29.1,0.0,12.7,4.8,0.0,30.2,0.67,6.4,0.08,0.41,3.15,34.3,0.51,78.2,16.4,0.0,350,Snack,Pakistani,Snack
+"Food Samosa Meat and Veg, 1 Samosa (35 Grams) Light - Hyderabadi Hyderabadi",34.1,5.0,0.0,0.5,2.5,0.0,23.1,0.06,6.6,0.0,0.02,8.48,13.7,3.11,268.5,4.0,0.43,172,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Pakora, 4 vegetable pakora Home-cooked Hyderabadi Spicy Home-cooked Slow-cooked",41.0,4.0,0.0,2.0,1.5,0.0,3.0,0.24,5.4,0.05,0.57,5.29,31.9,0.02,53.6,1.9,0.62,10,Snack,Pakistani,Snack
+"Homemade Samosa Large, 0.5 piece Masaledar",65.1,0.0,0.0,0.0,0.0,0.0,0.0,0.07,5.3,0.01,0.28,12.67,30.0,0.42,155.8,20.4,0.17,10,Snack,Global,Snack
+"Paneer Pakora, 3 piece Masaledar Tandoori",85.3,0.0,0.0,4.2,0.0,0.0,0.0,0.27,12.0,0.05,0.86,9.07,13.8,1.27,149.6,4.9,0.64,144,Snack,Pakistani,Snack
+"Chicken Chaat, 105.5 g Herbed",84.4,1.3,0.0,8.5,2.8,0.0,9.6,0.11,1.2,0.05,0.65,1.81,50.2,1.83,242.0,11.6,0.21,214,Snack,Pakistani,Snack
+"Morrisons Mini Snack Vegetable Samosa, 1 Samosa Low-fat Hyderabadi Slow-cooked Slow-cooked",18.3,2.4,0.0,2.3,0.4,0.0,39.4,0.09,2.2,0.13,0.12,1.4,8.3,0.66,196.8,5.0,0.66,228,Snack,Pakistani,Snack
+"Chana Cury, 0.5 cup cooked Low-fat",49.5,6.0,0.0,2.2,1.8,0.0,16.1,0.35,4.7,0.02,0.78,10.14,67.8,0.66,176.2,21.2,0.8,182,Snack,Pakistani,Snack
+"Mango Lassi, 0.5 cup Slow-cooked",23.1,5.0,0.0,0.5,0.7,0.0,0.0,0.36,1.8,0.03,0.28,8.26,38.8,1.47,63.5,2.9,0.26,272,Snack,Global,Snack
+"(Uk Sheek Kebab, 2 piece Hyderabadi Herbed Low-fat Punjabi Slow-cooked",96.4,0.0,0.0,3.0,6.4,0.0,0.0,0.35,5.5,0.08,0.33,6.19,10.2,0.64,178.1,0.2,0.09,428,Snack,Pakistani,Snack
+"Dahi Whole Milk Yogurt, 1 cup/(227g Grilled Tandoori Buttery",77.9,7.8,0.0,3.1,3.6,0.0,0.0,0.74,0.5,0.08,0.42,3.83,19.4,1.79,60.9,15.3,0.76,187,Snack,Pakistani,Snack
+"Homemade Kala Chana, 1 cup Home-cooked Slow-cooked Crispy",78.2,12.9,0.0,1.5,3.3,0.0,0.0,0.24,4.6,0.0,0.02,3.24,6.9,2.19,122.0,19.0,0.4,369,Snack,Pakistani,Snack
+"Fitness raw nuts almonds, hazelnut, cashew, 125 g Grilled Herbed Light",238.2,9.5,0.0,24.4,7.8,0.0,27.6,0.19,1.8,0.29,0.36,20.75,34.3,1.05,212.7,24.8,0.04,353,Snack,Pakistani,Snack
+"Pakoras Vegetable Fritters, 3 fritters - Light Tandoori Smoky",47.9,3.1,0.0,3.5,1.2,0.0,71.0,0.23,15.8,0.15,0.09,4.1,36.5,2.14,169.7,14.3,0.91,187,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Pakora, 4 vegetable pakora Buttery Buttery",39.4,3.8,0.0,2.3,1.1,0.0,61.3,0.07,8.3,0.05,0.14,0.49,17.3,0.4,163.7,0.4,0.81,179,Snack,Pakistani,Snack
+"Quorn 8 Samosas, 4 samosa Slow-cooked Herbed",60.7,6.2,0.0,3.3,1.5,0.0,25.8,0.17,2.1,0.02,0.57,10.1,29.8,1.16,121.1,10.5,0.8,255,Snack,Pakistani,Snack
+"Pakoras Vegetable Fritters, 6 fritters Spicy Tandoori Crispy",113.8,8.1,0.0,4.3,1.5,0.0,5.7,0.32,3.6,0.15,0.52,6.28,39.5,0.95,157.8,2.0,0.19,151,Snack,Pakistani,Snack
+"Take Away Chicken Pakora, 2 piece Punjabi Slow-cooked",74.9,3.9,0.0,2.7,9.9,0.0,0.0,0.26,1.9,0.13,0.08,0.6,34.1,0.3,4.8,18.8,0.13,230,Snack,Pakistani,Snack
+"Neha's Inspired Frozen Yoghurt Mango & Honey Lassi, 90 g Masaledar Hyderabadi",73.0,8.1,0.0,2.7,0.8,0.0,49.0,0.41,2.5,0.21,1.23,1.23,25.3,0.71,241.1,0.9,0.31,357,Snack,Pakistani,Snack
+"Homemade Kala Chana, 2 cup Spicy",144.0,24.1,0.0,2.0,9.2,0.0,30.9,0.19,2.3,0.03,1.67,3.23,33.2,2.13,12.6,16.9,0.41,489,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Samosas, 2 vegetable samosa Home-cooked Herbed",27.2,3.4,0.0,1.4,0.9,0.0,100.9,0.23,1.9,0.01,0.4,4.87,0.6,0.7,116.0,11.4,0.14,411,Snack,Pakistani,Snack
+"Chana Masala, 0.25 cup (275g) Herbed Light Hyderabadi",37.3,6.5,0.0,0.8,0.9,0.0,0.0,0.11,3.5,0.12,0.47,5.35,26.2,0.07,87.9,13.4,0.01,261,Snack,Pakistani,Snack
+"Homemade (Anjum Anand Food Made Easy Recipe) <Potassium> Samosa Potato and Pea With Filo Pastry, 1.5 Samosa Herbed",58.8,11.6,0.0,0.0,2.6,0.0,0.4,0.55,1.3,0.02,0.0,5.48,71.4,0.8,154.2,13.5,0.13,191,Snack,Pakistani,Snack
+"Boti Lamb Kebab, 1 serving 50 grams Punjabi Tandoori - Buttery Low-fat",219.1,27.7,0.0,3.6,20.8,0.0,67.4,0.16,3.7,0.16,0.66,10.86,2.3,1.6,53.9,11.3,0.09,170,Snack,Pakistani,Snack
+"Samosa Vegetable Samosa, 0.5 samosa Crispy",37.0,2.8,0.0,3.1,0.4,0.0,44.8,0.04,5.3,0.22,0.29,7.45,14.5,0.4,124.2,12.2,0.76,278,Snack,Pakistani,Snack
+"Sainsbury's Vegetable Samosas, 1 Samosa (50g) Grilled - Smoky Masaledar Crispy",29.9,6.8,0.0,1.8,0.5,0.0,83.4,0.21,3.6,0.09,0.04,0.42,12.3,1.1,47.0,7.9,0.54,58,Snack,Pakistani,Snack
+"Tesco Chicken Tikka Samosas, 2 samosa Crispy",109.5,10.5,0.0,5.0,3.5,0.0,32.7,0.24,0.1,0.05,0.85,0.22,47.7,0.5,7.0,10.8,0.2,172,Snack,Pakistani,Snack
+"Tesco 12 Snack Selection (Mini Vegetable Pakoras), 2 pakora - Spicy Low-fat",39.3,2.1,0.0,7.7,0.0,0.0,28.1,0.09,4.6,0.09,0.27,7.43,38.5,0.75,164.7,9.5,0.62,368,Snack,Pakistani,Snack
+"Neha's Inspired Frozen Yoghurt Mango & Honey Lassi, 100 g Low-fat Smoky - Low-fat",79.4,9.1,0.0,3.3,1.6,0.0,37.3,0.01,6.5,0.11,0.94,16.03,16.6,1.2,123.6,13.2,0.05,186,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Samosas, 2 vegetable samosa Herbed Light",23.3,2.9,0.0,1.2,1.3,0.0,33.9,0.09,2.6,0.13,0.57,14.08,37.6,0.77,123.6,13.7,1.2,228,Snack,Pakistani,Snack
+"Chana Masala, 1 cup (275g) Punjabi - Low-fat Masaledar",148.7,25.3,0.0,5.1,7.1,0.0,0.0,0.07,4.9,0.23,0.1,11.28,70.9,1.85,87.7,18.9,0.54,121,Snack,Pakistani,Snack
+Roasted Chana Smoky Light,82.4,23.8,0.0,6.9,11.0,0.0,1.4,0.26,3.6,0.1,0.22,8.0,38.6,1.67,168.3,9.6,0.48,569,Snack,Pakistani,Snack
+"Samosa Vegetable Samosa, 3 samosa - Smoky",153.6,11.9,0.0,9.0,2.6,0.0,56.9,0.43,3.5,0.37,0.91,4.22,10.5,0.16,252.9,13.7,0.18,10,Snack,Pakistani,Snack
+"Homemade Kala Chana, 0.5 cup Low-fat Herbed Herbed",32.4,5.5,0.0,0.4,1.2,0.0,0.0,0.13,5.5,0.04,0.73,7.55,27.8,1.38,9.1,7.7,1.36,10,Snack,Pakistani,Snack
+"M&s Modern Crispy Chaat Selection, 3.99 pieces Dry Punjabi",92.2,10.2,0.0,3.6,2.5,0.0,15.1,0.09,3.1,0.01,1.06,8.41,1.9,0.59,96.4,18.6,0.88,67,Snack,Pakistani,Snack
+"Samosa Chaat, 106.72 g Hyderabadi Hyderabadi",60.5,10.4,0.0,1.5,2.0,0.0,60.5,0.31,2.7,0.38,0.75,8.78,34.6,0.01,122.2,11.7,0.47,164,Snack,Pakistani,Snack
+"Samosa (Potato-filled), 0.5 piece Tandoori Buttery",78.7,8.2,0.0,4.8,0.8,0.0,11.5,0.27,5.9,0.15,0.38,3.8,56.2,0.6,227.2,14.6,0.33,195,Snack,Pakistani,Snack
+"Neha's Inspired Frozen Yoghurt Mango & Honey Lassi, 100 g Masaledar",97.3,11.1,0.0,4.3,1.1,0.0,0.0,0.27,2.9,0.01,0.5,8.79,6.8,0.2,156.4,29.0,0.2,162,Snack,Pakistani,Snack
+"Schweppes Diet Tonic Water Classic Mixers, 0.5 container (750 mls ea.) Herbed",10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.13,9.3,0.0,0.27,6.1,21.5,1.06,254.6,4.5,0.18,179,Snack,Pakistani,Snack
+"Fitness raw nuts almonds, hazelnut, cashew, 125 g Buttery Buttery",251.9,10.0,0.0,39.6,7.1,0.0,0.0,0.15,3.8,0.05,0.32,2.87,21.5,1.23,113.4,24.4,0.32,75,Snack,Pakistani,Snack
+"Sainsbury's Vegetable Samosas, 2 Samosa (50g) Smoky Punjabi Light Spicy",78.6,0.0,0.0,5.2,0.0,0.0,66.5,0.22,3.4,0.01,0.58,3.5,44.9,1.28,88.9,23.5,1.01,10,Snack,Pakistani,Snack
+"Deep Gourme Jumbo Punjabi Jumbo Samosa, 1 piece - Herbed Masaledar",93.7,10.3,0.0,3.2,1.1,0.0,37.0,0.03,6.5,0.08,0.83,1.8,33.6,0.76,99.7,12.5,1.0,85,Snack,Pakistani,Snack
+Seviyan (sweet vermicelli) Masaledar Herbed,104.5,25.7,0.0,16.7,6.0,0.0,44.1,0.33,0.1,0.13,1.24,4.63,50.5,1.28,96.4,13.6,0.61,108,Snack,Pakistani,Snack
+"Chana Masala, 0.25 cup (275g) Tandoori",31.6,5.5,0.0,0.7,0.8,0.0,36.4,0.04,4.7,0.13,0.55,17.18,43.1,0.94,184.3,26.6,0.72,42,Snack,Pakistani,Snack
+"Aldi Bilash 8 Mini Vegetable Samosas, 3 Samosa (23g) Punjabi Low-fat",63.1,6.6,0.0,3.4,1.3,0.0,0.0,0.08,0.2,0.03,0.01,16.0,25.6,0.92,89.4,0.9,0.4,491,Snack,Pakistani,Snack
+"Sainsbury's Vegetable Samosas, 2 Samosa (50g) Smoky Tandoori",83.0,0.0,0.0,6.8,0.0,0.0,27.6,0.18,4.3,0.16,0.68,4.35,0.9,1.73,91.2,3.3,0.32,422,Snack,Pakistani,Snack
+"Homemade Black Chana Masala, 2 serving Grilled",79.9,12.7,0.0,2.0,4.0,0.0,0.0,0.22,9.6,0.1,0.71,8.01,16.9,0.54,23.1,5.9,0.04,167,Snack,Pakistani,Snack
+"Sainsbury's Vegetable Samosas, 1 Samosa (50g) Dry Herbed Buttery",45.3,10.2,0.0,2.6,0.5,0.0,62.1,0.43,4.1,0.0,0.67,6.33,30.5,1.83,176.8,32.6,0.34,155,Snack,Pakistani,Snack
+"Deep Gourme Jumbo Punjabi Jumbo Samosa, 1 piece Hyderabadi Tandoori",97.9,10.8,0.0,2.6,2.2,0.0,46.0,0.33,4.5,0.03,0.34,3.1,47.7,0.84,18.5,7.6,0.7,10,Snack,Pakistani,Snack
+"Sheek Kebab, 55 g Home-cooked Light Low-fat Smoky",28.7,0.0,0.0,0.0,0.0,0.0,10.1,0.17,1.3,0.13,0.43,0.84,43.7,0.01,4.5,4.9,0.67,330,Snack,Pakistani,Snack
+"night (chx tikka, rice, pakora), 1.5 serving(s) Punjabi Grilled Buttery",446.3,73.8,0.0,4.0,12.3,0.0,41.7,0.14,3.7,0.06,0.67,16.22,39.8,1.84,134.6,7.0,0.87,424,Snack,Pakistani,Snack
+"(Uk Sheek Kebab, 2 piece Hyderabadi Herbed Low-fat Grilled Buttery",68.3,0.0,0.0,5.6,14.3,0.0,5.4,0.47,3.3,0.09,0.04,8.46,37.1,0.47,163.6,19.6,0.48,600,Snack,Pakistani,Snack
+"Homemade Kala Chana, 1/2 cup Grilled Herbed Masaledar Crispy",48.7,8.4,0.0,0.6,1.8,0.0,42.2,0.22,3.8,0.1,0.89,2.63,54.7,0.27,20.8,16.7,0.9,193,Snack,Pakistani,Snack
+"Fitness raw nuts almonds, hazelnut, cashew, 125 g Grilled Herbed - Spicy",238.8,9.5,0.0,14.0,9.9,0.0,12.2,0.05,3.5,0.15,0.88,0.39,16.7,1.22,60.1,25.9,0.31,208,Snack,Pakistani,Snack
+Roasted Chana Smoky Low-fat,78.4,22.6,0.0,7.8,13.9,0.0,53.4,0.29,5.8,0.05,0.32,9.6,1.9,1.1,103.6,6.8,0.81,390,Snack,Pakistani,Snack
+"Fitness raw nuts almonds, hazelnut, cashew, 125 g Tandoori",296.1,11.8,0.0,34.9,11.6,0.0,0.0,0.0,0.0,0.06,0.41,6.22,19.9,1.19,174.2,17.4,0.68,99,Snack,Pakistani,Snack
+"Sitar Cuisine Chana Masala (Chick Peas), 2 oz - Herbed",21.3,2.6,0.0,1.1,1.1,0.0,39.5,0.32,2.7,0.17,1.17,5.16,0.3,1.0,54.4,21.9,0.12,191,Snack,Pakistani,Snack
+"Boti Lamb Kebab, 1 serving 50 grams Punjabi - Masaledar Slow-cooked",147.0,18.6,0.0,5.7,18.1,0.0,11.4,0.09,0.6,0.09,0.9,0.56,56.0,0.5,32.2,8.4,0.4,229,Snack,Pakistani,Snack
+"Amy's Samosa Wrap, 1 wrap (142g) - Punjabi Home-cooked",138.4,19.4,0.0,3.0,2.7,0.0,28.1,0.37,1.4,0.15,0.48,7.37,21.2,0.9,34.8,1.1,0.59,151,Snack,Pakistani,Snack
+Boiled Egg Grilled Buttery,63.8,34.5,0.0,1.0,3.8,0.0,0.0,0.17,4.4,0.08,0.19,3.4,10.7,1.11,146.1,8.8,0.15,244,Snack,Pakistani,Snack
+"Deep Gourmet Potato & Pea Cocktail Samosa, 7.5 pieces (3g) Light Hyderabadi",38.5,4.7,0.0,0.0,1.2,0.0,20.7,0.07,2.7,0.05,0.16,12.29,11.0,0.72,319.8,13.3,0.4,321,Snack,Pakistani,Snack
+"Take Away Chicken Pakora, 0.2 piece Slow-cooked Dry Grilled",10.0,0.3,0.0,0.8,0.6,0.0,7.6,0.17,0.4,0.0,0.27,16.72,6.0,1.03,153.9,31.3,0.73,281,Snack,Global,Snack
+"M&s Modern Kebab and Samosa Selection, 3 pieces Buttery",58.2,3.6,0.0,2.9,4.4,0.0,0.0,0.19,7.8,0.06,0.21,5.73,27.0,0.8,116.6,7.9,0.8,155,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Samosas, 2 vegetable samosa Masaledar Tandoori Home-cooked",27.3,3.4,0.0,1.8,1.2,0.0,57.2,0.22,4.1,0.02,0.15,16.83,3.6,0.19,66.6,11.1,0.43,294,Snack,Pakistani,Snack
+"Aldi Bilash 8 Mini Vegetable Samosas, 3 Samosa (23g) Hyderabadi Masaledar",74.9,7.8,0.0,4.0,1.6,0.0,67.9,0.34,5.4,0.03,0.7,16.73,2.3,0.5,86.1,2.2,0.71,113,Snack,Pakistani,Snack
+"Aldi Bilash 8 Mini Vegetable Samosas, 3 Samosa (23g) Hyderabadi Light",74.2,7.7,0.0,3.0,1.3,0.0,45.1,0.26,5.1,0.1,0.27,9.61,3.2,1.25,8.0,17.2,0.54,231,Snack,Pakistani,Snack
+"Food Samosa Meat and Veg, 0.5 Samosa (35 Grams) - Grilled Home-cooked",18.2,2.5,0.0,0.5,1.7,0.0,7.7,0.36,8.5,0.23,0.07,0.11,9.2,0.02,82.1,3.7,0.52,132,Snack,Global,Snack
+"Samosa Vegetable Samosa, 1 samosa Crispy Home-cooked",57.1,4.4,0.0,6.9,0.9,0.0,0.1,0.17,6.8,0.02,0.57,18.57,35.0,1.26,112.9,17.1,0.6,154,Snack,Pakistani,Snack
+"Fitness raw nuts almonds, hazelnut, cashew, 125 g Crispy",295.0,11.7,0.0,28.6,11.8,0.0,0.0,0.17,3.8,0.03,0.22,0.29,33.8,1.31,31.9,34.1,0.3,308,Snack,Pakistani,Snack
+"Homemade (Anjum Anand Food Made Easy Recipe) <Potassium> Samosa Potato and Pea With Filo Pastry, 1.5 Samosa Herbed Slow-cooked",60.1,11.9,0.0,0.0,2.9,0.0,2.7,0.18,0.8,0.12,0.49,1.92,48.2,1.46,325.9,5.7,0.36,190,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Samosa, 1 Samosa Masaledar",61.4,6.8,0.0,1.2,1.0,0.0,41.7,0.3,8.3,0.03,0.05,10.82,13.7,0.8,204.8,15.4,0.17,69,Snack,Global,Snack
+"Asda Snacks Vegetable Samosa, 1 Samosa Masaledar Smoky",70.1,7.8,0.0,1.2,0.8,0.0,8.4,0.7,0.7,0.13,1.19,10.38,21.5,0.55,283.3,18.9,0.17,451,Snack,Global,Snack
+"Iceland Platter Vegetable Pakora, 2 vegetable pakora - Crispy - Punjabi",28.0,2.7,0.0,1.7,0.6,0.0,25.2,0.23,18.9,0.1,0.68,8.08,18.9,1.77,214.3,25.7,0.37,408,Snack,Pakistani,Snack
+Dried Dates Pudding Recipe - Spicy,67.5,7.4,0.0,4.3,2.5,0.0,4.6,0.18,0.7,0.21,0.03,4.27,6.4,0.31,135.6,17.1,0.1,275,Snack,Global,Snack
+"Homemade Kala Chana, 1 1/4 cup Light",88.0,14.6,0.0,1.0,4.5,0.0,0.0,0.17,2.2,0.24,0.22,14.88,50.4,0.46,96.7,23.3,0.47,202,Snack,Pakistani,Snack
+Seviyan (sweet vermicelli) Home-cooked Smoky Buttery Hyderabadi Hyderabadi,125.5,30.8,0.0,12.5,4.6,0.0,11.4,0.12,3.0,0.03,0.01,3.19,8.0,0.96,133.9,22.2,0.19,486,Snack,Pakistani,Snack
+"Chicken Pakora (Reverse Engineered), 235 g Tandoori Tandoori Slow-cooked",178.0,10.3,0.0,9.3,11.5,0.0,62.6,0.42,3.0,0.15,0.21,4.74,35.6,1.77,139.0,10.9,0.42,380,Snack,Pakistani,Snack
+"Neha's Inspired Frozen Yoghurt Mango & Honey Lassi, 100 g Low-fat Grilled",79.5,9.1,0.0,4.0,1.0,0.0,0.0,0.08,3.6,0.11,0.23,9.92,9.7,0.68,141.0,4.3,0.33,455,Snack,Pakistani,Snack
+"(Uk Sheek Kebab, 2 piece Hyderabadi Home-cooked",88.9,0.0,0.0,6.2,13.5,0.0,0.0,0.33,2.2,0.09,0.54,7.46,11.2,1.1,42.8,7.8,0.85,10,Snack,Pakistani,Snack
+"Sweets Gulab Jambun, 0.5 pc cooked Hyderabadi Dry",33.4,5.7,0.0,1.2,0.4,0.0,71.1,0.08,6.0,0.04,0.36,6.03,55.1,1.25,24.9,10.1,0.56,151,Snack,Pakistani,Snack
+Dry Fruits Mix Punjabi Punjabi,104.9,38.2,0.0,6.7,4.6,0.0,0.0,0.31,11.4,0.08,1.15,5.7,17.4,1.28,44.0,20.5,0.67,359,Snack,Pakistani,Snack
+"(Uk Sheek Kebab, 2 piece Hyderabadi Herbed Low-fat Grilled Light Low-fat Buttery",101.3,0.0,0.0,4.8,16.2,0.0,4.8,0.43,4.6,0.05,0.42,6.71,24.2,0.14,43.5,10.2,0.08,313,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Pakora, 2 Pakora Punjabi Slow-cooked Spicy Slow-cooked - Light",99.3,10.1,0.0,5.6,2.3,0.0,0.0,0.21,4.3,0.19,1.11,10.42,12.1,0.52,63.0,12.8,0.37,312,Snack,Pakistani,Snack
+Beef Seekh Kebab () Masaledar - Spicy Low-fat,203.6,3.9,0.0,13.3,14.6,0.0,0.0,0.31,8.0,0.11,0.67,1.08,7.6,1.15,19.3,10.4,0.58,257,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Samosa, 1 Samosa Slow-cooked",44.1,4.9,0.0,1.1,1.0,0.0,80.5,0.35,4.4,0.1,0.37,16.55,38.8,0.8,139.5,11.3,0.17,300,Snack,Global,Snack
+"Vegetable Samosa, 1 samosa Crispy",90.5,5.4,0.0,3.3,0.8,0.0,52.1,0.34,7.7,0.1,0.24,5.22,1.8,1.52,140.0,6.0,0.17,355,Snack,Pakistani,Snack
+"Heera Sweets Bhagut's Son Rolls Sweet -Flaky Pastry With Pistachios and Almonds, 1 =30g Smoky",59.4,8.7,0.0,2.4,0.8,0.0,0.0,0.0,2.0,0.01,0.88,5.95,8.0,0.28,177.7,5.9,0.09,339,Snack,Global,Snack
+"Iceland Platter Vegetable Samosas, 3 vegetable samosa Home-cooked Masaledar",37.8,4.9,0.0,1.4,0.9,0.0,43.8,0.45,8.1,0.24,0.02,0.72,48.2,1.09,162.8,22.0,0.33,357,Snack,Pakistani,Snack
+"Samosa Vegetable Samosa, 2 samosa Herbed Dry",96.1,7.4,0.0,11.2,1.2,0.0,46.1,0.14,0.4,0.02,0.45,18.93,40.0,0.8,185.2,26.0,0.0,315,Snack,Pakistani,Snack
+"Vegetable Samsosas Dish, 2 samosa Tandoori Masaledar Low-fat",67.9,9.4,0.0,2.9,1.4,0.0,67.9,0.27,6.4,0.04,0.45,23.94,0.1,0.33,177.4,4.4,0.24,238,Snack,Pakistani,Snack
+"Chana Masala (Savory Chick Peas) Recipe, 1 serving(s) Dry",90.4,11.8,0.0,3.7,4.2,0.0,39.3,0.06,1.5,0.04,0.31,1.9,14.3,0.72,185.4,25.6,0.02,118,Snack,Pakistani,Snack
+"Homemade Kala Chana, 2 cup - Grilled",168.0,28.2,0.0,1.4,5.5,0.0,0.0,0.36,1.3,0.01,0.62,12.54,2.0,2.01,22.7,0.1,0.22,169,Snack,Pakistani,Snack
+Keema Samosa Recipe Dry Grilled,47.5,8.5,0.0,1.4,0.5,0.0,30.5,0.21,0.9,0.04,0.76,3.33,16.8,0.18,101.4,23.9,0.75,467,Snack,Pakistani,Snack
+"Co-Op Mini Selection Mini Pakora, 2 Pakora Tandoori",39.2,0.0,0.0,1.0,0.0,0.0,0.0,0.26,12.5,0.01,0.85,1.24,56.3,2.13,124.7,12.8,0.89,197,Snack,Pakistani,Snack
+"night (chx tikka, rice, pakora), 1.25 serving(s) Buttery Low-fat Buttery",281.5,46.5,0.0,6.2,7.0,0.0,0.0,0.22,6.7,0.12,0.18,4.34,41.8,0.61,55.0,7.2,0.76,98,Snack,Pakistani,Snack
+"Aldi Bilash 8 Mini Vegetable Samosas, 3 Samosa (23g) Punjabi Low-fat Grilled",51.2,5.4,0.0,3.2,1.3,0.0,50.4,0.43,2.1,0.06,0.88,10.23,34.9,0.58,13.8,17.3,0.3,10,Snack,Pakistani,Snack
+"Samosa Chaat, 266.8 g Crispy Grilled Buttery",123.6,20.8,0.0,8.8,12.8,0.0,0.0,0.3,2.7,0.11,0.56,1.95,30.6,0.61,106.7,11.5,0.26,151,Snack,Global,Snack
+"Mango Lassi, 1 cup - Masaledar",41.5,9.3,0.0,0.5,1.6,0.0,21.3,0.25,9.3,0.15,0.03,7.05,41.2,0.3,120.4,5.9,0.2,167,Snack,Pakistani,Snack
+"Morrisons Mini Snack Vegetable Samosa, 1 Samosa Dry Low-fat",24.6,3.1,0.0,1.6,0.5,0.0,21.8,0.37,1.0,0.13,0.17,5.27,33.8,1.52,189.5,30.4,0.28,271,Snack,Pakistani,Snack
+"Food Samosa Meat and Veg, 1 Samosa (35 Grams) Light - Hyderabadi Crispy Smoky",31.4,4.6,0.0,0.8,3.6,0.0,33.9,0.45,0.9,0.01,0.09,5.03,12.1,0.54,99.6,4.5,0.37,114,Snack,Pakistani,Snack
+"Deep Gourmet Original Potato Pea Samosa, 1 Pieces (53g) Low-fat Slow-cooked",36.5,4.5,0.0,1.6,0.6,0.0,0.0,0.7,1.0,0.16,0.45,3.29,23.7,2.87,154.6,6.3,0.54,81,Snack,Pakistani,Snack
+"Tesco 12 Snack Selection (Mini Vegetable Pakoras), 2 pakora - Spicy - Punjabi",51.2,2.7,0.0,5.8,0.0,0.0,62.8,0.53,0.5,0.01,0.47,6.71,1.1,0.88,213.2,6.5,0.21,372,Snack,Pakistani,Snack
+"Schweppes Diet Tonic Water Classic Mixers, 0.5 container (750 mls ea.) Hyderabadi Buttery",10.8,0.0,0.0,0.0,0.0,0.0,0.0,0.32,3.4,0.01,0.01,6.26,7.0,0.14,278.3,7.6,0.67,278,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Samosas, 2 vegetable samosa Home-cooked Tandoori Low-fat",25.7,3.2,0.0,1.1,1.3,0.0,51.8,0.08,4.2,0.32,0.39,7.62,8.7,0.3,201.9,7.2,0.31,489,Snack,Pakistani,Snack
+"Pakoras Vegetable Fritters, 3 fritters - Spicy",43.8,2.9,0.0,4.2,0.9,0.0,18.5,0.38,12.2,0.05,0.87,3.1,37.9,2.96,318.0,10.5,0.52,61,Snack,Pakistani,Snack
+"Iceland Platter Vegetable Pakora, 2 vegetable pakora - Crispy - Home-cooked",30.5,3.0,0.0,1.9,0.6,0.0,24.4,0.28,0.3,0.05,1.07,4.65,31.9,0.13,42.1,11.3,1.47,337,Snack,Pakistani,Snack
+"Mango Lassi, 1.5 cup Tandoori Spicy",88.9,19.7,0.0,0.6,2.0,0.0,18.1,0.24,3.0,0.26,0.35,0.43,60.0,0.5,15.3,0.2,0.32,263,Snack,Pakistani,Snack
+"night (chx tikka, rice, pakora), 1.5 serving(s) Smoky",430.2,71.2,0.0,5.2,16.0,0.0,48.5,0.59,3.8,0.24,0.15,3.66,11.5,1.06,142.8,7.6,0.84,348,Snack,Pakistani,Snack
+"Homemade Kala Chana, 1 cup Herbed",61.2,10.1,0.0,1.3,2.5,0.0,0.0,0.2,5.0,0.08,0.48,8.74,26.7,1.74,75.7,3.5,0.17,18,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Samosa, 1 Samosa Masaledar Smoky Dry",70.8,7.9,0.0,1.2,0.9,0.0,76.4,0.31,7.5,0.05,0.17,1.63,5.5,1.99,126.9,22.5,0.38,291,Snack,Global,Snack
+"Tesco 12 Snack Selection (Mini Vegetable Pakoras), 2 pakora - Spicy Home-cooked",40.0,2.1,0.0,6.8,0.0,0.0,35.4,0.37,4.5,0.13,0.24,0.91,18.4,0.2,198.3,23.8,0.63,432,Snack,Pakistani,Snack
+"night (chx tikka, rice, pakora), 1.5 serving(s) Herbed",444.6,73.6,0.0,6.1,19.6,0.0,0.0,0.18,5.2,0.16,0.0,10.56,13.1,0.88,81.3,7.8,0.39,446,Snack,Pakistani,Snack
+"Samosa Vegetable Samosa, 1 samosa Tandoori",74.9,5.8,0.0,4.6,0.6,0.0,36.8,0.12,0.5,0.18,0.35,1.97,5.3,0.23,163.5,13.1,0.71,301,Snack,Pakistani,Snack
+"Asda Snacks Vegetable Pakora, 1 Pakora Masaledar Slow-cooked",44.9,4.7,0.0,3.0,1.4,0.0,40.3,0.16,3.1,0.07,0.31,18.46,5.2,0.81,118.1,11.6,0.37,327,Snack,Pakistani,Snack

@@ -1,0 +1,230 @@
+<div style="display:flex;flex-direction:column;gap:18px;padding:8px 4px 16px 4px;">
+  <!-- Header / actions -->
+  <div
+    style="display:flex;justify-content:space-between;align-items:center;gap:16px;padding:10px 14px;border-radius:14px;background:linear-gradient(120deg,rgba(15,23,42,0.96),rgba(30,64,175,0.85));box-shadow:0 18px 45px rgba(15,23,42,0.6);border:1px solid rgba(30,64,175,0.65);"
+  >
+    <div style="display:flex;flex-direction:column;gap:4px;min-width:0;">
+      <h2
+        class="section-title"
+        style="margin:0;font-size:1.2rem;font-weight:700;color:#e5e7eb;letter-spacing:0.03em;text-transform:uppercase;"
+      >
+        Your 6-Day Training Plan
+      </h2>
+      <p
+        style="margin:0;font-size:0.82rem;color:#9ca3af;max-width:520px;"
+      >
+        Structured split tailored to your current goal and experience. Follow the flow, log your progress, and adjust with smart swaps when needed.
+      </p>
+      <div style="display:flex;flex-wrap:wrap;gap:8px;margin-top:4px;">
+        <span
+          style="font-size:0.75rem;padding:3px 10px;border-radius:999px;border:1px solid rgba(56,189,248,0.7);background:rgba(15,23,42,0.7);color:#e0f2fe;"
+        >
+          Auto-generated from your NutriFit profile
+        </span>
+        <span
+          style="font-size:0.75rem;padding:3px 10px;border-radius:999px;border:1px solid rgba(52,211,153,0.7);background:rgba(6,95,70,0.55);color:#a7f3d0;"
+        >
+          Swap any exercise for alternatives
+        </span>
+      </div>
+    </div>
+
+    <div style="display:flex;flex-direction:column;align-items:flex-end;gap:8px;flex-shrink:0;">
+      <a
+        href="/progress"
+        style="display:inline-flex;align-items:center;justify-content:center;padding:8px 16px;border-radius:999px;background:#10b981;color:#ffffff;text-decoration:none;font-size:0.9rem;font-weight:600;box-shadow:0 10px 30px rgba(16,185,129,0.45);border:1px solid rgba(5,150,105,0.9);"
+      >
+        Track Progress
+      </a>
+      <button
+        id="download-pdf"
+        style="margin:0;padding:7px 14px;border-radius:999px;border:1px solid rgba(148,163,184,0.8);background:rgba(15,23,42,0.9);color:#e5e7eb;font-size:0.8rem;font-weight:500;cursor:pointer;display:inline-flex;align-items:center;gap:6px;"
+      >
+        <span style="width:10px;height:10px;border-radius:999px;background:#38bdf8;"></span>
+        Download PDF
+      </button>
+    </div>
+  </div>
+
+  <!-- Daily plan cards -->
+  <div style="display:flex;flex-direction:column;gap:14px;">
+    {% for day, exercises in plan.items() %}
+    <div
+      class="card"
+      style="padding:12px 14px 10px 14px;border-radius:14px;background:rgba(15,23,42,0.95);border:1px solid rgba(55,65,81,0.9);box-shadow:0 10px 30px rgba(15,23,42,0.7);"
+    >
+      <div
+        style="display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:8px;"
+      >
+        <div style="display:flex;flex-direction:column;gap:2px;">
+          <h3
+            style="margin:0;font-size:1rem;font-weight:600;color:#e5e7eb;letter-spacing:0.02em;"
+          >
+            {{ day }}
+          </h3>
+          <span
+            style="font-size:0.78rem;color:#9ca3af;"
+          >
+            Focused muscle groups and movements for this day.
+          </span>
+        </div>
+      </div>
+
+      <div style="display:flex;flex-direction:column;gap:10px;">
+        {% for ex in exercises %}
+        <div
+          class="exercise-item"
+          style="padding:10px 10px 8px 10px;border-radius:10px;background:rgba(17,24,39,0.96);border:1px solid rgba(55,65,81,0.9);display:flex;flex-direction:column;gap:6px;"
+        >
+          <div style="display:flex;justify-content:space-between;gap:10px;align-items:flex-start;">
+            <div style="display:flex;flex-direction:column;gap:2px;min-width:0;">
+              <div
+                style="font-size:0.9rem;font-weight:600;color:#e5e7eb;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;"
+              >
+                {{ ex.Exercise_Name }}
+              </div>
+              <div
+                style="font-size:0.78rem;color:#9ca3af;display:flex;flex-wrap:wrap;gap:6px;"
+              >
+                <span>{{ ex.Primary_Muscle }}</span>
+                <span style="opacity:0.55;">|</span>
+                <span>{{ ex.Equipment }}</span>
+                <span style="opacity:0.55;">|</span>
+                <span>{{ ex.Difficulty }}</span>
+              </div>
+            </div>
+            <div style="display:flex;flex-direction:column;align-items:flex-end;gap:4px;flex-shrink:0;">
+              <span
+                class="badge"
+                style="font-size:0.72rem;padding:2px 8px;border-radius:999px;background:rgba(15,23,42,0.9);border:1px solid rgba(96,165,250,0.9);color:#bfdbfe;"
+              >
+                MET {{ ex.MET }}
+              </span>
+              <span
+                class="badge"
+                style="font-size:0.72rem;padding:2px 8px;border-radius:999px;background:rgba(15,23,42,0.9);border:1px solid rgba(52,211,153,0.9);color:#a7f3d0;"
+              >
+                {{ ex.calories }} kcal / {{ duration }} min
+              </span>
+            </div>
+          </div>
+
+          <details style="margin-top:2px;">
+            <summary
+              style="cursor:pointer;font-size:0.78rem;color:#cbd5f5;list-style:none;"
+            >
+              <span style="text-decoration:underline;text-decoration-style:dotted;">
+                Instructions
+              </span>
+            </summary>
+            <p
+              style="margin:6px 0 0 0;font-size:0.78rem;color:#e5e7eb;line-height:1.4;"
+            >
+              {{ ex.Instructions }}
+            </p>
+          </details>
+
+          {% if ex.Video_URL %}
+  <div style="margin-top:10px; display:flex; justify-content:flex-start;">
+    <iframe
+      width="240"
+      height="135"
+      src="{{ ex.Video_URL }}"
+      title="{{ ex.Exercise_Name }} demo"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen
+      style="
+        border-radius:10px;
+        border:1px solid rgba(55,65,81,0.9);
+        box-shadow:0 10px 20px rgba(15,23,42,0.8);
+      "
+    ></iframe>
+  </div>
+{% endif %}
+
+
+          <div
+            style="display:flex;justify-content:space-between;align-items:center;gap:8px;margin-top:4px;"
+          >
+            <button
+              class="swap-btn"
+              data-exercise='{{ ex | tojson }}'
+              data-preference='{{ preference }}'
+              style="padding:6px 12px;border-radius:999px;border:1px solid rgba(251,191,36,0.9);background:rgba(24,24,27,0.95);color:#facc15;font-size:0.78rem;font-weight:500;cursor:pointer;display:inline-flex;align-items:center;gap:6px;"
+            >
+              <span style="width:10px;height:10px;border-radius:999px;background:#facc15;"></span>
+              Swap exercise
+            </button>
+            <span
+              style="font-size:0.72rem;color:#9ca3af;"
+            >
+              Prefer home / equipment-free? Try a swap.
+            </span>
+          </div>
+
+          <ul
+            class="alternatives"
+            style="margin:6px 0 0 0;padding-left:18px;list-style:disc;color:#e5e7eb;font-size:0.78rem;"
+          ></ul>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+  <!-- Overview / charts -->
+  <div
+    class="card"
+    style="padding:12px 14px 14px 14px;border-radius:14px;background:radial-gradient(circle at top left,rgba(96,165,250,0.12),transparent 55%),rgba(15,23,42,0.96);border:1px solid rgba(55,65,81,0.95);box-shadow:0 12px 32px rgba(15,23,42,0.8);display:flex;flex-direction:column;gap:8px;"
+  >
+    <div style="display:flex;justify-content:space-between;align-items:center;gap:10px;">
+      <div style="display:flex;flex-direction:column;gap:2px;">
+        <h3
+          style="margin:0;font-size:1rem;font-weight:600;color:#e5e7eb;letter-spacing:0.02em;"
+        >
+          Session Overview
+        </h3>
+        <span
+          style="font-size:0.8rem;color:#9ca3af;"
+        >
+          Energy cost, focus split, and projected 30-day progress based on this plan.
+        </span>
+      </div>
+      <div
+        style="font-size:0.8rem;color:#a5b4fc;padding:4px 10px;border-radius:999px;border:1px solid rgba(129,140,248,0.9);background:rgba(15,23,42,0.9);"
+      >
+        ~{{ total_calories }} kcal per full session block
+      </div>
+    </div>
+
+    <p
+      style="margin:4px 0 0 0;font-size:0.8rem;color:#e5e7eb;"
+    >
+      <strong>Total Estimated Calories (per session):</strong> {{ total_calories }}
+    </p>
+    <p id="progressSummary" style="margin:2px 0 4px 0;font-size:0.8rem;color:#cbd5f5;"></p>
+
+    <div
+      style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin-top:6px;align-items:stretch;"
+    >
+      <div style="min-height:200px;">
+        <canvas id="goalPie" width="400" height="200"></canvas>
+      </div>
+      <div style="min-height:200px;">
+        <canvas id="calorieBar" width="400" height="200" style="margin-top:0"></canvas>
+      </div>
+      <div style="min-height:200px;">
+        <canvas id="monthlyBar" width="400" height="200" style="margin-top:0"></canvas>
+      </div>
+    </div>
+  </div>
+
+  <div
+    class="footer"
+    style="font-size:0.78rem;color:#9ca3af;text-align:right;margin-top:2px;"
+  >
+    Note: Estimates are approximate and for guidance only.
+  </div>
+</div>
